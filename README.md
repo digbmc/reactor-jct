@@ -1,4 +1,4 @@
-.ve-style /assets/custom.css
+.ve-style ./assets/custom.css
 
 # Reactor Room Juncture
 
@@ -7,6 +7,10 @@
 ### History {href="/sample"}
 
 Campbell buried his face in his hands, and a shudder passed through him.
+
+### How it works
+
+Other text
 
 ### Accidents {href="/sample"}
 
