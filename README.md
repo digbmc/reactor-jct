@@ -1,6 +1,8 @@
 .ve-style ./assets/custom.css
 
-.ve-header "History of Nuclear Power" wc:Lukmanierpass%2C_Passo_del_Lucomagno._20-09-2022._%28actm.%29_04.jpg
+.ve-header "Nuclear Energy Basics" wc:Lukmanierpass%2C_Passo_del_Lucomagno._20-09-2022._%28actm.%29_04.jpg "By the 2023 Digital Scholarship Summer Fellows at Bryn Mawr College"
+    - [Home](/)
+    - [Sample](sample/)
 
 # Reactor Room Juncture
 
@@ -8,17 +10,17 @@
 
 ### History {href="/sample"}
 
-Campbell buried his face in his hands, and a shudder passed through him.
+All about the history of nuclear power
 
-### How it works
+### How it works {href="/sample"}
 
-Other text
+Basics of how nuclear power works
 
 ### Accidents {href="/sample"}
 
-"No, Alan, you must not leave the house. Write out on a sheet of notepaper what you want and my servant will take a cab and bring the things back to you."
+Nuclear accidents over time
 
-### Present & Future
+### Present & Future {href="/sample"}
 
-"Yes, it is my turn to dictate terms, Alan. You know what they are. The thing is quite simple. Come, don't work yourself into this fever. The thing has to be done. Face it, and do it."
+The present and future of nuclear energy
 
