@@ -6,7 +6,7 @@
 
 ## Intro
 
-This Juncture essay illustrates the use of a few ==Markdown=={Q1193600} formatting tags and the incorporation of an image and a map into a Juncture essay.
+This Juncture essay illustrates the use of a few ==Markdown=={Q1193600} formatting tags and the incorporation of an image and a map into a Juncture essay.[^1] Does [this internal link](#aulacophora-indica) work properly?
 
 .ve-media https://www.loc.gov/item/2007687055/manifest.json right
 
@@ -25,4 +25,6 @@ The image depicts a leaf beetle (Aulacophora indica) (Family: Chrysomelidae; sub
 
 This image is hosted on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_Bug_Peek.jpg) and was runner-up for Wikimedia Commons Picture of the Year for 2021.
 
-[Home](/reactor-jct)
+[Home](/)
+
+[^1]: Does this footnote work?
