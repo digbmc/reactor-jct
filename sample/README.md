@@ -6,7 +6,7 @@
 
 ## Intro
 
-This Juncture essay illustrates the use of a few ==Markdown=={Q1193600} formatting tags and the incorporation of an image and a map into a Juncture essay.[^1] Does [this internal link](#aulacophora-indica) work properly?
+This Juncture essay illustrates the use of a few ==Markdown=={Q1193600} formatting tags and the incorporation of an image and a map into a Juncture essay.[^1] Does [this internal link](#aulacophora-indica) work properly? Maybe it will with an ID on the header element?
 
 .ve-media https://www.loc.gov/item/2007687055/manifest.json right
 
@@ -17,7 +17,7 @@ Owls are interesting and complex creatures. This one isn't real. The owls are no
 .ve-map 40.00729,-75.28458 14
     - geojson=https://atmcgrath.github.io/map.geojson layer="Ardmore and Bryn Mawr" color=blue
 
-### Aulacophora indica
+### <em id="aulacophora-indica">Aulacophora indica</em>
 
 .ve-media wc:The_Bug_Peek.jpg full
 
