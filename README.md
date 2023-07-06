@@ -14,11 +14,11 @@ Notice that the header has a navigation menu. Now, to test out the footnote synt
 
 Here's how it behaves if the sub-pages are internal (does not open new tab)
 
-### History {href="https://www.juncture-digital.org/kseniaafm/essays"}
+### History {href="https://www.juncture-digital.org/leelasmelser/essays/digMockup/digmed"}
 
 All about the history of nuclear power
 
-### How it works {href="https://www.juncture-digital.org/leelasmelser/essays/digMockup/digmed"}
+### How it works {href="https://www.juncture-digital.org/kseniaafm/essays"}
 
 Basics of how nuclear power works
 
