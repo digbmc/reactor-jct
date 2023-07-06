@@ -4,9 +4,15 @@
     - [Home](/)
     - [Sample](sample/)
 
+Notice that the header has a navigation menu
+
 # Reactor Room Juncture
 
 ## Nuclear power {.cards}
+
+### Sample {href="/sample"}
+
+Here's how it behaves if the sub-pages are internal (does not open new tab)
 
 ### History {href="https://www.juncture-digital.org/kseniaafm/essays"}
 
