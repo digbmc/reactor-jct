@@ -4,7 +4,7 @@
     - [Home](/)
     - [Sample](sample/)
 
-Notice that the header has a navigation menu
+Notice that the header has a navigation menu. Now, to test out the footnote syntax.[^1]
 
 # Reactor Room Juncture
 
@@ -30,3 +30,4 @@ Nuclear accidents over time
 
 The present and future of nuclear energy
 
+[^1]: See the [Juncture documentation on how to add footnotes](https://www.juncture-digital.org/getting-started?id=add-footnotes) for more information.
