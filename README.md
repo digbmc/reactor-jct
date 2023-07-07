@@ -14,7 +14,7 @@
 
 Here's how it behaves if the sub-pages are internal (does not open new tab)
 
-### History {href="/nuclear-history"}
+### History {href="https://www.juncture-digital.org/leelasmelser/essays/digMockup/digmed"}
 
 All about the history of nuclear power
 
@@ -22,7 +22,7 @@ All about the history of nuclear power
 
 How nuclear power and reactors work
 
-### Accidents & Disasters {href="/nuclear-disasters"}
+### Accidents & Disasters {href="https://www.juncture-digital.org/szhong002/essays/nuclear-disasters"}
 
 Nuclear accidents over time
 
