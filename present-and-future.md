@@ -8,13 +8,18 @@
 For Asian countries, they are mostly leaning towards nuclear energy from their economics and increasing their energy demands perspective. Also nuclear power is green energy and sustainable for the environment as a lot of Asian countries are dependent on ==fossil fuel=={Q12748} energy and they are going under the minimum percentage of forest a country should have. So, with growing industries and populations,if nuclear power is handled with proper precaution, it is the most consistent energy option for their overall energy mix to ensure energy security and meet their rising electricity needs. [^1] [^5] [^10] [^11] [^17]  [^22] [^25] [^30] [^33] [^47] [^53] [^54] [^55]
 
 
-### Europe and nuclear power
+### Europe and nuclear power {.cards}
 
 The Chernobyl disaster majorly impacted on Europe's perception of nuclear power. The EU is concerned about the safety of nuclear reactors and their potential for catastrophic consequences. Phasing out or reducing their reliance on nuclear power was influenced by public sentiment, political factors, and a desire to prioritize other alternative energy sources such as renewable energy. Long-term environmental impact of nuclear power played a role as well. Issues such as radioactive waste disposal, the risk of accidents, and the potential for nuclear proliferation have raised questions about the sustainability and desirability of nuclear energy. [^10] [^12] [^22] [^25] [^26] [^35] [^36] [^40] [^41] [^42] [^44] [^47] [^48] [^53] [^60]
 
-However, it is noteworthy that nuclear power is not entirely absent in Europe. Countries like France and Sweden,still heavily rely on nuclear energy for electricity. Also, some countries are embracing advanced nuclear technologies, such as small modular reactors and fusion, hoping to lead to a reevaluation of nuclear power in the future. Western Europe’s Nuclear Need & Eastern Europe’s Nuclear Conflicts might be the reasons behind it. [^17] [^26] [^35] [^36] [^40] [^41]  [^42] [^44] [^47] [^48] [^53] [^60] If we look back some resources, it says - 
+However, it is noteworthy that nuclear power is not entirely absent in Europe. Countries like France and Sweden,still heavily rely on nuclear energy for electricity. Also, some countries are embracing advanced nuclear technologies, such as small modular reactors and fusion, hoping to lead to a reevaluation of nuclear power in the future. Western Europe’s Nuclear Need & Eastern Europe’s Nuclear Conflicts might be the reasons behind it. [^17] [^26] [^35] [^36] [^40] [^41]  [^42] [^44] [^47] [^48] [^53] [^60] 
 
-{.cards}
+.ve-iframe width=80% height=600px https://ourworldindata.org/grapher/nuclear-primary-energy?facet=none&country=BGD~BLR~AUT~BEL~BRA~CHN~CZE~FIN~FRA~DEU~HKG~HUN~ISL~IND~IDN~IRL~LTU~VNM~GBR~OWID_USS~TUR~THA~TWN~SWE~LKA~ESP~SVK~SGP~KOR~RUS~PRT~POL~PHL~PAK~NLD~LUX~MYS 
+
+.ve-iframe width=80% height=600px https://ourworldindata.org/grapher/annual-change-nuclear?time=latest&facet=none&country=AUT~BGD~BLR~BEL~CHN~CZE~FRA~FIN~DEU~HKG~HUN~ISL~IND~IDN~IRN~IRQ~IRL~JPN~KAZ~KWT~LTU~VNM~GBR~UKR~OWID_USS~TUR~THA~TWN~SWE~CHE~LKA~ESP~KOR~SVK~RUS~PRT~POL~PHL~PAK~NOR~NLD~NZL~MEX~MYS~LUX 
+
+.ve-iframe width=80% height=600px https://ourworldindata.org/grapher/annual-change-nuclear?tab=chart&facet=entity&country=OWID_ASI~OWID_EUR~Europe+%28BP%29~OWID_EU27~Asia+Pa 
+
 
 ##### Germany
 All the NPPs are shut down (most recently by April 2023). 
@@ -58,22 +63,14 @@ In 2004, it had to close two reactors as a condition of joining the EU.
 More than half the electricity produced from NPPs. 
 
 
-
-
-.ve-iframe width=80% height=600px https://ourworldindata.org/grapher/nuclear-primary-energy?facet=none&country=BGD~BLR~AUT~BEL~BRA~CHN~CZE~FIN~FRA~DEU~HKG~HUN~ISL~IND~IDN~IRL~LTU~VNM~GBR~OWID_USS~TUR~THA~TWN~SWE~LKA~ESP~SVK~SGP~KOR~RUS~PRT~POL~PHL~PAK~NLD~LUX~MYS 
-
-.ve-iframe width=80% height=600px https://ourworldindata.org/grapher/annual-change-nuclear?time=latest&facet=none&country=AUT~BGD~BLR~BEL~CHN~CZE~FRA~FIN~DEU~HKG~HUN~ISL~IND~IDN~IRN~IRQ~IRL~JPN~KAZ~KWT~LTU~VNM~GBR~UKR~OWID_USS~TUR~THA~TWN~SWE~CHE~LKA~ESP~KOR~SVK~RUS~PRT~POL~PHL~PAK~NOR~NLD~NZL~MEX~MYS~LUX 
-
-.ve-iframe width=80% height=600px https://ourworldindata.org/grapher/annual-change-nuclear?tab=chart&facet=entity&country=OWID_ASI~OWID_EUR~Europe+%28BP%29~OWID_EU27~Asia+Pa Aleksievich, Svetlana. Voices from Chernobyl: The Oral History of a Nuclear Disaster. Translated by 
-
-#### Is this the reason why Asia is not interested in the Russian-Ukrainian war?
+### World Power around the Russian-Ukrainian War
 The conflict between Russia and Ukraine is geographically distant from most Asian countries, and their immediate security concerns might be focused somewhere else. It's also true that the Russian-Ukrainian war has impacted global security and geopolitics, and some Asian countries' interests lies in the outcome (like China shares a border with Russia). Again economic or political ties (foreign policy objectives) to either Russia or Ukraine impacted the support for each country. Countries with significant trade or investment links to either country tends to have a stronger incentive to monitor the situation closely due to potential economic repercussions. [^11] [^14] [^22] [^25] [^53] [^54] [^55]
 
-#### Comparison with the Zaporizhzhya NPP that is currently playing a role in the Russian-Ukrainian warfare; comparison with Fukushima in how it’s handled & aftermath.
+### Zaporizhzhya NPP in the Russian-Ukrainian Warfare
 
 As ==Zaporizhzhya NPP=={Q909477}  was taken over by russian army. With continued shelling around the plant repeatedly cutting access to the electricity grid, it's last working reactor were planned to shut down. A stable electricity supply is important for any nuclear power plant to maintain cooling systems for radioactive fuel. Zaporizhzhya does have diesel generators to switch on when the primary electricity supply is cut, but they are not a long-term solution. The exact situation of not having continuous electricity to run the reactor worsened the situation of Chornobyl in the past, and also at ==Fukushima=={Q171178}  for the earthquake. Disaster at Zaporizhzhya, caused either by an accident or a deliberate attack, residents in Ukrainian towns and villages nearby could face the threat of radiation poisoning immediately or within a few hours. [^3] [^4] [^8] [^16] [^20] [^21] [^37] [^38]
 
-#### Ukraine’s Dam collapse
+### Ukraine’s Dam Collapse
 The destruction of the colossal ==Nova Kakhovka dam=={Q119210467} is the draining water supplies, farming in the region and the cooling of the Zaporizhzhia nuclear power plant. Tons of oil have been leaked & mixed with water, which will eventually fall into the Dnipro River and potentially the ==Black Sea=={Q166}. Kyiv has long warned of the danger of an attack on the dam. In this state, the dam’s destruction in the Kherson region is indicating a potential war crime which leads to another devastating consequence of the Russian invasion of Ukraine. [^7] [^10]
 
 ## Prevalence of nuclear power globally
