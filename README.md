@@ -6,7 +6,7 @@
       #juncture { font-family: EB+Garamond; }
       #juncture h1 {color: black; }
 
-.ve-header "The Basics of Nuclear Energy" wc:Lukmanierpass%2C_Passo_del_Lucomagno._20-09-2022._%28actm.%29_04.jpg "By the 2023 Digital Scholarship Summer Fellows at Bryn Mawr College"
+.ve-header "The Basics of Nuclear Energy" wc:Nuclear_Power_Plant_Cattenom.jpg04.jpg "By the 2023 Digital Scholarship Summer Fellows at Bryn Mawr College"
     - [Home](/)
     - [Sample](sample/)
     - [History](nuclear-history/)
