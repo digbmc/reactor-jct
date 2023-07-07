@@ -36,7 +36,7 @@ How nuclear power and reactors work
 
 Nuclear accidents over time
 
-### Present & Future {href="https://www.juncture-digital.org/editor/mftbusra/essays/present-and-future.md"}
+### Present & Future {href="/present-and-future"}
 ![](https://upload.wikimedia.org/wikipedia/commons/5/54/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3859%29.jpg)
 
 The present and future of nuclear energy
