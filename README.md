@@ -32,7 +32,7 @@ How nuclear power and reactors work
 
 Nuclear accidents over time
 
-### Present & Future {href="https://www.juncture-digital.org/editor/mftbusra/essays/present-and-future.md"}
+### Present & Future {href="/present-and-future"}
 
 The present and future of nuclear energy
 
