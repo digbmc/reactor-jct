@@ -8,7 +8,6 @@
 
 .ve-header "The Basics of Nuclear Energy" wc:Nuclear_Power_Plant_Cattenom.jpg "By the 2023 Digital Scholarship Summer Fellows at Bryn Mawr College"
     - [Home](/)
-    - [Sample](sample/)
     - [History](nuclear-history/)
     - [Science](science/)
     - [Disasters](nuclear-disasters/)
@@ -21,9 +20,6 @@
 
 ## Nuclear power {.cards}
 
-### Sample {href="/sample"}
-
-Here's how it behaves if the sub-pages are internal (does not open new tab)
 
 ### History {href="/nuclear-history"}
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Laura_and_Enrico_Fermi_1954.jpg)
