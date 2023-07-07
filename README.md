@@ -14,7 +14,7 @@ Notice that the header has a navigation menu. Now, to test out the footnote synt
 
 Here's how it behaves if the sub-pages are internal (does not open new tab)
 
-### History {href="https://www.juncture-digital.org/leelasmelser/essays/digMockup/digmed"}
+### History {href="/nuclear-history.md"}
 
 All about the history of nuclear power
 
@@ -22,7 +22,7 @@ All about the history of nuclear power
 
 Basics of how nuclear power works
 
-### Accidents {href="https://www.juncture-digital.org/szhong002/essays/nuclear-disasters"}
+### Accidents & Disasters {href="/nuclear-disasters"}
 
 Nuclear accidents over time
 
