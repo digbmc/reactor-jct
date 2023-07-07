@@ -218,19 +218,19 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 
 ## Further Reading {.cards}
 
-### Accidents & Disasters {href=#}
+### Accidents & Disasters {href=https://digbmc.github.io/reactor-jct/nuclear-disasters}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/15/Chernobyl_2019_G03.jpg)
 
 *Nuclear accidents over time.*
 
-### Present & Future {href=#}
+### Present & Future {href=https://digbmc.github.io/reactor-jct/present-and-future}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/54/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3859%29.jpg)
 
 *The present and future of nuclear energy.*
 
-### How It Works {href=#}
+### How It Works {href=https://digbmc.github.io/reactor-jct/science}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/30/NSC-Oct-2017.jpg)
 
