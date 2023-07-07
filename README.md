@@ -14,7 +14,7 @@ Notice that the header has a navigation menu. Now, to test out the footnote synt
 
 Here's how it behaves if the sub-pages are internal (does not open new tab)
 
-### History {href="/nuclear-history.md"}
+### History {href="/nuclear-history"}
 
 All about the history of nuclear power
 
