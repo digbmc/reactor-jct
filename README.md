@@ -14,19 +14,19 @@
 
 Here's how it behaves if the sub-pages are internal (does not open new tab)
 
-### History {href="https://www.juncture-digital.org/leelasmelser/essays/digMockup/digmed"}
+### History {href="/nuclear-history"}
 
 All about the history of nuclear power
 
-### How it works {href="https://www.juncture-digital.org/kseniaafm/essays"}
+### How it works {href="/science"}
 
 How nuclear power and reactors work
 
-### Accidents & Disasters {href="https://www.juncture-digital.org/szhong002/essays/nuclear-disasters"}
+### Accidents & Disasters {href="/nuclear-disasters"}
 
 Nuclear accidents over time
 
-### Present & Future {href="https://www.juncture-digital.org/katyalittle/essays/present-and-future"}
+### Present & Future {href="https://www.juncture-digital.org/editor/mftbusra/essays/present-and-future.md"}
 
 The present and future of nuclear energy
 
