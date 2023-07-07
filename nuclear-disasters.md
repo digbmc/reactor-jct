@@ -18,8 +18,8 @@
 |  <a href="#Orphaned-source-in-Goiania-Brazil">Orphaned source in Goiania Brazil</a><br />   | Orphaned source dispersal | 09/13/1987 |==5=={description="20 injuries"}[^12]|
 |  <a href="#Castle-Bravo-Nuclear-testing">Castle Bravo Nuclear testing</a><br />   | Nuclear testing       |  03/01/1954 |==1=={description="93+ injuries"}[^14]|
 |  <a href="#SL-1-Reactor-excursion">SL-1 Reactor excursion</a><br />   | Nuclear power plants       | 01/03/1961 |==3=={description="22 injuries"}[^18]|
-|  <a href="#3-mile-island">3-mile island</a><br />   | Nuclear power plants       | 03/28/1979 |==0=={description=""}|
-|  <a href="#Fukushima-Daiichi">Fukushima Daiichi</a><br />   | Nuclear power plants       | 03/11/2011|==1=={description="1 confirmed cancer death attributed to radiation, "}|
+|  <a href="#3-mile-island">3-mile island</a><br />   | Nuclear power plants       | 03/28/1979 |0|
+|  <a href="#Fukushima-Daiichi">Fukushima Daiichi</a><br />   | Nuclear power plants       | 03/11/2011|==1=={description="1 confirmed cancer death attributed to radiation,1000-2000 deaths attributed to evacuation and other disater-related causes"}|
 
 ## {.show-active}
 
@@ -35,7 +35,6 @@
     - Q1221 8 marker "Idaho"
     - Q488690 8 marker "Dauphin County, PA"
     -Q161176 8 marker "Fukushima"
-
     
 #### <a id="k19">k 19</a>
 
@@ -43,6 +42,9 @@ The K19 submarine was the first ballistic-missile equipped nuclear submarine, ca
 
 With no coolant system in place, the crew had to fix the leak using raincoats and gas masks. They managed to develop an effective cooling system with a drinking water supply, preventing fuel melting and a steam explosion. However, they were exposed to high levels of radiation, approximately ==50-60 Sv (5000-6000 rem)=={description="According to the International Commission on Radiological Protection, 1 Sv results in a 5.5% probability of eventually developing fatal cancer based on disputed linear no-threshold model of ionizing radiation exposure"}. Eight crew members who fixed the leak died within days. After replacing the reactor units, the K19 submarine was put back into use, but 22 out of the original crew of 139 died due to radiation exposure. [^2] 
 
+##### Human Factors
+
+The human factors involved in this incident include the person in charge of the test failing to report the damage to superiors and not performing necessary repairs. Additionally, the captain did not respond immediately after the leak occurred, and the crew members were sworn to secrecy, routinely lying to doctors during checkups for decades following the accident.
 
 #### <a id="k27">k 27</a>
 
@@ -91,7 +93,7 @@ As a result, all crew members were hospitalized, and aggressive blood transfusio
 The SL-1 reactor was a prototype reactor designed for easy assembly in remote locations.The reactor was water moderated and controlled by five aluminum-clad cadmium control rods. While three workers were reassembling the control rod drives on Jan 3 1961, one worker manually removed the center control rod rapidly over a 0.5-second period, causing the reactor to become supercritical. This resulted in a steam explosion with a total energy release of 1.3 x 108 joules, comparable to 30 kg of TNT. The worker who withdrew the rod was killed instantly by a control rod. The other two workers were burned and thrown by the explosion, with one dying instantly from impact and the other succumbing to head injuries and dying a few hours later. The release of radioactive material was largely contained within the building.
 High radiation levels delayed emergency responders’ entry into the reactor building. The bodies of the deceased workers were recovered on January 4 and January 9. In total, 22 personnel and responders received radiation doses ranging from 3 to 27 rads.[^17]
 
-## powerplant failures: consequences and responses 
+## Powerplant Failures: Consequences and Responses 
 #### <a id="3-mile-island">3-mile island</a>
 ##### Overview 
 
