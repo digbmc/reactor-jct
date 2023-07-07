@@ -1,7 +1,8 @@
 .ve-header "The History of Nuclear Power" wc:Laura_and_Enrico_Fermi_1954.jpg height=500 sticky
 
-## Origins of Nuclear Power
-The idea of the atom has been around for centuries – the Greeks believing that our world was made up of tiny, invisible particles they named *atoms*, from the word *atomos*, meaning indivisible. In 1789, a German chemist discovered the element Uranium – named after the planet Uranus. Then, in 1895, Wilhelm Röntgen discovered ionizing radiation – an energy released by atoms that appears as particles, like neutrons, or electromagnetic waves, like gamma or X-rays.[^1] Henri Becquerel discovered beta radiation in 1896 when he found that pitchblende, which contains both radium and uranium, caused a photographic plate to grow dark due to the beta radiation and the alpha particles that emitted from the pitchblende. In 1896, Marie and Pierre Curie deemed this emitting of particles *radioactivity* and went on to isolate polonium and radium from the pitchblende in 1898.[^2] Ernest Rutherford proved that radioactivity created a different element in 1902. In 1911, Frederick Soddy discovered that radioactive elements have different isotopes, or radionuclides, with the same chemistry. Rutherford then discovered nuclear rearrangement in 1919 when he fired alpha particles from radium into nitrogen, which created oxygen.[^3]
+## Origins of Nuclear Power[^1]
+
+The idea of the atom has been around for centuries – the Greeks believing that our world was made up of tiny, invisible particles they named *atoms*, from the word *atomos*, meaning indivisible.[^2] In 1789, a German chemist discovered the element Uranium – named after the planet Uranus. Then, in 1895, Wilhelm Röntgen discovered ionizing radiation – an energy released by atoms that appears as particles, like neutrons, or electromagnetic waves, like gamma or X-rays. Henri Becquerel discovered beta radiation in 1896 when he found that pitchblende, which contains both radium and uranium, caused a photographic plate to grow dark due to the beta radiation and the alpha particles that emitted from the pitchblende. In 1896, Marie and Pierre Curie deemed this emitting of particles *radioactivity* and went on to isolate polonium and radium from the pitchblende in 1898. Ernest Rutherford proved that radioactivity created a different element in 1902. In 1911, Frederick Soddy discovered that radioactive elements have different isotopes, or radionuclides, with the same chemistry. Rutherford then discovered nuclear rearrangement in 1919 when he fired alpha particles from radium into nitrogen, which created oxygen.[^3]
 
 [^1]: “Outline History of Nuclear Energy.” World Nuclear Association, Nov. 2020. [https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx](https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx)
 [^2]: “The History of Nuclear Energy.” The Department of Energy, [https://www.energy.gov/ne/articles/history-nuclear-energy](https://www.energy.gov/ne/articles/history-nuclear-energy)
@@ -15,8 +16,8 @@ The idea of the atom has been around for centuries – the Greeks believing that
 - James Chadwick discovers the neutron.
 - April 14th – John Cockcroft and Ernest Walton create nuclear transformations by bombarding atoms with accelerated protons.
 #### 1934
-- Irène and Frédéric Joliot-Curie discover artificial radionuclides, meaning radioactive elements can be artificially *created* from stable elements. [^11]
-[^11]: “Case Files: Enrico Fermi.” The Franklin Institute, 9 Feb. 2023, [https://www.fi.edu/en/news/case-files-enrico-fermi](https://www.fi.edu/en/news/case-files-enrico-fermi)
+- Irène and Frédéric Joliot-Curie discover artificial radionuclides, meaning radioactive elements can be artificially *created* from stable elements. [^4]
+[^4]: “Case Files: Enrico Fermi.” The Franklin Institute, 9 Feb. 2023, [https://www.fi.edu/en/news/case-files-enrico-fermi](https://www.fi.edu/en/news/case-files-enrico-fermi)
 #### 1935
 - October 22nd - Enrico Fermi discovers a method to create a greater variety of radionuclides using neutrons.
 #### 1938
@@ -60,24 +61,24 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - September 23rd - Lieutenant General Leslie Groves becomes director of the Manhattan Project
 - September 29th - Secretary of War Robert P. Patterson authorizes Site X, the Oak Ridge, Tennessee laboratory.
 - October 19th - Groves appoints Robert Oppenheimer to coordinate the project at Site Y, the Los Alamos, New Mexico laboratory.
-- **December 2nd - The first self-sustaining nuclear chain reaction takes place at the Chicago Pile-1 reactor at the University of Chicago by the Metallurgical Laboratory, or Met Lab.**[^21] Led by Professor Arthur Compton, Enrico Fermi, Leo Szilard, and Eugene Eigner, the reactor was built on an old squash court under the abandoned Stagg Field football stands, without permission from or notification of any elected officials, the Mayor of Chicago, or the President of the University. The Chicago Pile-1, or CP-1, was a 20 foot tall stack of graphite and uranium blocks arranged in 56 layers with cadmium control rods.[^22] The pile was completed December 1st. On December 2nd, 49 scientists gathered, and Fermi “directed the operators to slowly move the control rods, and their instruments clicked to record the neutron count. At 3:53 p.m., they recorded that a self-sustaining nuclear chain reaction was achieved for the first time ever. It had taken 28 minutes.”[^23]
+- **December 2nd - The first self-sustaining nuclear chain reaction takes place at the Chicago Pile-1 reactor at the University of Chicago by the Metallurgical Laboratory, or Met Lab.**[^5] Led by Professor Arthur Compton, Enrico Fermi, Leo Szilard, and Eugene Eigner, the reactor was built on an old squash court under the abandoned Stagg Field football stands, without permission from or notification of any elected officials, the Mayor of Chicago, or the President of the University. The Chicago Pile-1, or CP-1, was a 20 foot tall stack of graphite and uranium blocks arranged in 56 layers with cadmium control rods.[^6] The pile was completed December 1st. On December 2nd, 49 scientists gathered, and Fermi “directed the operators to slowly move the control rods, and their instruments clicked to record the neutron count. At 3:53 p.m., they recorded that a self-sustaining nuclear chain reaction was achieved for the first time ever. It had taken 28 minutes.”[^7]
 
 .ve-media wc:Chicago_pile_I_banner.jpg
 
-[^21]: Lerner, Louise. “The First Nuclear Reactor, Explained.” University of Chicago News, 25 May 2023, [https://news.uchicago.edu/explainer/first-nuclear-reactor-explained](https://news.uchicago.edu/explainer/first-nuclear-reactor-explained)
+[^5]: Lerner, Louise. “The First Nuclear Reactor, Explained.” University of Chicago News, 25 May 2023, [https://news.uchicago.edu/explainer/first-nuclear-reactor-explained](https://news.uchicago.edu/explainer/first-nuclear-reactor-explained)
 
-[^22]: Drapa, Michael. “Race to the First Nuclear Chain Reaction.” University of Chicago News, 23 Oct. 2017, [https://news.uchicago.edu/story/race-first-nuclear-chain-reaction](https://news.uchicago.edu/story/race-first-nuclear-chain-reaction)
+[^6]: Drapa, Michael. “Race to the First Nuclear Chain Reaction.” University of Chicago News, 23 Oct. 2017, [https://news.uchicago.edu/story/race-first-nuclear-chain-reaction](https://news.uchicago.edu/story/race-first-nuclear-chain-reaction)
 
-[^23]: Drapa, Michael. “Ted Petry, Last Known Witness to Pioneering Nuclear Reaction at UChicago, 1924-2018.” University of Chicago News, 7 Aug. 2018, [https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018](https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018)
+[^7]: Drapa, Michael. “Ted Petry, Last Known Witness to Pioneering Nuclear Reaction at UChicago, 1924-2018.” University of Chicago News, 7 Aug. 2018, [https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018](https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018)
 
 #### 1943
-- February 9th - Groves and Patterson approve the Hanford Site and build location in Benton County, Washington, for the world's first plutonium-producing reactor.[^31]
+- February 9th - Groves and Patterson approve the Hanford Site and build location in Benton County, Washington, for the world's first plutonium-producing reactor.[^8]
 - February 18th - Construction begins on the electromagnetic separation plant for enriching uranium at Oak Ridge, Tennessee.
 - April 1st - The Los Alamos Laboratory is established in New Mexico.
 - July - The Los Alamos Laboratory, Clinton Engineer Works (CEW), and Hanford Engineer Works (HEW) are designated as military districts, removing them from state control.
-- July 10th - The first sample of plutonium arrives at the Los Alamos Laboratory.[^32]
+- July 10th - The first sample of plutonium arrives at the Los Alamos Laboratory.[^9]
 - August 13th - The first drop test of a gun-type fission weapon at Dahlgren Proving Ground in Virginia takes place.
-- August 19th - President Roosevelt and Prime Minister Churchill sign the Quebec Agreement, merging the Tube Alloys with Manhattan Project.[^33]
+- August 19th - President Roosevelt and Prime Minister Churchill sign the Quebec Agreement, merging the Tube Alloys with Manhattan Project.[^10]
 - September 8th - The first meeting of the Combined Policy Committee is held to coordinate the atomic efforts of the United States, Great Britain, and Canada.
 - October 10th - Construction of the first Hanford Site reactor begins.
 - November 4th - The X-10 Graphite Reactor goes critical at Oak Ridge.
@@ -127,13 +128,13 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 .ve-media wc:Crossroads_Baker_bomb_explosion,_photographed_form_a_Grumman_F6F-5K_Hellcat_drone,_25_July_1946.jpg
 
 
-[^31]: “Manhattan Project Timeline.” National Parks Service, 4 Apr. 2023, [https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.](https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.)
+[^8]: “Manhattan Project Timeline.” National Parks Service, 4 Apr. 2023, [https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.](https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.)
 
 
-[^32]: “Timeline of the Manhattan Project.” Wikipedia, 11 Feb. 2023, [https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project](https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project)
+[^9]: “Timeline of the Manhattan Project.” Wikipedia, 11 Feb. 2023, [https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project](https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project)
 
 
-[^33]: “Timeline.” The National Museum of Nuclear Science & History, [https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/](https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/)
+[^10]: “Timeline.” The National Museum of Nuclear Science & History, [https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/](https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/)
 
 
 ### 1950s
@@ -162,10 +163,10 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - February 13th - France conducted their first nuclear test, making them the world’s 4th nuclear power.
 - November 22nd - The United States Navy commissioned the world’s largest ship, the USS Enterprise, a nuclear-powered aircraft carrier.
 #### 1961
-- October 30th - The Soviet Union tests a hydrogen bomb with a yield of **50 megatons** named *Tsar Bomba* – the biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about **15 megatons.**[^36]
-[^36]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
+- October 30th - The Soviet Union tests a hydrogen bomb with a yield of **50 megatons** named *Tsar Bomba* – the biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about **15 megatons.**[^11]
+[^11]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
 #### 1962
-- October 16th - 29th - The *Cuban Missile Crisis* was a thirteen-day period in which the United States and the Soviet Union came the closest to nuclear war.[^41]
+- October 16th - 29th - The *Cuban Missile Crisis* was a thirteen-day period in which the United States and the Soviet Union came the closest to nuclear war.[^12]
 #### 1963
 - August 5th - the *Test Ban Treaty* between the Soviet Union, the United States, and the United Kingdom was signed, limiting the kinds of nuclear testing that could be done. 
 #### 1964
@@ -173,14 +174,14 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 #### 1965
 - April 3rd - A nuclear reactor, SNAP-10A - Systems for Nuclear Auxiliary Power - is operated in space for the first time, launched by the United States.
 #### 1968
-- July 1st - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) signed.[^42]
+- July 1st - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) signed.[^13]
 #### 1969
 - 1969-1979 - The détente begins, easing the tension between the Soviet Union and the United States.
 .ve-media wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg
 
-[^41]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” Arms Races in International Politics: From the Nineteenth to the Twenty-First Century, Oxford University Press, [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
+[^12]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” Arms Races in International Politics: From the Nineteenth to the Twenty-First Century, Oxford University Press, [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
 
-[^42]: “U.S.-Russia Nuclear Arms Control.” Council on Foreign Relations, [https://www.cfr.org/timeline/us-russia-nuclear-arms-control](https://www.cfr.org/timeline/us-russia-nuclear-arms-control)
+[^13]: “U.S.-Russia Nuclear Arms Control.” Council on Foreign Relations, [https://www.cfr.org/timeline/us-russia-nuclear-arms-control](https://www.cfr.org/timeline/us-russia-nuclear-arms-control)
 
 ### 1970s
 #### 1970
@@ -193,22 +194,27 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - August 4th - President Carter signs the *Department of Energy Organization Act,* establishing the Department of Energy.
 - October 1st - The Department of Energy begins operations.
 #### 1979
-- March 28th - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.
+- March 28th - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.[^14]
 - June 17th - The United States and the Soviet Union signed the SALT II treaty, which limits the nuclear forces of both nations.
 - December 24th - The Soviet Union invaded Afghanistan, halting the consideration of the SALT II treaty and beginning a nine-year war.
 .ve-media wc:3MileIsland.jpg
+
+[^14]: “Backgrounder on the Three Mile Island Accident.” United States Nuclear Regulatory Commission, 15 Nov. 2015, [https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html)
+
 
 ### 1980s
 #### 1980
 - January 2nd - The détente ends after President Carter responds to the Soviet Union’s invasion of Afghanistan.
 #### 1983
 - January 7th - The *Nuclear Waste Policy Act* (NWPA) establishes a program for disposing of radioactive waste and spent fuel.
-- March 23rd - President Reagan announced Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.
+- March 23rd - President Reagan announced Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.[^15]
 #### 1986
-- **April 26th - Reactor 4 of the Chornobyl Power Plant in Pripyat, Ukraine, explodes.**
+- **April 26th - Reactor 4 of the Chornobyl Power Plant in Pripyat, Ukraine, explodes.**[^16]
 
 .ve-media wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg
 
+[^15]: “Strategic Defense Initiative (SDI).” The National Museum of Nuclear Science & History, 18 July 2018, [https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/](https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/)
+[^16]: Kenaston, Elliot. “The Accident: A Timeline of the Chernobyl Reactor Explosion.” [https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/](https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/)
 
 ## Further Reading {.cards}
 
