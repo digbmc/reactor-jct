@@ -4,6 +4,8 @@
     - [Home](/)
     - [Sample](sample/)
 
+    @import url(//fonts.googleapis.com/css2?family=EB+Garamond);
+    #juncture { font-family: EB+Garamond; }
 
 
 # Reactor Room Juncture
