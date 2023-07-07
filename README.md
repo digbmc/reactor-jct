@@ -3,6 +3,10 @@
 .ve-header "The Basics of Nuclear Energy" wc:Lukmanierpass%2C_Passo_del_Lucomagno._20-09-2022._%28actm.%29_04.jpg "By the 2023 Digital Scholarship Summer Fellows at Bryn Mawr College"
     - [Home](/)
     - [Sample](sample/)
+    - [History](nuclear-history/)
+    - [Science](science/)
+    - [Disasters](nuclear-disasters/)
+
 
     @import url(//fonts.googleapis.com/css2?family=EB+Garamond);
     #juncture { font-family: EB+Garamond; }
