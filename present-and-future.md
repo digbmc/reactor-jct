@@ -6,45 +6,45 @@
 ### Why is nuclear power moving towards Asia when Europe is backing out after the Chornobyl accident?(is it development/pre-caution or future concern?  {.cards} 
 For Asian countries, they are mostly leaning towards nuclear energy from their economics and increasing their energy demands perspective. Also nuclear power is green energy and sustainable for the environment as a lot of Asian countries are dependent on ==fossil fuel=={Q12748} energy and they are going under the minimum percentage of forest a country should have. So, with growing industries and populations,if nuclear power is handled with proper precaution, it is the most consistent energy option for their overall energy mix to ensure energy security and meet their rising electricity needs. [^1] [^5] [^10] [^11] [^17]  [^22] [^25] [^30] [^33] [^47] [^53] [^54] [^55]
 However, it is noteworthy that nuclear power is not entirely absent in Europe. Countries like France and Sweden,still heavily rely on nuclear energy for electricity. Also, some countries are embracing advanced nuclear technologies, such as small modular reactors and fusion, hoping to lead to a reevaluation of nuclear power in the future. Western Europe’s Nuclear Need & Eastern Europe’s Nuclear Conflicts might be the reasons behind it. [^17] [^26] [^35] [^36] [^40] [^41]  [^42] [^44] [^47] [^48] [^53] [^60] If we look back some resources, it says - 
-##### Germany {href=#} 
+##### Germany
 All the NPPs are shut down (most recently by April 2023). 
-##### Italy {href=#} 
+##### Italy
 After 1986 rejected all plans. 
 In 2007 Was thinking about a restoration attempt  
 In 2011 banned the use of nuclear power as the result of a referendum. 
-##### Austria {href=#}  
+##### Austria
 In 1978, held a referendum on building an NPP, the citizens voted against nuclear power, never operated.  
 In the 1960s, three small nuclear reactors were built for scientific purposes, and only one of these plants is still being operated. 
-##### Switzerland {href=#} 
+##### Switzerland
 In 1990, a referendum was held, citizens supported a ten-year moratorium on building new NPPs, but the four existing plants continued in operation. In 2017, the Swiss government rejected the construction of new NPPs. 
-##### UK {href=#}  
+##### UK
 have plans to close all the NPPs by 2035. 
-##### Belgium {href=#}  
+##### Belgiu
 have plans to close most of the NPPs by 2025, others by 2035. 
-##### France {href=#} 
+##### France
 68% of the country's annual electricity generation comes from NPPs. 
-##### Netherlands {href=#}  
+##### Netherlands
 one NPP reactor in operation, one NPP in safe enclosure, two research reactors, one enrichment plant 
-##### Ireland {href=#}  
+##### Ireland
 In 1999, electricity produced by nuclear fission was banned. 
-##### Russia {href=#}  
+##### Russia
 In 1987–2000, stopped building NPPs. 
 In the twenty-first century, Russia resumed the use of nuclear energy. Rosatom corporation consists of 360 enterprises and is currently building NPPs in twelve countries. 
-##### Belarus {href=#}  
+##### Belarus
 has returned to the use of NPPs.  
 In 2021, the first Belarusian NPP operated. 
 By 2023, another NPP will start operating. 
-##### Lithuania {href=#}  
+##### Lithuania
 Closed its NPP (the sole source of 70 percent of its electricity) 
-##### Poland {href=#}  
+##### Poland
 In the 1990 referendum, 86 percent of citizens voted against the use of nuclear power. 
 Proposal of own NPP in operation by 2030. 
-##### Czech Republic {href=#}  
+##### Czech Republic
 Has six reactors in operation and more in future. 
-##### Slovakia {href=#}  
+##### Slovakia
 Active four nuclear reactors. 
 In 2004, it had to close two reactors as a condition of joining the EU. 
-##### Ukraine {href=#}  
+##### Ukraine
 More than half the electricity produced from NPPs. 
 
 ### Europe and nuclear power
