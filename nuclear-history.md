@@ -21,7 +21,7 @@ The idea of the atom has been around for centuries – the Greeks believing that
 #### 1935
 - October 22nd - Enrico Fermi discovers a method to create a greater variety of radionuclides using neutrons.
 #### 1938
-- Otto Hahn and Fritz Strassmann split uranium apart, creating several lighter elements – such as barium – which demonstrated atomic fission.
+- Otto Hahn and Fritz Strassmann split uranium apart, creating several lighter elements – such as barium – which demonstrates atomic fission.
 #### 1939
 - Lise Meitner, Niels Bohr, and Otto Frisch used Hahn and Strassmann’s discovery to confirm Einstein’s theory of mass and energy from 1905 by calculating the masses of the fission products and finding that they did not equal the uranium’s mass, proving that it had been turned into energy during fission.
 - Leo Szilard and Fermi propose a new method of slowing emitted neutrons to more effectively cause fission.
@@ -86,7 +86,7 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 #### 1944
 - April 5th - Emilio Segre receives the first sample of plutonium from the Oak Ridge reactor and discovers that the fission rate is too high for a gun-type weapon.
 - July 4th - Oppenheimer reveals Segre’s measurements and the development of a gun-type plutonium weapon.
-- July 17th - The Thin Man gun-type is abandoned, as it is impractical to use with plutonium, making an implosion-type weapon, the Fat Man bomb, becomes a top priority. Research on uranium gun-type continues with Little Boy, a gun-type using Uranium-235 at Clinton Engineer Works in Oak Ridge, Tennessee.
+- July 17th - The *Thin Man* gun-type is abandoned, as it is impractical to use with plutonium, making an implosion-type weapon, the *Fat Man* bomb, becomes a top priority. Research on uranium gun-type continues with *Little Boy*, a gun-type using Uranium-235 at Clinton Engineer Works in Oak Ridge, Tennessee.
 - September 22nd - The first Radioactive Lanthanum, RaLa, Experiment with a radioactive source takes place at Los Alamos.
 - September 26th - The largest nuclear reactor, the B Reactor, goes critical at the Hanford Site.
 - November - Samuel Goudsmit concludes that German scientists didn’t make substantial progress towards nuclear bombs or reactors, as the programs were not a high priority.
@@ -226,7 +226,7 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 
 ### Present & Future {href=#}
 
-![]( )
+![](https://upload.wikimedia.org/wikipedia/commons/5/54/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3859%29.jpg)
 
 *The present and future of nuclear energy.*
 
@@ -235,4 +235,3 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 ![](https://upload.wikimedia.org/wikipedia/commons/3/30/NSC-Oct-2017.jpg)
 
 *How nuclear power and reactors work.*
-
