@@ -74,13 +74,13 @@ The man who carried the stolen source home received a dose of ==183,000 rads=={d
 
 #### <a id="Guangzhou-radiological-assault">Guangzhou radiological assault</a>
 
-A radiology scientist based in ==Guangzhou, China=={flyto:Q16572,7} used Iridium 192 pellets to target his colleague and former business partner. With forged documents, the scientist obtained an industrial machine containing Iridium 192 and enlisted an accomplice to help. They installed the machine above the ceiling panels in the victim's office and activated it when the victim was present.After approximately two months, the victim began to suspect a connection between his deteriorating health and radiation exposure. 
+A radiology scientist based in ==Guangzhou, China=={flyto:Q16572,7} used ==Iridium 192=={description="Iridium 192 is a man-made radioactive element commonly utilized in the medical field to combat cancer cells, produced through the irradiation of nonradioactive iridium in a nuclear reactor. "} pellets to target his colleague and former business partner. With forged documents, the scientist obtained an industrial machine containing Iridium 192 and enlisted an accomplice to help. They installed the machine above the ceiling panels in the victim's office and activated it when the victim was present.After approximately two months, the victim began to suspect a connection between his deteriorating health and radiation exposure. 
 
 The primary victim was exposed to a dose ranging from 70 to 150 rads, while an additional 78 hospital staff members were also injured.[^10]  
 
 #### <a id="San-Jose-Radiotherapy-incident">San Jose Radiotherapy incident</a>
 
-The ==San Jose=={flyto:Q3070,7}  Radiotherapy incident in 1996 involved a significant error in a Cobalt 60 radiotherapy unit, leading to overdosages of approximately 60%. This incident resulted in the deaths of 7 to 17 individuals, although there were debates regarding whether the deaths were caused by the radiotherapy exposure or the underlying illnesses themselves. Additionally, 81 individuals suffered injuries as a result of the overexposures. [^11]   
+The ==San Jose=={flyto:Q3070,7} radiotherapy incident in 1996 involved a significant error in a ==Cobalt 60=={description="Cobalt 60 (Co-60) is a radioactive isotope used in medical applications for radiotherapy treatment. It is produced as a byproduct of nuclear reactors when metal structures, such as steel rods, are exposed to neutron radiation."} radiotherapy unit, leading to overdosages of approximately 60%. This incident resulted in the deaths of 7 to 17 individuals, although there were debates regarding whether the deaths were caused by the radiotherapy exposure or the underlying illnesses themselves. Additionally, 81 individuals suffered injuries as a result of the overexposures. [^11]   
 
 #### <a id="Orphaned-source-in-Goiania-Brazil">Orphaned source in Goiania Brazil</a>
 
