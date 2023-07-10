@@ -52,7 +52,7 @@ Some say that the Chornobyl reactor was doomed to fail. That is due to the numer
 For more information on the design flaw topic: [Cutting Corners](https://digitalscholarship.brynmawr.edu/reactor-room/projects/cutting-corners/)
 
 
-###The post Choronobyl changes
+###The post Chornobyl changes
 In order to prevent further accidents, there were some modifications done to the reactor design for the health and safety of the operators and those in the surrounding area. The first was the reduction of the void coefficient of reactivity. In order to do that, the design was changed in three ways: 80-90 new neutron absorbers were installed in the core to inhibit operation at low power; the amount of control rods was increased from 26-30 rods to 43-48 rods; and fuel enrichment was increased from 2% to 2.4%. The second large modification was the improvement of the response efficiency of the emergency protection system. A fast-acting emergency protection system, FAEP, was installed which rapidly introduced negative reactivity. The third modification was the introduction of calculation programs to provide an indication of the value of the effective number of control rods remaining in the core in the control room so that the operators would make decisions based on recent and correct data. And lastly, measures were introduced to prevent operators from bypassing the emergency safety systems while the reactor is active. All of these design changes were necessary for the safety and security of the reactor and its operators. [^4]
 
 
