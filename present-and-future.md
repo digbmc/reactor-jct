@@ -9,7 +9,7 @@
 For Asian countries, they are mostly leaning towards nuclear energy from their economics and increasing their energy demands perspective. Also nuclear power is green energy and sustainable for the environment as a lot of Asian countries are dependent on ==fossil fuel=={Q12748} energy and they are going under the minimum percentage of forest a country should have. So, with growing industries and populations,if nuclear power is handled with proper precaution, it is the most consistent energy option for their overall energy mix to ensure energy security and meet their rising electricity needs. [^1] [^5] [^10] [^11] [^17]  [^22] [^25] [^30] [^33] [^47] [^53] [^54] [^55]
 
 
-### Europe and nuclear power {.tabs}
+### Europe and nuclear power {.cards}
 
 The Chernobyl disaster majorly impacted on Europe's perception of nuclear power. The EU is concerned about the safety of nuclear reactors and their potential for catastrophic consequences. Phasing out or reducing their reliance on nuclear power was influenced by public sentiment, political factors, and a desire to prioritize other alternative energy sources such as renewable energy. Long-term environmental impact of nuclear power played a role as well. Issues such as radioactive waste disposal, the risk of accidents, and the potential for nuclear proliferation have raised questions about the sustainability and desirability of nuclear energy. [^10] [^12] [^22] [^25] [^26] [^35] [^36] [^40] [^41] [^42] [^44] [^47] [^48] [^53] [^60]
 
