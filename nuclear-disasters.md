@@ -62,7 +62,7 @@ The captain did make a crucial decision to ignore orders from the division to cu
 
 #### <a id="Texas-radiological-assault">Texas radiological assault</a>
 
-A man from ==Harris County, Texas=={flyto:Q26676,7}had deliberately exposed his 11-year-old son to radiological material on multiple occasions, resulting in serious consequences. The man had obtained capsules of ==Cesium 137=={description="a radioactive isotope commonly used in medical devices, gauges, and also produced as a byproduct of nuclear weapons and reactors. It is worth noting that approximately 27 kg of Cesium 137 was generated during the Chornobyl disaster.[^5]"} and used under 5-7 occasions, placing it inside headphones, pillows and cushions used by his son. In 1973, a plastic surgeon diagnosed the boy's skin lesion as being radiation-induced, confirming the harmful effects of the exposure. 
+A man from ==Harris County, Texas=={flyto:Q26676,7}had deliberately exposed his 11-year-old son to radiological material on multiple occasions, resulting in serious consequences. The man had obtained capsules of ==Cesium 137=={description="a radioactive isotope commonly used in medical devices, gauges, and also produced as a byproduct of nuclear weapons and reactors. It is worth noting that approximately 27 kg of Cesium 137 was generated during the Chornobyl disaster.[^5]"}and used under 5-7 occasions, placing it inside headphones, pillows and cushions used by his son. In 1973, a plastic surgeon diagnosed the boy's skin lesion as being radiation-induced, confirming the harmful effects of the exposure. 
 
 As a result, the boy had to undergo 16 operations between 1974 and 1978, including numerous skin grafts and castration.[^7] 
 
