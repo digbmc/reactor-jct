@@ -2,7 +2,7 @@
 
 ## Nuclear Power and geopolitics
 
-## {.tabs style=height:1200px}
+## {.tabs}
 
 ### Expansion of Nuclear Power in Asia 
 
