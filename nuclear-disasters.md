@@ -48,21 +48,21 @@ The person in charge of the test failed to report the damage to superiors and di
 
 #### <a id="k27">k 27</a>
 
-K-27 was sent off on a five-day trip to conduct checkups for a 70-day mission, collecting data on two experimental liquid metal-cooled reactors, which featured a new design intended for the Soviet army. The goal was to have the first USSR submarine remain submerged for 50 consecutive days. 
+K-27 was sent off on a five-day trip to conduct checkups for a 70-day mission, collecting data on two experimental liquid metal-cooled reactors which featured a new design intended for the Soviet army. The goal was to have the first USSR submarine remain submerged for 50 consecutive days. 
 
 However, the system had a tendency to leak steam, leading to oxidation of the liquid metal coolant and necessitating regular clean-up. A coolant failure occured, possibly caused by the accumulation of oxide particles, resulting in overheating and the release of radioactive gas into the engine room. The submarine resurfaced at ==Novaya Zemlya=={flyto:Q80413,7}This incident led to the deaths of nine individuals and the poisoning of all 144 crew members. [^4] 
 
 ##### Human Factors
 
-The exhausted crew of the submarine faced a series of alarming oversights and neglect that put their health and safety at risk. Despite objections raised about the need to clean the reactor coolant, these concerns were disregarded. Adding to the perilous situation, the radiation detector in the compartment was switched off, and the crew was not monitoring their radiation dosimeters. 
+The exhausted crew of the submarine faced a series of alarming oversights and neglect that put their health and safety at risk. Objections raised about the need to clean the reactor coolant were overlooked. The radiation detector in the compartment was switched off, and the crew was not monitoring their radiation dosimeters. 
 
-When the submarine returned to dock, most of the crew members, who had been exposed to radiation, were compelled to walk back to the base. Several members were left on board the submarine to "keep watch," further exacerbating their exposure. A lack of proper medical checkups followed the incident, with many crew members being declared healthy by military doctors without thorough examination. 
+When the submarine returned to dock, most of the crew members who had been exposed to radiation were compelled to walk back to the base. Several members were left on board the submarine to "keep watch," further exacerbating their exposure. A lack of proper medical checkups followed the incident, with many crew members being declared healthy by military doctors without thorough examination. 
 
 The captain did make a crucial decision to ignore orders from the division to cut the engines and remain in the submarine. Recognizing the dangers of prolonged exposure, he took action to safeguard the crew by preventing further hours of potential radiation poisoning.
 
 #### <a id="Texas-radiological-assault">Texas radiological assault</a>
 
-A man from ==Harris County, Texas=={flyto:Q26676,7}had deliberately exposed his 11-year-old son to radiological material on multiple occasions, resulting in serious consequences. The man had obtained capsules of ==Cesium 137=={description="a radioactive isotope commonly used in medical devices, gauges, and also produced as a byproduct of nuclear weapons and reactors. It is worth noting that approximately 27 kg of Cesium 137 was generated during the Chornobyl disaster.[^5]"} and used under 5-7 occasions, placing it inside headphones, pillows and cushions used by the son. In 1973, a plastic surgeon diagnosed the boy's skin lesion as being radiation-induced, confirming the harmful effects of the exposure. 
+A man from ==Harris County, Texas=={flyto:Q26676,7}had deliberately exposed his 11-year-old son to radiological material on multiple occasions, resulting in serious consequences. The man had obtained capsules of ==Cesium 137=={description="a radioactive isotope commonly used in medical devices, gauges, and also produced as a byproduct of nuclear weapons and reactors. It is worth noting that approximately 27 kg of Cesium 137 was generated during the Chornobyl disaster.[^5]"} and used under 5-7 occasions, placing it inside headphones, pillows and cushions used by his son. In 1973, a plastic surgeon diagnosed the boy's skin lesion as being radiation-induced, confirming the harmful effects of the exposure. 
 
 As a result, the boy had to undergo 16 operations between 1974 and 1978, including numerous skin grafts and castration.[^7] 
 
