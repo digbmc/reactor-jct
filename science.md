@@ -7,7 +7,7 @@
 
 .ve-media wc:Liquid_drop_model_of_nuclear_fission.jpg right 
 
-The first law of thermodynamics asserts that heat is energy, which is generated in the process of nuclear fission. uclear reactors house this process, which splits atoms into smaller atoms which then generate heat and radiation. Fission occurs when a neutron hits a larger atom which is then split into two smaller atoms and some neutrons. The neutrons created from the split can then generate a chain reaction by hitting other large atoms and so on. In the case of most nuclear reactors, the fuel of choice is uranium, which acts as the large atom in nuclear fission. Uranium is the fuel of choice because its atoms easily split apart, it is easy to initiate and control, and it is abundant on Earth. [^1]
+The first law of thermodynamics asserts that heat is energy, which is generated in the process of nuclear fission. Nuclear reactors house this process, which splits the nucleus of an atom into smaller atoms which then generate heat and radiation. Fission occurs when a neutron hits a larger atom's nucleus which is then split into two smaller atoms and some neutrons. The neutrons created from the split can then generate a chain reaction by hitting other large atoms and so on. In the case of most nuclear reactors, the fuel of choice is uranium, which acts as the large atom in nuclear fission. Uranium is the fuel of choice because its atoms easily split apart, it is easy to initiate and control, and it is abundant on Earth. [^1]
 
 
 
@@ -18,7 +18,7 @@ Firstly, uranium is processed and enriched in order to increase the concentratio
 
 ###Types of reactors {.cards}
 
-There are two kinds of nuclear reactor designs currently used in the United States, and their main difference is the way they generate steam. One of them is the pressurized water reactor, which is more common. This kind of reactor uses the water as a medium for heat transfer, in which the hot water is kept under pressure and then used for the generation of steam, which is then used in the turbine for the electricity generator. The other reactor is the boiling water reactor, and it is less common. This reactor uses the heat that is coming off the fuel rods in order to heat the water directly. 
+There are two kinds of nuclear reactor designs currently used in the United States, and their main difference is the way they generate steam. One of them is the pressurized water reactor, which is more common. This kind of reactor uses water for cooling the reactor and for driving the electricity-generating turbines, however, those processes are separated via loops and don’t mix. The other reactor is the boiling water reactor, and it is less common. This reactor uses the same water that is used to cool and power the electricity-generating turbines. 
 
 
 
