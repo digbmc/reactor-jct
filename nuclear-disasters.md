@@ -44,7 +44,7 @@ With no coolant system in place, the crew had to fix the leak using raincoats an
 
 ##### Human Factors
 
-The human factors involved in this incident include the person in charge of the test failing to report the damage to superiors and not performing necessary repairs. Additionally, the captain did not respond immediately after the leak occurred, and the crew members were sworn to secrecy, routinely lying to doctors during checkups for decades following the accident.
+The person in charge of the test failed to report the damage to superiors and did not perform necessary repairs. Additionally, the captain did not respond immediately after the leak occurred. The crew members were sworn to secrecy, routinely lying to doctors during checkups for decades following the accident.
 
 #### <a id="k27">k 27</a>
 
