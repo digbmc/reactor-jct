@@ -18,7 +18,7 @@ Firstly, uranium is processed and enriched in order to increase the concentratio
 
 ###Types of reactors {.cards}
 
-There are two kinds of nuclear reactor designs currently used in the United States, and their main difference is the way they generate steam. One of them is the pressurized water reactor, which is more common. This kind of reactor uses water for cooling the reactor and for driving the electricity-generating turbines, however, those processes are separated via loops and don’t mix. The other reactor is the boiling water reactor, and it is less common. This reactor uses the same water that is used to cool and power the electricity-generating turbines. 
+There are two kinds of nuclear reactor designs currently used in the United States, and their main difference is the way they generate steam. One of them is the pressurized water reactor, which is more common. This kind of reactor uses water for cooling the reactor and for driving the electricity-generating turbines; however, those processes are separated via loops and don’t mix. The other reactor is the boiling water reactor, and it is less common. This reactor uses the same water that is used to cool and power the electricity-generating turbines. 
 
 
 
@@ -27,20 +27,20 @@ There are two kinds of nuclear reactor designs currently used in the United Stat
 
 ![](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2019/02/f59/Pressurized_Water_Reactor%201200%20x%20900-01_0.png?itok=0i6xJIWK)
 
-Water is heated by the nuclear reactor and kept under high pressures, afterward, it is transformed into steam by a steam generator which is used in the electric turbine[^2]
+Water is heated by the nuclear reactor and kept under high pressure. Afterward, it is transformed into steam by a steam generator which is used in the electric turbine[^2]
 
 #### Boiling Water Reactor
 
 ![](https://www.energy.gov/sites/default/files/styles/full_article_width/public/2019/02/f59/Boiling_Water_Reactor%201200%20x%20900-01_1.png?itok=3YaGV6RX)
 
-Water is heated by the nuclear reactor, the boiling temperatures produce steam which would then be used for electricity generation [^2]
+Water is heated by the nuclear reactor. The boiling temperatures produce steam which would then be used for electricity generation [^2]
 
 ###The Chornobyl reactor 
 
 ![](https://www.researchgate.net/profile/Mukhtar-Rana-3/publication/331021511/figure/fig2/AS:725131873763329@1549896319147/RBMK-design-of-the-Chernobyl-nuclear-reactor.jpg) 
 
 
-The previous two reactors were moderated and cooled by water, which means that the water slows down the neutrons used in nuclear fission. The type of reactor that was used in Chornobyl is an RBMK, a high-power channel reactor. This kind of reactor is cooled by water but controlled by graphite moderators. This means that the control rods which were boron with graphite tips with graphite moderators in between were used for slowing down neutrons in the reactor core. This reactor was created with several factors taken into account, mostly to save on costs. The first factor was that the fabrication of RBMK parts can be done at existing manufacturing plants, which would save money by not having to build new factories for parts. The energy output was also very important since most of the Soviet Union relied on nuclear energy for cheaper electricity, so the RBMK reactor had no upper power limits. The RBMK was considered to have a state-of-the-art safety protocol, with more than 1000 primary circuits which would increase the safety of the reactor system. Lastly, the fuel itself was highly efficient as it was able to use slightly less enriched uranium than in other common reactors which saved money. [^3]
+The previous two reactors were moderated and cooled by water, which means that the water slows down the neutrons used in nuclear fission. The type of reactor that was used in Chornobyl is an RBMK, a high-power channel reactor. This kind of reactor is cooled by water but controlled by graphite moderators. This means that the control rods, which were boron with graphite tips with graphite moderators in between, were used for slowing down neutrons in the reactor core. This reactor was created with several factors taken into account, mostly to save on costs. The first factor was that the fabrication of RBMK parts can be done at existing manufacturing plants, which would save money by not having to build new factories for parts. The energy output was also very important since most of the Soviet Union relied on nuclear energy for cheaper electricity, so the RBMK reactor had no upper power limits. The RBMK was considered to have a state-of-the-art safety protocol, with more than 1000 primary circuits which would increase the safety of the reactor system. Lastly, the fuel itself was highly efficient as it was able to use slightly less enriched uranium than in other common reactors which saved money. [^3]
 
 
 ###The reactor explosion
