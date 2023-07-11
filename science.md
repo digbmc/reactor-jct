@@ -7,7 +7,7 @@
 
 .ve-media wc:Liquid_drop_model_of_nuclear_fission.jpg right 
 
-The first law of thermodynamics asserts that heat is energy, which is generated in the process of nuclear fission. Nuclear reactors house this process, which splits the nucleus of an atom into smaller atoms which then generate heat and radiation. Fission occurs when a neutron hits a larger atom's nucleus which is then split into two smaller atoms and some neutrons. The neutrons created from the split can then generate a chain reaction by hitting other large atoms and so on. In the case of most nuclear reactors, the fuel of choice is uranium, which acts as the large atom in nuclear fission. Uranium is the fuel of choice because its atoms easily split apart, it is easy to initiate and control, and it is abundant on Earth. [^1]
+The first law of thermodynamics asserts that heat is energy, which is generated in the process of nuclear fission. The role of nuclear reactors is so house this process in order to reap its energy output. Fission occurs when a neutron hits a larger atom's nucleus which is then split into two smaller atoms and some neutrons. The neutrons created from the split can then generate a chain reaction by hitting other large atoms and so on. In the case of most nuclear reactors, the fuel of choice is uranium, which acts as the large atom in nuclear fission. Uranium is the fuel of choice because its atoms easily split apart, it is easy to initiate and control, and it is abundant on Earth. [^1]
 
 
 
