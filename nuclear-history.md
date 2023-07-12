@@ -1,8 +1,7 @@
 .ve-header "The History of Nuclear Power" wc:Laura_and_Enrico_Fermi_1954.jpg height=500 sticky
 
 ## Origins of Nuclear Power[^1]
-
-The idea of the atom has been around for centuries – the Greeks believing that our world was made up of tiny, invisible particles they named *atoms*, from the word *atomos*, meaning indivisible.[^2] In 1789, a German chemist discovered the element Uranium – named after the planet Uranus. Then, in 1895, Wilhelm Röntgen discovered ionizing radiation – an energy released by atoms that appears as particles, like neutrons, or electromagnetic waves, like gamma or X-rays. Henri Becquerel discovered beta radiation in 1896 when he found that pitchblende, which contains both radium and uranium, caused a photographic plate to grow dark due to the beta radiation and the alpha particles that emitted from the pitchblende. In 1896, Marie and Pierre Curie deemed this emitting of particles *radioactivity* and went on to isolate polonium and radium from the pitchblende in 1898. Ernest Rutherford proved that radioactivity created a different element in 1902. In 1911, Frederick Soddy discovered that radioactive elements have different isotopes, or radionuclides, with the same chemistry. Rutherford then discovered nuclear rearrangement in 1919 when he fired alpha particles from radium into nitrogen, which created oxygen.[^3]
+The idea of the atom has been around for centuries – the Greeks believed that our world was made up of tiny, invisible particles they named *atoms*, from the word *atomos*, meaning indivisible.[^2] In 1789, a German chemist discovered the element uranium, named after the planet Uranus. Then, in 1895, Wilhelm Röntgen discovered ionizing radiation, an energy released by atoms that appears as particles, like neutrons, or electromagnetic waves, like gamma or X-rays. Henri Becquerel discovered beta radiation in 1896 when he found that pitchblende, which contains both radium and uranium, caused a photographic plate to grow dark due to the beta radiation and the alpha particles that emitted from the pitchblende. In 1896, Marie and Pierre Curie deemed this emitting of particles *radioactivity* and went on to isolate polonium and radium from the pitchblende in 1898. Ernest Rutherford proved that radioactivity created a different element in 1902. In 1911, Frederick Soddy discovered that radioactive elements have different isotopes, or radionuclides, with the same chemistry. Rutherford then discovered nuclear rearrangement in 1919 when he fired alpha particles from radium into nitrogen, which created oxygen.[^3]
 
 [^1]: “Outline History of Nuclear Energy.” World Nuclear Association, Nov. 2020. [https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx](https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx)
 [^2]: “The History of Nuclear Energy.” The Department of Energy, [https://www.energy.gov/ne/articles/history-nuclear-energy](https://www.energy.gov/ne/articles/history-nuclear-energy)
@@ -16,17 +15,17 @@ The idea of the atom has been around for centuries – the Greeks believing that
 - James Chadwick discovers the neutron.
 - April 14th – John Cockcroft and Ernest Walton create nuclear transformations by bombarding atoms with accelerated protons.
 #### 1934
-- Irène and Frédéric Joliot-Curie discover artificial radionuclides, meaning radioactive elements can be artificially *created* from stable elements. [^4]
-[^4]: “Case Files: Enrico Fermi.” The Franklin Institute, 9 Feb. 2023, [https://www.fi.edu/en/news/case-files-enrico-fermi](https://www.fi.edu/en/news/case-files-enrico-fermi)
+- Irène and Frédéric Joliot-Curie discover that radioactive elements can be artificially *created* from stable elements.
 #### 1935
-- October 22nd - Enrico Fermi discovers a method to create a greater variety of radionuclides using neutrons.
+- October 22nd - Enrico Fermi discovers a method to create a greater variety of radionuclides using neutrons.[^4]
+[^4]: “Case Files: Enrico Fermi.” The Franklin Institute, 9 Feb. 2023, [https://www.fi.edu/en/news/case-files-enrico-fermi](https://www.fi.edu/en/news/case-files-enrico-fermi)
 #### 1938
 - Otto Hahn and Fritz Strassmann split uranium apart, creating several lighter elements – such as barium – which demonstrates atomic fission.
 #### 1939
-- Lise Meitner, Niels Bohr, and Otto Frisch used Hahn and Strassmann’s discovery to confirm Einstein’s theory of mass and energy from 1905 by calculating the masses of the fission products and finding that they did not equal the uranium’s mass, proving that it had been turned into energy during fission.
+- Lise Meitner, Niels Bohr, and Otto Frisch used Hahn and Strassmann’s discovery to confirm Albert Einstein’s theory of mass and energy from 1905. By calculating the masses of the fission products and finding that they did not equal the uranium’s mass, they prove that the lost mass had been turned into energy during fission.
 - Leo Szilard and Fermi propose a new method of slowing emitted neutrons to more effectively cause fission.
 - Francis Perrin demonstrates fission in a uranium and water mixture and uses a neutron-absorbing material to control the reaction.  
-- Werner Heisenberg calculated the possibility of a nuclear chain reaction and that it could generate energy.
+- Werner Heisenberg calculates the possibility of a nuclear chain reaction and that it could generate energy.
 - **September 1st - World War Two begins.**
 - October 11th - The Einstein-Szilard letter is delivered to Roosevelt, advising him to look into nuclear fission as a weapon, as Germany may already be researching it.
 - October 21st - The Advisory Committee on Uranium meets for the first time.
@@ -36,7 +35,7 @@ The idea of the atom has been around for centuries – the Greeks believing that
 
 ### 1940s
 #### 1940
-- Carl Friedrich von Weizsäcker concludes that if a “uranium machine” can sustain a chain reaction, the Uranium-238 could become ‘element 94,’ also known as plutonium.
+- Carl Friedrich von Weizsäcker concludes that if a “uranium machine” can sustain a chain reaction, then Uranium-238 could become ‘element 94,’ also known as plutonium.
 - April 10th - The MAUD Committee, a group of British scientists working to determine if an atomic bomb was possible, is established by Sir Henry Tizard.
 - June 12th - President Roosevelt creates the National Defense Research Committee (NDRC), which absorbs the Uranium Committee.
 
@@ -86,8 +85,8 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 #### 1944
 - April 5th - Emilio Segre receives the first sample of plutonium from the Oak Ridge reactor and discovers that the fission rate is too high for a gun-type weapon.
 - July 4th - Oppenheimer reveals Segre’s measurements and the development of a gun-type plutonium weapon.
-- July 17th - The *Thin Man* gun-type is abandoned, as it is impractical to use with plutonium, making an implosion-type weapon, the *Fat Man* bomb, becomes a top priority. Research on uranium gun-type continues with *Little Boy*, a gun-type using Uranium-235 at Clinton Engineer Works in Oak Ridge, Tennessee.
-- September 22nd - The first Radioactive Lanthanum, RaLa, Experiment with a radioactive source takes place at Los Alamos.
+- July 17th - The *Thin Man* gun-type is abandoned, as it is impractical to use with plutonium, making an implosion-type weapon, the *Fat Man* bomb, a top priority. Research on a uranium gun-type continues with *Little Boy*, a gun-type using Uranium-235 at Clinton Engineer Works in Oak Ridge, Tennessee.
+- September 22nd - The first Radioactive Lanthanum (RaLa) Experiment with a radioactive source takes place at Los Alamos.
 - September 26th - The largest nuclear reactor, the B Reactor, goes critical at the Hanford Site.
 - November - Samuel Goudsmit concludes that German scientists didn’t make substantial progress towards nuclear bombs or reactors, as the programs were not a high priority.
 
@@ -103,7 +102,7 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - July 24th - President Truman discloses to Premier Stalin that the United States has atomic bombs, something Premier Stalin knows already due to espionage.
 - July 25th - General Carl Spaatz is ordered to drop a bomb on either Hiroshima, Kokura, Niigata, or Nagasaki as soon as the weather permits after August 3rd.
 - July 26th - The Potsdam Declaration is issued, threatening Japan with destruction if it does not surrender.
-- August 6th - The B-29 plane ‘Enola Gay’ drops *Little Boy* Hiroshima.
+- August 6th - The B-29 plane ‘Enola Gay’ drops *Little Boy* on Hiroshima.
 - August 9th - The B-29 plane ‘Bockscar’ drops *Fat Man* on Nagasaki because Kokura was obscured by clouds and smoke.
 - August 15th - Japan surrenders.
 - September 8th - The Manhattan Project survey group under General Thomas Farrell arrives in Hiroshima.
@@ -113,8 +112,8 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 
 #### 1946
 - February - A Soviet spy ring in Canada is exposed by defector Igor Gouzenko, resulting in “atomic spy hysteria,” which pushed American Congressional discussions about postwar atomic regulation.
-- July 1st - The testing at Bikini Atoll in the Marshall Islands commenced with the test of the Able bomb as part of Operation Crossroads.
-- July 25th - The Baker bomb is tested at Bikini Atoll to determine the effects of a nuclear device underwater. Baker sank eight ships and permanently contaminated the rest.  
+- July 1st - The testing at Bikini Atoll in the Marshall Islands commences with the test of the Able bomb as part of Operation Crossroads.
+- July 25th - The Baker bomb is tested at Bikini Atoll to determine the effects of a nuclear device underwater. Baker sinks eight ships and permanently contaminates the rest.  
 - August 1st - President Truman signs the *Atomic Energy Act of 1946* into law, ending the uncertainty regarding control of atomic research in the postwar United States, as well as creating the Atomic Energy Commission (AEC) to control nuclear energy development and explore peaceful uses of nuclear energy.
 
 #### 1947
@@ -148,27 +147,27 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - March 1st - The United States performs the Castle Bravo test, resulting in the largest yield by an American nuclear device at about 15 megatons.
 #### 1955
 - July 17th - Arco, Idaho, becomes the first nuclear-powered town using the water boiler reactor BORAX III.
-- August 8th - 20th - The first United Nations International Conference on the Peaceful Uses of Atomic Energy was held in Geneva, Switzerland.
+- August 8th - 20th - The first United Nations International Conference on the Peaceful Uses of Atomic Energy is held in Geneva, Switzerland.
 - November 22nd - The Soviet Union tests its first hydrogen bomb.
 #### 1957
 - October 1st - The United Nations created the *International Atomic Energy Agency* (IAEA) to promote peaceful applications of nuclear power and to prevent the spread of nuclear weapons.
 - October - The first successful Soviet Union test of the intercontinental ballistic missile (ICBM) takes place, and Sputnik 1 is launched.
 #### 1958
-- The first successful United States test of ICBM took place, and NASA was created.
-- The United States, the Soviet Union, and the United Kingdom tested over 100 nuclear devices.
+- The first successful United States test of ICBM takes place, and NASA is created.
+- The United States, the Soviet Union, and the United Kingdom tests over 100 nuclear devices.
 .ve-media wc:Soviet_postage_stamp_commemorating_the_Conference_on_the_Peaceful_Uses_of_Atomic_Energy,_1958_-_DPLA_-_4c7c8f556f94242a4e83be85a2de6ae7.jpg
 
 ### 1960s
 #### 1960
-- February 13th - France conducted their first nuclear test, making them the world’s 4th nuclear power.
-- November 22nd - The United States Navy commissioned the world’s largest ship, the USS Enterprise, a nuclear-powered aircraft carrier.
+- February 13th - France conducts its first nuclear test, making it the world’s 4th nuclear power.
+- November 22nd - The United States Navy commissions the world’s largest ship, the USS Enterprise, a nuclear-powered aircraft carrier.
 #### 1961
 - October 30th - The Soviet Union tests a hydrogen bomb with a yield of **50 megatons** named *Tsar Bomba* – the biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about **15 megatons.**[^11]
 [^11]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
 #### 1962
-- October 16th - 29th - The *Cuban Missile Crisis* was a thirteen-day period in which the United States and the Soviet Union came the closest to nuclear war.[^12]
+- October 16th - 29th - The *Cuban Missile Crisis* is a thirteen-day period in which the United States and the Soviet Union come the closest to nuclear war.[^12]
 #### 1963
-- August 5th - the *Test Ban Treaty* between the Soviet Union, the United States, and the United Kingdom was signed, limiting the kinds of nuclear testing that could be done. 
+- August 5th - The *Test Ban Treaty* between the Soviet Union, the United States, and the United Kingdom is signed, limiting the kinds of nuclear testing that can be done. 
 #### 1964
 - President Johnson signs the *Private Ownership of Special Nuclear Materials Act,* allowing the nuclear power industry to create its own fuel and requiring private ownership of uranium fuel.
 #### 1965
@@ -187,7 +186,7 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 #### 1970
 - March 5th - The *Treaty for Non-Proliferation of Nuclear Weapons* becomes effective.
 #### 1972
-- May 26th - The *Interim Strategic Arms Limitation Treaty,* or SALT I, and the *Anti-Ballistic Missile* Treaty, or ABM, was signed by the United States and the Soviet Union. 
+- May 26th - The *Interim Strategic Arms Limitation Treaty,* or SALT I, and the *Anti-Ballistic Missile* Treaty, or ABM, is signed by the United States and the Soviet Union. 
 #### 1974
 - October 11th - The *Energy Reorganization Act* of 1974 divides the Atomic Energy Commission’s functions, creating the Energy Research and Development Administration (ERDA) for research and design and the Nuclear Regulatory Commission (NRC) to regulate nuclear power.
 #### 1977
@@ -195,8 +194,8 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - October 1st - The Department of Energy begins operations.
 #### 1979
 - March 28th - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.[^14]
-- June 17th - The United States and the Soviet Union signed the SALT II treaty, which limits the nuclear forces of both nations.
-- December 24th - The Soviet Union invaded Afghanistan, halting the consideration of the SALT II treaty and beginning a nine-year war.
+- June 17th - The United States and the Soviet Union sign the SALT II treaty, which limits the nuclear forces of both nations.
+- December 24th - The Soviet Union invades Afghanistan, halting the consideration of the SALT II treaty and beginning a nine-year war.
 .ve-media wc:3MileIsland.jpg
 
 [^14]: “Backgrounder on the Three Mile Island Accident.” United States Nuclear Regulatory Commission, 15 Nov. 2015, [https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html)
@@ -207,7 +206,7 @@ August 20th - Prime Minister Churchill becomes the first leader to approve a nuc
 - January 2nd - The détente ends after President Carter responds to the Soviet Union’s invasion of Afghanistan.
 #### 1983
 - January 7th - The *Nuclear Waste Policy Act* (NWPA) establishes a program for disposing of radioactive waste and spent fuel.
-- March 23rd - President Reagan announced Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.[^15]
+- March 23rd - President Reagan announces the Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.[^15]
 #### 1986
 - **April 26th - Reactor 4 of the Chornobyl Power Plant in Pripyat, Ukraine, explodes.**[^16]
 
