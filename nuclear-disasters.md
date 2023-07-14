@@ -18,7 +18,7 @@
 |  <a href="#Orphaned-source-in-Goiania-Brazil">Orphaned source in Goiania Brazil</a><br />   | Orphaned source dispersal | 09/13/1987 |==5=={description="20 injuries"}[^12]|
 |  <a href="#Castle-Bravo-Nuclear-testing">Castle Bravo Nuclear testing</a><br />   | Nuclear testing       |  03/01/1954 |==1=={description="93+ injuries"}[^14]|
 |  <a href="#SL-1-Reactor-excursion">SL-1 Reactor excursion</a><br />   | Nuclear power plants       | 01/03/1961 |==3=={description="22 injuries"}[^18]|
-|  <a href="#3-mile-island">3-mile island</a><br />   | Nuclear power plants       | 03/28/1979 |0|
+|  <a href="#Three-mile-island"> Three mile island</a><br />   | Nuclear power plants       | 03/28/1979 |0|
 |  <a href="#Fukushima-Daiichi">Fukushima Daiichi</a><br />   | Nuclear power plants       | 03/11/2011|==1=={description="1 confirmed cancer death attributed to radiation,1000-2000 deaths attributed to evacuation and other disater-related causes"}|
 
 ## {.show-active}
@@ -102,7 +102,7 @@ The SL-1 reactor was a prototype reactor designed for easy assembly in remote lo
 High radiation levels delayed emergency responders’ entry into the reactor building. The bodies of the deceased workers were recovered on January 4 and January 9. In total, 22 personnel and responders received radiation doses ranging from 3 to 27 rads.[^17]
 
 ## Powerplant Failures: Consequences and Responses 
-#### <a id="3-mile-island">3-mile island</a>
+#### <a id="Three-mile-island">Three mile island</a>
 ##### Overview 
 
 On March 28, 1979, the Unit 2 reactor at Three Mile Island, located near Middletown, Pennsylvania, experienced a partial meltdown. This incident is widely considered as the most significant accident in the history of commercial nuclear power plants in the United States despite its limited radioactive releases. It initiated significant changes made in aspects of nuclear power plant operations and regulations, including emergency response planning, reactor operator training, human factors engineering, and radiation protection. 
