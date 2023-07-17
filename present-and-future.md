@@ -46,44 +46,47 @@ PRIS - Reactor Status Reports - In Operation & Suspended Operation - By Region. 
 Prokip, Andrian. “Anniversary of Chernobyl Finds European Nuclear Power at a Crossroad.” THE HISTORY OF CHERNOBYL: 35 YEARS LATER, 24 Apr. 2020, https://www.wilsoncenter.org/blog-post/anniversary-chernobyl-finds-european-nuclear-power-crossroad. Accessed 7 July 2023;
 Thomas, S. D. The Realities of Nuclear Power: International Economic and Regulatory Experience. Cambridge University Press, 1988, https://tripod.brynmawr.edu/permalink/01TRI_INST/1ijd0uu/alma991003033149704921. Accessed 7 July 2023;
 and Росатом Госкорпорация «Росатом» ядерные технологии атомная энергетика АЭС ядерная медицина. 14:37 2021, https://www.rosatom.ru/journalist/news/energoblok-1-belorusskoy-aes-prinyat-v-promyshlennuyu-ekspluatatsiyu/. Accessed 7 July 2023.
+ 
 
-### Germany
-All NPPs are shut down (most recently in April 2023). 
-### Italy
-After 1986 rejected all plans. 
-In 2007 considered a restoration attempt. 
-In 2011 banned the use of nuclear power as the result of a referendum. 
 ### Austria
 In 1978, held a referendum on building a NPP, the citizens voted against nuclear power, never operated.  
 In the 1960s, three small nuclear reactors were built for scientific purposes, and only one of these plants is in operation. 
-### Switzerland
-In 1990, a referendum was held, citizens supported a ten-year moratorium on building new NPPs, but the four existing plants continued in operation. In 2017, the Swiss government rejected the construction of new NPPs. 
-### UK
-Plans to close all NPPs by 2035. 
-### Belgium
-Plans to close most NPPs by 2025, others by 2035. 
-### France
-68% of the country's annual electricity generation comes from NPPs. 
-### Netherlands
-One NPP reactor in operation, one NPP in safe enclosure, two research reactors, one enrichment plant 
-### Ireland
-In 1999, electricity produced by nuclear fission was banned. 
-### Russia
-In the twenty-first century, Russia resumed the use of nuclear energy. Rosatom corporation consists of 360 enterprises and is currently building NPPs in twelve countries. 
 ### Belarus
 has recently started to use the NPPs.
 In 2021, the first Belarusian NPP operated. 
 By 2023, another NPP will start operating. 
+### Belgium
+Plans to close most NPPs by 2025, others by 2035. 
+### Czech Republic
+Has six reactors in operation and more in future. 
+### France
+68% of the country's annual electricity generation comes from NPPs. 
+### Germany
+All NPPs are shut down (most recently in April 2023).
+### Italy
+After 1986 rejected all plans. 
+In 2007 considered a restoration attempt. 
+In 2011 banned the use of nuclear power as the result of a referendum. 
+### Ireland
+In 1999, electricity produced by nuclear fission was banned. 
 ### Lithuania
 Closed its NPP (the sole source of 70 percent of its electricity).
+### Netherlands
+One NPP reactor in operation, one NPP in safe enclosure, two research reactors, one enrichment plant. 
 ### Poland
 In the 1990 referendum, 86 percent of citizens voted against the use of nuclear power. 
 Proposal of own NPP in operation by 2030. 
-### Czech Republic
-Has six reactors in operation and more in future. 
+### Russia
+In the twenty-first century, Russia resumed the use of nuclear energy. 
+Rosatom corporation consists of 360 enterprises and is currently building NPPs in twelve countries. 
 ### Slovakia
 Has active four nuclear reactors. 
-In 2004, it had to close two reactors as a condition of joining the EU. 
+In 2004, it had to close two reactors as a condition of joining the EU.
+### Switzerland
+In 1990, a referendum was held, citizens supported a ten-year moratorium on building new NPPs, but the four existing plants continued in operation. 
+In 2017, the Swiss government rejected the construction of new NPPs.  
+### UK
+Plans to close all NPPs by 2035. 
 ### Ukraine
 More than half of the electricity produced from NPPs. 
 
