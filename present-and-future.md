@@ -114,7 +114,7 @@ and “Ukraine War: What Support Is China Giving Russia?” BBC News, 4 Mar. 202
 
 ## Russian-Ukrainian War
 
-### The Balance of World Power
+#### The Balance of World Power
 The conflict between Russia and Ukraine is geographically distant from most Asian countries, whose immediate security concerns may be more focused on geopolitical tensions in the Middle East, the Korean Peninsula, and around South Asia. These conflicts are often considered a result of nuclear  proliferation. 
 
 However, it is also true that the Russian-Ukrainian war has impacted global security and geopolitics, and some Asian countries' interests lies in the outcome (for example, China shares a border with Russia). Each country's economic or political ties to Russia or Ukraine have impacted their support for either country: countries with significant trade or investment links to either country tends to have a stronger incentive to monitor the situation closely due to potential economic repercussions. 
@@ -130,7 +130,7 @@ Thomas, S. D. The Realities of Nuclear Power: International Economic and Regulat
 Toth, Ferenc L. Nuclear Energy in Combating Climate Change in Asia and the Pacific. International Atomic Energy Agency, 2012, https://www.undp.org/sites/g/files/zskgke326/files/migration/asia_pacific_rbap/RBAP-HDR-2012-APHDR-TBP-18.pdf. Accessed 7 July 2023;
 and “Ukraine War: What Support Is China Giving Russia?” BBC News, 4 Mar. 2022, https://www.bbc.com/news/60571253. Accessed 7 July 2023.
 
-### Zaporizhzhya Nuclear Power Plant 
+#### Zaporizhzhya Nuclear Power Plant 
 The ==Zaporizhzhya Nuclear Power Plant=={Q909477}  was attacked by the Russian army along with its surrounding oblast in March 2022, with continued shelling around the plant repeatedly cutting access to the electricity grid. As a result, its last working reactor was scheduled to be shut down. A stable electricity supply is important for any nuclear power plant to maintain cooling systems for radioactive fuel. Zaporizhzhya does have diesel generators to switch on when the primary electricity supply is cut, but they are not a long-term solution. The exact situation of not having continuous electricity to run the reactor worsened the situation of Chornobyl in the past, and also at ==Fukushima=={Q171178} during the earthquake. If any disaster caused at Zaporizhzhya, either by an accident or a deliberate attack during future fighting, residents in Ukrainian towns and villages nearby it could face the threat of radiation poisoning immediately or within a few hours. [^5]
 
 [^5]: See:
@@ -142,7 +142,7 @@ Brumfiel, Geoff, et al. “Video Analysis Reveals Russian Attack on Ukrainian Nu
 Mandler, C. What’s at Stake with Ukraine’s Zaporizhzhia Nuclear Power Plant, and How Does It Compare to Chernobyl? - CBS News. 14 Sept. 2022, https://www.cbsnews.com/news/ukraine-zaporizhzhia-nuclear-power-plant-risks-chernobyl-comparison/.  Accessed 7 July 2023;
 and Nancy, Jean-Luc. After Fukushima: The Equivalence of Catastrophes. First Edition, Fordham University Press, 2015, https://tripod.brynmawr.edu/permalink/01TRI_INST/160urp0/alma991009892059704921. Accessed 7 July 2023.
 
-### Ukraine’s Dam Collapse
+#### Ukraine’s Dam Collapse
 The destruction of the colossal ==Nova Kakhovka dam=={Q119210467} is draining the water supplies, farming in the region and the cooling of the Zaporizhzhya nuclear power plant. Tons of oil have been leaked and mixed with water, which will eventually fall into the Dnipro River and potentially the ==Black Sea=={Q166}. Kyiv has long warned of the danger of an attack on the dam. In this state, the dam’s destruction in the Kherson region marks a potential war crime which leads to another devastating consequence of the Russian invasion of Ukraine. [^6]
 
 [^6]: See:
