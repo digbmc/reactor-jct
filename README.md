@@ -2,9 +2,9 @@
       
 .ve-style ./assets/custom.css
 
-    [//]:  @import url(//fonts.googleapis.com/css2?family=EB+Garamond);
-      [//]: #juncture { font-family: EB+Garamond; }
-     [//]:  #juncture h1 {color: black; }
+    @import url(//fonts.googleapis.com/css2?family=EB+Garamond);
+    #juncture { font-family: EB+Garamond; }
+    #juncture h1 {color: black; }
 
 .ve-header "The Basics of Nuclear Energy" wc:Nuclear_Power_Plant_Cattenom.jpg "By the 2023 Digital Scholarship Summer Fellows at Bryn Mawr College"
     - [Home](/)
