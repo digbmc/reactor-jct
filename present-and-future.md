@@ -14,7 +14,7 @@ As nuclear energy is spreading rapidly in today's world, it is interwining the g
 ## Europe and Nuclear Power {.cards}
 The Chernobyl disaster majorly impacted on Europe's perception of nuclear power. The EU is concerned about the safety of nuclear reactors and their potential for catastrophic consequences. Phasing out or reducing their reliance on nuclear power was influenced by public sentiment, political factors, and a desire to prioritize other alternative energy sources such as renewable energy. Long-term environmental impact of nuclear power played a role as well. Issues such as radioactive waste disposal, the risk of accidents, and the potential for nuclear proliferation have raised questions about the sustainability and desirability of nuclear energy. [^1]
 
-[^1] See:
+[^1]: See:
 Clemmer, Steve, et al. The Nuclear Power Dilemma: Declining Profits, Plant Closures, and the Threat of Rising Carbon Emissions. Union of Concerned Scientists, Nov. 2018, https://www.ucsusa.org/sites/default/files/attach/2018/11/Nuclear-Power-Dilemma-full-report.pdf. Accessed 7 July 2023;
 Cravens, Gwyneth. “Terrorism and Nuclear Energy: Understanding the Risks.” Brookings, 1 Mar. 2002, https://www.brookings.edu/articles/terrorism-and-nuclear-energy-understanding-the-risks/. Accessed 7 July 2023;
 Gardner, Richard N. Nuclear Energy and World Order: Implications for International Organizations. The Institute on Man and Science, 1976, https://tripod.brynmawr.edu/permalink/01TRI_INST/1ijd0uu/alma991000574039704921. Accessed 7 July 2023;
