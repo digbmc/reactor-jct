@@ -267,16 +267,16 @@ and Toth, Ferenc L. Nuclear Energy in Combating Climate Change in Asia and the P
 
 ### Accidents and Disasters {href=nuclear-disasters/}
 ![](https://upload.wikimedia.org/wikipedia/commons/1/15/Chernobyl_2019_G03.jpg)
-*Nuclear accidents over time.*
+Nuclear accidents over time.
 
 ### Nuclear History {href=nuclear-history/}
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Laura_and_Enrico_Fermi_1954.jpg)
-*The present and future of nuclear energy.*
+The present and future of nuclear energy.
 
 ### How It Works {href=science/}
 ![](https://upload.wikimedia.org/wikipedia/commons/3/30/NSC-Oct-2017.jpg)
-*How nuclear power and reactors work.*
+How nuclear power and reactors work.
 
 ### Nuclear Energy Figures {href=https://ourworldindata.org/nuclear-energy}
 ![](https://upload.wikimedia.org/wikipedia/commons/4/44/Our_World_in_Data_logo.png)
-*Interactive graphics on nuclear energy by* Our World in Data.
+Interactive graphics on nuclear energy by Our World in Data.
