@@ -108,7 +108,7 @@ Toth, Ferenc L. Nuclear Energy in Combating Climate Change in Asia and the Pacif
 and “Ukraine War: What Support Is China Giving Russia?” BBC News, 4 Mar. 2022, https://www.bbc.com/news/60571253. Accessed 7 July 2023.
 
 
-## World Power around the Russian-Ukrainian War
+## World Power in the Russian-Ukrainian War
 The conflict between Russia and Ukraine is geographically distant from most Asian countries, and also their immediate security concerns might be focused on ther geopolitical tensions in the Middle East, the Korean Peninsula, and around South Asia which are often considered a result of nuclear  proliferation. It's also true that the Russian-Ukrainian war has impacted global security and geopolitics, and some Asian countries' interests lies in the outcome (like China shares a border with Russia). Again economic or political ties (foreign policy objectives) to either Russia or Ukraine impacted the support for each country.  Countries with significant trade or investment links to either country tends to have a stronger incentive to monitor the situation closely due to potential economic repercussions. These alliances are also creating geopolitical blocs and influencing global power dynamics (like NATO's nuclear-sharing arrangements about the deployment of U.S. nuclear weapons in some European countries). [^4]
 
 [^4]: See:
