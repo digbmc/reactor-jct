@@ -1,3 +1,6 @@
+.ve-style ./assets/custom.css
+
+
 .ve-header  "The Science Behind Nuclear Power" wc:NSC-Oct-2017.jpg sticky 
 
 
