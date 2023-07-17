@@ -66,7 +66,7 @@ has returned to the use of NPPs.
 In 2021, the first Belarusian NPP operated. 
 By 2023, another NPP will start operating. 
 ### Lithuania
-Closed its NPP (the sole source of 70 percent of its electricity) 
+Closed its NPP (the sole source of 70 percent of its electricity).
 ### Poland
 In the 1990 referendum, 86 percent of citizens voted against the use of nuclear power. 
 Proposal of own NPP in operation by 2030. 
