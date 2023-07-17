@@ -9,8 +9,8 @@
 
 | Event | Type of Accident | Date | Deaths | 
 | ------------ |:-------------:| -----:|-----:|
-|  <a href="#k19">K 19</a><br />  | Submarine reactor | 07/04/1961 |==22=={description="over a span of two years"}[^1] |
-|  <a href="#k27">K 27</a><br />  |Submarine reactor | 05/24/1968 |==9=={description="all 144 of the crew poisoned and injured"}[^3]|
+|  <a href="#k19">K-19</a><br />  | Submarine reactor | 07/04/1961 |==22=={description="over a span of two years"}[^1] |
+|  <a href="#k27">K-27</a><br />  |Submarine reactor | 05/24/1968 |==9=={description="all 144 of the crew poisoned and injured"}[^3]|
 |  <a href="#Texas-radiological-assault">Texas radiological assault</a><br />   | Criminal acts       | 1974 |==0=={description="target of assault injured"}[^6]|
 |  <a href="#Tammiku-Stolen-Source">Tammiku Stolen Source</a><br />   | Criminal acts      |  10/21/1994 |==1=={description="4 injuries, 1 family dog died"}|
 |  <a href="#Guangzhou-radiological-assault">Guangzhou radiological assault</a><br />   | Criminal acts      | 2002  |==0=={description="target of assault injured"}[^9] |
@@ -36,9 +36,9 @@
     - Q488690 8 marker "Dauphin County, PA"
     -Q161176 8 marker "Fukushima"
     
-#### <a id="k19">K 19</a>
+#### <a id="k19">K-19</a>
 
-The K19 submarine was the first ballistic-missile equipped nuclear submarine, carrying three ballistic missiles with a range of 650km. During its first mission as a US attacker on June 18, 1961, the submarine experienced testing pressure that exceeded its designed pressure at ==Abrosimov Bay=={flyto:Q39265625,7}, resulting in damaged piping in the primary cooling unit. This led to a drop in pressure, causing the reactor water to boil and the reactor room temperature to reach 140°C, resulting in a fire. 
+The K-19 submarine was the first ballistic-missile equipped nuclear submarine, carrying three ballistic missiles with a range of 650km. During its first mission as a US attacker on June 18, 1961, the submarine experienced testing pressure that exceeded its designed pressure at ==Abrosimov Bay=={flyto:Q39265625,7}, resulting in damaged piping in the primary cooling unit. This led to a drop in pressure, causing the reactor water to boil and the reactor room temperature to reach 140°C, resulting in a fire. 
 
 With no coolant system in place, the crew had to fix the leak using raincoats and gas masks. They managed to develop an effective cooling system with a drinking water supply, preventing fuel melting and a steam explosion. However, they were exposed to high levels of radiation, approximately ==50-60 Sv (5000-6000 rem)=={description="According to the International Commission on Radiological Protection, 1 Sv results in a 5.5% probability of eventually developing fatal cancer based on disputed linear no-threshold model of ionizing radiation exposure"}. Eight crew members who fixed the leak died within days. After replacing the reactor units, the K19 submarine was put back into use, but 22 out of the original crew of 139 died due to radiation exposure. [^2] 
 
@@ -46,7 +46,7 @@ With no coolant system in place, the crew had to fix the leak using raincoats an
 
 The person in charge of the test failed to report the damage to superiors and did not perform necessary repairs. Additionally, the captain did not respond immediately after the leak occurred. The crew members were sworn to secrecy, routinely lying to doctors during checkups for decades following the accident.
 
-#### <a id="k27">K 27</a>
+#### <a id="k27">K-27</a>
 
 K-27 was sent off on a five-day trip to conduct checkups for a 70-day mission, collecting data on two experimental liquid metal-cooled reactors which featured a new design intended for the Soviet army. The goal was to have the first USSR submarine remain submerged for 50 consecutive days. 
 
@@ -62,7 +62,7 @@ The captain did make a crucial decision to ignore orders from the division to cu
 
 #### <a id="Texas-radiological-assault">Texas radiological assault</a>
 
-A man from ==Harris County, Texas=={flyto:Q26676,7}had deliberately exposed his 11-year-old son to radiological material on multiple occasions, resulting in serious consequences. The man had obtained capsules of ==Cesium 137=={description="a radioactive isotope commonly used in medical devices, gauges, and also produced as a byproduct of nuclear weapons and reactors. It is worth noting that approximately 27 kg of Cesium 137 was generated during the Chornobyl disaster.[^5]"}and used under 5-7 occasions, placing it inside headphones, pillows and cushions used by his son. In 1973, a plastic surgeon diagnosed the boy's skin lesion as being radiation-induced, confirming the harmful effects of the exposure. 
+A man from ==Harris County, Texas=={flyto:Q26676,7} deliberately exposed his 11-year-old son to radiological material on multiple occasions, resulting in serious consequences. The man had obtained capsules of ==Cesium 137=={description="a radioactive isotope commonly used in medical devices, gauges, and also produced as a byproduct of nuclear weapons and reactors. It is worth noting that approximately 27 kg of Cesium 137 was generated during the Chornobyl disaster."} [^5] and used under 5-7 occasions, placing it inside headphones, pillows and cushions used by his son. In 1973, a plastic surgeon diagnosed the boy's skin lesion as being radiation-induced, confirming the harmful effects of the exposure. 
 
 As a result, the boy had to undergo 16 operations between 1974 and 1978, including numerous skin grafts and castration.[^7] 
 
