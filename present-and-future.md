@@ -21,7 +21,7 @@ However, it is noteworthy that nuclear power is not entirely absent in Europe. C
 
 
 ##### Germany
-All the NPPs are shut down (most recently by April 2023). 
+All NPPs are shut down (most recently in April 2023). 
 ##### Italy
 After 1986 rejected all plans. 
 In 2007 Was thinking about a restoration attempt  
