@@ -76,7 +76,7 @@ In 1999, electricity produced by nuclear fission was banned.
 ### Russia
 In the twenty-first century, Russia resumed the use of nuclear energy. Rosatom corporation consists of 360 enterprises and is currently building NPPs in twelve countries. 
 ### Belarus
-has returned to the use of NPPs.  
+has started to the use of NPPs.  
 In 2021, the first Belarusian NPP operated. 
 By 2023, another NPP will start operating. 
 ### Lithuania
