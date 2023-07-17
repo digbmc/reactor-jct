@@ -85,7 +85,7 @@ In 2004, it had to close two reactors as a condition of joining the EU.
 ### Ukraine
 More than half of the electricity produced from NPPs. 
 
-
+##
 Here is a graph showing how nuclear energy is expanding as a primary source of energy around the world.
 .ve-iframe width=80% height=600px https://ourworldindata.org/grapher/nuclear-primary-energy?facet=none&country=BGD~BLR~AUT~BEL~BRA~CHN~CZE~FIN~FRA~DEU~HKG~HUN~ISL~IND~IDN~IRL~LTU~VNM~GBR~OWID_USS~TUR~THA~TWN~SWE~LKA~ESP~SVK~SGP~KOR~RUS~PRT~POL~PHL~PAK~NLD~LUX~MYS
 
