@@ -1,3 +1,5 @@
+.ve-style ./assets/custom.css
+
 .ve-header "Nuclear Disasters" wc:Chernobyl_2019_G03.jpg
 
 ![radiation accidents from 1896-2020 by countries, causes and deaths](assets/radiationaccidents.svg)
