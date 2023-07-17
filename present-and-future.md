@@ -1,13 +1,13 @@
 .ve-header sticky "The Present and Future of Nuclear Power Globally" wc:De_Molen_(windmill)_and_the_nuclear_power_plant_cooling_tower_in_Doel,_Belgium_(DSCF3859).jpg 
 
-## Nuclear Power and geopolitics
+## Nuclear Power and Geopolitics
 
 
 
 As nuclear energy is spreading rapidly in today's world, it is interwining the global political landscape. Energy security, nuclear proliferation, non-proliferation treaties, nuclear alliances, nuclear energy cooperation, nuclear accidents, geopolitical hotspots are some of the concerns that is revolving mostly around Asia & Europe.
 
 
-### Europe and nuclear power {.cards}
+### Europe and Nuclear Power {.cards}
 
 The Chernobyl disaster majorly impacted on Europe's perception of nuclear power. The EU is concerned about the safety of nuclear reactors and their potential for catastrophic consequences. Phasing out or reducing their reliance on nuclear power was influenced by public sentiment, political factors, and a desire to prioritize other alternative energy sources such as renewable energy. Long-term environmental impact of nuclear power played a role as well. Issues such as radioactive waste disposal, the risk of accidents, and the potential for nuclear proliferation have raised questions about the sustainability and desirability of nuclear energy. [^10] [^12] [^22] [^25] [^26] [^35] [^36] [^40] [^41] [^42] [^44] [^47] [^48] [^53] [^60]
 
@@ -71,7 +71,7 @@ The conflict between Russia and Ukraine is geographically distant from most Asia
 
 ### Zaporizhzhya NPP in the Russian-Ukrainian Warfare
 
-As ==Zaporizhzhya NPP=={Q909477}  was taken over by russian army, with continued shelling around the plant is repeatedly cutting access to the electricity grid. As a result, it's last working reactor were scheduled to be shut down. A stable electricity supply is important for any nuclear power plant to maintain cooling systems for radioactive fuel. Zaporizhzhya does have diesel generators to switch on when the primary electricity supply is cut, but they are not a long-term solution. The exact situation of not having continuous electricity to run the reactor worsened the situation of Chornobyl in the past, and also at ==Fukushima=={Q171178}  for the earthquake. Disaster at Zaporizhzhya, caused either by an accident or a deliberate attack, residents in Ukrainian towns and villages nearby could face the threat of radiation poisoning immediately or within a few hours. [^3] [^4] [^8] [^16] [^20] [^21] [^37] [^38]
+As ==Zaporizhzhya NPP=={Q909477}  was taken over by russian army, with continued shelling around the plant is repeatedly cutting access to the electricity grid. As a result, it's last working reactor were scheduled to be shut down. A stable electricity supply is important for any nuclear power plant to maintain cooling systems for radioactive fuel. Zaporizhzhya does have diesel generators to switch on when the primary electricity supply is cut, but they are not a long-term solution. The exact situation of not having continuous electricity to run the reactor worsened the situation of Chornobyl in the past, and also at ==Fukushima=={Q171178} during the earthquake. Disaster at Zaporizhzhya, caused either by an accident or a deliberate attack, residents in Ukrainian towns and villages nearby could face the threat of radiation poisoning immediately or within a few hours. [^3] [^4] [^8] [^16] [^20] [^21] [^37] [^38]
 
 ### Ukraine’s Dam Collapse
 The destruction of the colossal ==Nova Kakhovka dam=={Q119210467} is draining the water supplies, farming in the region and the cooling of the Zaporizhzhia nuclear power plant. Tons of oil have been leaked and mixed with water, which will eventually fall into the Dnipro River and potentially the ==Black Sea=={Q166}. Kyiv has long warned of the danger of an attack on the dam. In this state, the dam’s destruction in the Kherson region marks a potential war crime which leads to another devastating consequence of the Russian invasion of Ukraine. [^7] [^10]
