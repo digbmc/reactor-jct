@@ -62,7 +62,7 @@ When the submarine returned to dock, most of the crew members who had been expos
 The captain did make a crucial decision to ignore orders from the division to cut the engines and remain in the submarine. Recognizing the dangers of prolonged exposure, he took action to safeguard the crew by preventing further hours of potential radiation poisoning.
 .ve-media wc:The dead sailors of the submarine "K-27".jpg caption = "The dead sailors of the submarine K-27"
 
-#### <a id="Texas-radiological-assault">Texas radiological assault</a>
+#### <a id="Texas-radiological-assault">Texas Radiological Assault</a>
 
 A man from ==Harris County, Texas=={flyto:Q26676,7} deliberately exposed his 11-year-old son to radiological material on multiple occasions, resulting in serious consequences. The man had obtained capsules of ==Cesium 137=={description="a radioactive isotope commonly used in medical devices, gauges, and also produced as a byproduct of nuclear weapons and reactors. It is worth noting that approximately 27 kg of Cesium 137 was generated during the Chornobyl disaster."} [^5] and used under 5-7 occasions, placing it inside headphones, pillows and cushions used by his son. In 1973, a plastic surgeon diagnosed the boy's skin lesion as being radiation-induced, confirming the harmful effects of the exposure. 
 
@@ -75,17 +75,18 @@ Three brothers stole Cesium 137 from a nuclear waste factory in ==Tammiku, Eston
 
 The man who carried the stolen source home received a dose of ==183,000 rads=={description="rad stands for radiation absorbed dose and measures the amount of energy deposited per unit of weight of human tissue. A rem is the dosage received from the exposure to a rad. It is the number of rads multiplied by the quality factor of the particular source of radiation."} [^29] [^30] to his thigh and a whole-body dose of 4,000 rads. Other family members also received whole-body doses ranging from 100 to 400 rads. Tragically, even the family dog, which slept near the metal, succumbed to the radiation exposure and died.[^8] 
 
-#### <a id="Guangzhou-radiological-assault">Guangzhou radiological assault</a>
+#### <a id="Guangzhou-radiological-assault">Guangzhou Radiological Assault</a>
 
 A radiology scientist based in ==Guangzhou, China=={flyto:Q16572,7} used ==Iridium 192=={description="Iridium 192 is a man-made radioactive element commonly utilized in the medical field to combat cancer cells, produced through the irradiation of nonradioactive iridium in a nuclear reactor. "} pellets to target his colleague and former business partner. With forged documents, the scientist obtained an industrial machine containing Iridium 192 and enlisted an accomplice to help. They installed the machine above the ceiling panels in the victim's office and activated it when the victim was present. After approximately two months, the victim began to suspect a connection between his deteriorating health and radiation exposure. 
 
 The primary victim was exposed to a dose ranging from 70 to 150 rads, while an additional 78 hospital staff members were also injured.[^10]  
+.ve-media wc:Strahler CS137.jpg caption = "137CS radioactive source/emitter"
 
-#### <a id="San-Jose-Radiotherapy-incident">San Jose Radiotherapy incident</a>
+#### <a id="San-Jose-Radiotherapy-incident">San Jose Radiotherapy Incident</a>
 
 The ==San Jose=={flyto:Q3070,7} radiotherapy incident in 1996 involved a significant error in a ==Cobalt 60=={description="Cobalt 60 (Co-60) is a radioactive isotope used in medical applications for radiotherapy treatment. It is produced as a byproduct of nuclear reactors when metal structures, such as steel rods, are exposed to neutron radiation."} radiotherapy unit, leading to overdosages of approximately 60%. This incident resulted in the deaths of 7 to 17 individuals, although there were debates regarding whether the deaths were caused by the radiotherapy exposure or the underlying illnesses themselves. Additionally, 81 individuals suffered injuries as a result of the overexposures. [^5][^11]   
 
-#### <a id="Orphaned-source-in-Goiania-Brazil">Orphaned source in Goiania Brazil</a>
+#### <a id="Orphaned-source-in-Goiania-Brazil">Orphaned Source in Goiania Brazil</a>
 
 An abandoned radiotherapy unit in a demolished clinic in ==Goiania Brazil=={flyto:Q83189,7} contained a highly dangerous source of Cesium 137, amounting to 1375 curies. Two individuals dismantled the equipment and sold the source to a local junkyard, unknowingly spreading the radioactive material.
 
@@ -93,20 +94,20 @@ A number of people examined the material closely, took parts of it home, and dis
 
 Approximately 112,800 people were examined, with 129 individuals sustaining injuries and 20 requiring hospitalization. There were five deaths and numerous injuries, including radiation burns, with some individuals needing amputations of fingers. [^13]   
 
-#### <a id="Castle-Bravo-Nuclear-testing">Castle Bravo Nuclear testing</a>
+#### <a id="Castle-Bravo-Nuclear-testing">Castle Bravo Nuclear Testing</a>
 
 During the Castle Bravo nuclear testing in 1954 as part of the United States' Operation Castle at ==Bikini Atoll=={flyto:Q152225,7}, prototypes of the first weaponized thermonuclear weapons were tested. The initial shot, codenamed "Shrimp" TX-21, was expected to have a yield of 6 megatons but in reality yielded 15 megatons.[^15] A Japanese fishing boat just outside the restricted zone unknowingly received the fallout. The 23 crew members were unaware of the hazardous nature of the material and did not take precautions to minimize their contact with it. Some crew members even tasted the substance. 
 
 As a result, all crew members were hospitalized, and aggressive blood transfusions were administered after the captain recognized the sickness. One person died as a result of the exposure. 246 islanders residing on islands west of Bikini under US jurisdiction were exposed to the fallout and were evacuated two days later. Some islanders inadvertently ingested the fallout. Later in life, these islanders exhibited a high frequency of thyroid anomalies. 37 US naval personnel experienced ==beta burns=={description="Beta burns are burns caused by beta particles. They are shallow surface burns, usually of skin and less often of lungs or gastrointestinal tract, often as results of hot particles or dissolved radionuclides that came to direct contact with or close proximity to the body."} from the fallout.[^16] 
 
-#### <a id="SL-1-Reactor-excursion">SL-1 Reactor excursion</a>
+#### <a id="SL-1-Reactor-excursion">SL-1 Reactor Excursion</a>
 
 The SL-1 reactor was a prototype reactor designed for easy assembly in remote locations at the ==National Reactor Testing Station in Idaho, USA=={flyto:Q1221,7}.The reactor was water moderated and controlled by five aluminum-clad cadmium control rods. While three workers were reassembling the control rod drives on January 3 1961, one worker manually removed the center control rod rapidly over a 0.5-second period, causing the reactor to become supercritical. This resulted in a steam explosion with a total energy release of 1.3 x 108 joules, comparable to 30 kg of TNT. The worker who withdrew the rod was killed instantly by a control rod. The other two workers were burned and thrown by the explosion, with one dying instantly from impact and the other succumbing to head injuries and dying a few hours later. The release of radioactive material was largely contained within the building.
 High radiation levels delayed emergency responders’ entry into the reactor building. The bodies of the deceased workers were recovered on January 4 and January 9. In total, 22 personnel and responders received radiation doses ranging from 3 to 27 rads.[^17]
 
 ## Powerplant Failures: Consequences and Responses 
 
-#### <a id="Three-mile-island">Three mile island</a>
+#### <a id="Three-mile-island">Three Mile Island</a>
 
 ##### Overview 
 
