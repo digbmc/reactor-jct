@@ -13,7 +13,7 @@
 ## History {href="/nuclear-history"}
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Laura_and_Enrico_Fermi_1954.jpg)
 
-All about the history of nuclear power
+The history of the development and implementation of nuclear power from the 1930s to the 1980s.
 
 ## Science {href="/science"}
 ![](https://upload.wikimedia.org/wikipedia/commons/3/30/NSC-Oct-2017.jpg)
@@ -23,11 +23,11 @@ The basics of nuclear energy generation and nuclear reactor design.
 ## Accidents & Disasters {href="/nuclear-disasters"}
 ![](https://upload.wikimedia.org/wikipedia/commons/1/15/Chernobyl_2019_G03.jpg)
 
-Nuclear accidents over time
+Description of the most infamous nuclear disasters from around the world. 
 
 ## Present & Future {href="/present-and-future"}
 ![](https://upload.wikimedia.org/wikipedia/commons/5/54/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3859%29.jpg)
 
-The present and future of nuclear energy
+The present state and predicted future of nuclear energy worldwide. 
 
 
