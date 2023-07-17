@@ -87,7 +87,7 @@ The primary victim was exposed to a dose ranging from 70 to 150 rads, while an a
 #### <a id="San-Jose-Radiotherapy-incident">San Jose Radiotherapy Incident</a>
 
 The ==San Jose=={flyto:Q3070,7} radiotherapy incident in 1996 involved a significant error in a ==Cobalt 60=={description="Cobalt 60 (Co-60) is a radioactive isotope used in medical applications for radiotherapy treatment. It is produced as a byproduct of nuclear reactors when metal structures, such as steel rods, are exposed to neutron radiation."} radiotherapy unit, leading to overdosages of approximately 60%. This incident resulted in the deaths of 7 to 17 individuals, although there were debates regarding whether the deaths were caused by the radiotherapy exposure or the underlying illnesses themselves. Additionally, 81 individuals suffered injuries as a result of the overexposures. [^5][^11]   
-.ve-media wc:137CS radioactive source/emitter caption = "137CS radioactive source/emitter"
+.ve-media wc:Hospital San Juan de Dios. San José. Costa Rica.jpg caption = "Hospital San Juan de Dios. San José. Costa Rica.jpg"
 
 #### <a id="Orphaned-source-in-Goiania-Brazil">Orphaned Source in Goiania Brazil</a>
 
