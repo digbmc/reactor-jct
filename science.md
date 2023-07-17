@@ -35,12 +35,18 @@ Water is heated by the nuclear reactor and kept under high pressure. Afterward, 
 
 Water is heated by the nuclear reactor. The boiling temperatures produce steam which would then be used for electricity generation.[^2]
 
-###The Chornobyl reactor 
 
-![](https://www.researchgate.net/profile/Mukhtar-Rana-3/publication/331021511/figure/fig2/AS:725131873763329@1549896319147/RBMK-design-of-the-Chernobyl-nuclear-reactor.jpg)[^6]
 
+### The Chornobyl reactor {.cards}
 
 The previous two reactors were moderated and cooled by water, which means that the water slows down the neutrons used in nuclear fission. The type of reactor that was used in Chornobyl is an RBMK, a high-power channel reactor. This kind of reactor is cooled by water but controlled by graphite moderators. This means that the control rods, which were boron with graphite tips with graphite moderators in between, were used for slowing down neutrons in the reactor core. This reactor was created with several factors taken into account, mostly to save on costs. The first factor was that the fabrication of RBMK parts can be done at existing manufacturing plants, which would save money by not having to build new factories for parts. The energy output was also very important since most of the Soviet Union relied on nuclear energy for cheaper electricity, so the RBMK reactor had no upper power limits. The RBMK was considered to have a state-of-the-art safety protocol, with more than 1000 primary circuits which would increase the safety of the reactor system. Lastly, the fuel itself was highly efficient as it was able to use slightly less enriched uranium than in other common reactors which saved money.[^3]
+
+
+#### RMBK Reactor
+
+![](https://www.world-nuclear.org/getmedia/5443eaa9-c453-495a-ac5d-2b4d9f3a28ea/light-water-graphite-mod-reactor-lwgr.png.aspx)
+
+The RMBK diagram showing its complex construction.[^5]
 
 
 ###The reactor explosion
@@ -60,5 +66,4 @@ In order to prevent further accidents, there were some modifications done to the
 [^2]: Graphics made by Sarah Harman | [U.S. Department of Energy](https://www.energy.gov/ne/office-nuclear-energy)
 [^3]: Semenov, B. A. “Nuclear Power in the Soviet Union.” IAEA Bulletin, vol. 25, no. 2, 1983.
 [^4]: Kirk, Benny. “37 Years After Chernobyl, RBMK Reactors Are Still Operating in Russia.” Autoevolution, 20 Feb. 2023.[RMBK Reactors](https://www.autoevolution.com/news/37-years-after-chernobyl-rbmk-nuclear-reactors-are-still-operating-in-russia-210581.html.)
-[^5]: World Nuclear Association. RBMK Reactors | Reactor Bolshoy Moshchnosty Kanalny | Positive Void Coefficient - World Nuclear Association. 1991, [WHA](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/appendices/rbmk-reactors.aspx.)
-[^6]: Rana, Mukhtar. (2019). The Chernobyl reactor accident: Some selected facts.[Reactor Accident](https://www.researchgate.net/publication/331021511_The_Chernobyl_reactor_accident_Some_selected_facts)
+[^5]: World Nuclear Association. RBMK Reactors | Reactor Bolshoy Moshchnosty Kanalny | Positive Void Coefficient - World Nuclear Association. 1991, [WNA](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/appendices/rbmk-reactors.aspx.)
