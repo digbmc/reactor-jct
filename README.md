@@ -29,7 +29,7 @@ All about the history of nuclear power
 ### Science {href="/science"}
 ![](https://upload.wikimedia.org/wikipedia/commons/3/30/NSC-Oct-2017.jpg)
 
-How nuclear power and reactors work
+The basics of nuclear energy generation and nuclear reactor design. 
 
 ### Accidents & Disasters {href="/nuclear-disasters"}
 ![](https://upload.wikimedia.org/wikipedia/commons/1/15/Chernobyl_2019_G03.jpg)
