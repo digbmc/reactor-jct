@@ -98,11 +98,13 @@ As a result, all crew members were hospitalized, and aggressive blood transfusio
 
 #### <a id="SL-1-Reactor-excursion">SL-1 Reactor excursion</a>
 
-The SL-1 reactor was a prototype reactor designed for easy assembly in remote locations.The reactor was water moderated and controlled by five aluminum-clad cadmium control rods. While three workers were reassembling the control rod drives on January 3 1961, one worker manually removed the center control rod rapidly over a 0.5-second period, causing the reactor to become supercritical. This resulted in a steam explosion with a total energy release of 1.3 x 108 joules, comparable to 30 kg of TNT. The worker who withdrew the rod was killed instantly by a control rod. The other two workers were burned and thrown by the explosion, with one dying instantly from impact and the other succumbing to head injuries and dying a few hours later. The release of radioactive material was largely contained within the building.
+The SL-1 reactor was a prototype reactor designed for easy assembly in remote locations at the ==National Reactor Testing Station in Idaho, USA=={flyto:Q1221,7}.The reactor was water moderated and controlled by five aluminum-clad cadmium control rods. While three workers were reassembling the control rod drives on January 3 1961, one worker manually removed the center control rod rapidly over a 0.5-second period, causing the reactor to become supercritical. This resulted in a steam explosion with a total energy release of 1.3 x 108 joules, comparable to 30 kg of TNT. The worker who withdrew the rod was killed instantly by a control rod. The other two workers were burned and thrown by the explosion, with one dying instantly from impact and the other succumbing to head injuries and dying a few hours later. The release of radioactive material was largely contained within the building.
 High radiation levels delayed emergency responders’ entry into the reactor building. The bodies of the deceased workers were recovered on January 4 and January 9. In total, 22 personnel and responders received radiation doses ranging from 3 to 27 rads.[^17]
 
 ## Powerplant Failures: Consequences and Responses 
+
 #### <a id="Three-mile-island">Three mile island</a>
+
 ##### Overview 
 
 On March 28, 1979, the Unit 2 reactor at Three Mile Island, located near Middletown, Pennsylvania, experienced a partial meltdown. This incident is widely considered as the most significant accident in the history of commercial nuclear power plants in the United States despite its limited radioactive releases. It initiated significant changes made in aspects of nuclear power plant operations and regulations, including emergency response planning, reactor operator training, human factors engineering, and radiation protection. 
