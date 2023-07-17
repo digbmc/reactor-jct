@@ -4,7 +4,7 @@
 
 
 
-As nuclear energy is spreading rapidly in today's world, it is interwining the global political landscape. Energy security, nuclear proliferation, non-proliferation treaties, nuclear alliances, nuclear energy cooperation, nuclear accidents, geopolitical hotspots are some of the concerns.
+As nuclear energy is spreading rapidly in today's world, it is interwining the global political landscape. Energy security, nuclear proliferation, non-proliferation treaties, nuclear alliances, nuclear energy cooperation, nuclear accidents, geopolitical hotspots are some of the concerns that is revolving mostly around Asia & Europe.
 
 
 ### Europe and nuclear power {.cards}
