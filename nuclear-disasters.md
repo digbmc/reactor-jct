@@ -143,16 +143,16 @@ The TMI accident resulted in significant property damage for the plant operator,
 
 Despite the incident at TMI being a significant cause for the American public's distrust in nuclear industries in the decades to follow, it led to widespread changes across the U.S. commercial nuclear industry that improved regulations and practices. 
 
-The NRC was strengthened and the industry established the Institute of Nuclear Power Operations (INPO) to ensure appropriate training, plant management and operations. It expanded its resident inspector program in which two NRC inspectors live near each of the plants and provide oversight of adherence to the agencies’ regulations. It also expanded both safety and performance-oriented inspections and established an operations center staffed 24 hours a day to provide assistance in plant emergencies.[^24] 
+The NRC was strengthened and the industry established the Institute of Nuclear Power Operations (INPO) to ensure appropriate training, plant management and operations. It expanded its resident inspector program in which two NRC inspectors live near each of the plants and provide oversight of adherence to the agencies’ regulations. It also expanded both safety and performance-oriented inspections and established an operations center staffed 24 hours a day to provide assistance in plant emergencies. [^24] 
 
-Training reforms are among the most significant outcomes of the TMI-2 accident. Training became centred on protecting a plant's cooling capacity, whatever the triggering problem might be. Events of TMI led to the establishment of the Atlanta-based Institute of Nuclear Power Operations (INPO) and its National Academy for Nuclear Training. Close to half of the operators' training was in a full-scale electronic simulator of the TMI control room. The $18 million simulator permitted operators to learn and be tested on all kinds of accident scenarios.[^22]
+Training reforms are among the most significant outcomes of the TMI-2 accident. Training became centred on protecting a plant's cooling capacity, whatever the triggering problem might be. Events of TMI led to the establishment of the Atlanta-based Institute of Nuclear Power Operations (INPO) and its National Academy for Nuclear Training. Close to half of the operators' training was in a full-scale electronic simulator of the TMI control room. The $18 million simulator permitted operators to learn and be tested on all kinds of accident scenarios. [^22]
 
 #### <a id="Fukushima-Daiichi">Fukushima Daiichi</a>
 ##### Overview
 
 On March 11, 2011, Great East Japan Earthquake and tsunami induced a disaster in northeastern Japan and initiated a severe nuclear accident at the ==Fukushima=={flyto:Q161176} Daiichi nuclear plant. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed.
 
-The reactors proved robust seismically, but vulnerable to the tsunami. Power, from grid or backup generators, was available to run the residual heat removal (RHR) system cooling pumps at eight of the eleven units, and despite some problems they achieved 'cold shutdown' within about four days. The other three, at Fukushima Daiichi, lost power at 3.42 pm, almost an hour after the earthquake, when the entire site was flooded by the 15-metre tsunami. Three employees at the Daiichi and Daini plants were killed directly by the earthquake and tsunami, but there have been no fatalities from the nuclear accident.[^25]
+The reactors proved robust seismically, but vulnerable to the tsunami. Power, from grid or backup generators, was available to run the residual heat removal (RHR) system cooling pumps at eight of the eleven units, and despite some problems they achieved 'cold shutdown' within about four days. The other three, at Fukushima Daiichi, lost power at 3.42 pm, almost an hour after the earthquake, when the entire site was flooded by the 15-metre tsunami. Three employees at the Daiichi and Daini plants were killed directly by the earthquake and tsunami, but there have been no fatalities from the nuclear accident. [^25]
 
 ##### Could it Have Been Prevented?
 
@@ -170,7 +170,7 @@ Japan announced in April 2021 that it planned to discharge more than 1.25 millio
 
 The water was largely used to cool the three damaged reactor cores, which remain highly radioactive. Some of it has since leaked into basements of the reactor buildings but was collected and stored in tanks. Space for the tanks is running out and the long-term management of the treated water is necessary to allow for the further decommissioning of Fukushima-Daiichi, which has been permanently shut down.
 
-IAEA director has announced that his agency’s “comprehensive, neutral, objective and scientifically sound” evaluation showed that the planned discharge was consistent with global industry and safety standards while its report was “neither a recommendation nor an endorsement” of Japan’s water discharge decision.[^27] [^28]
+IAEA director has announced that his agency’s “comprehensive, neutral, objective and scientifically sound” evaluation showed that the planned discharge was consistent with global industry and safety standards while its report was “neither a recommendation nor an endorsement” of Japan’s water discharge decision. [^27] [^28]
 
 ## Further Reading {.cards}
 
