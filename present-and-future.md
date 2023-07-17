@@ -123,7 +123,7 @@ Accidents, including fatal ones, can and do happen in any industry. However, ser
 .ve-iframe width=70% height=600px https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh
 
 #### Waste transportation and storage
-.ve-media width=70% wc:Transport-UNF-Japan.jpg right
+.ve-media width=70% wc:Transport-UNF-Japan.jpg right caption="Transport of spent nuclear fuel"
 Nuclear power generation produces small, but not insignificant, amounts of radioactive waste. This waste must be transported from plants to storage locations, where it must then be left undisturbed for time periods spanning up to hundreds of thousands of years. [^42] [^23]
 
 #### Power plants and weapons
@@ -134,7 +134,7 @@ The same materials used to power nuclear reactors-- isotopes like uranium-235 an
 Nuclear power plants are expensive to build, with initial investments costing several billions of dollars, as well as to operate. Most of these costs come from the extensive safety features and oversight required in order to make sure that a new power plant can operate safely and shut down without issue in the event of a potential emergency. [^23] [^42] [^45]
 
 ## Innovations in nuclear energy generation
-The U.S. nuclear energy industry is dominated by the ==light water reactor (LWR)=={Q558106}, a type of reactor that uses water as a coolant. In light of the prohibitively high costs that have thus far discouraged the construction of any new nuclear power plants, there has been rising interest among some proponents of nuclear energy in the use of non-light water reactors (NLWRs), which use other materials as a coolant. NLWRs have been advertised as safer and potentially cheaper alternatives to LWRs. However, several international NGOs have released reports concluding that these reactors do not offer significantly improved-- and sometimes even worse-- safety and efficiency capabilities compared to those of existing LWR designs. [^36]
+The global nuclear energy industry is dominated by the ==light water reactor (LWR)=={Q558106}, a type of reactor that uses water as a coolant. In light of the prohibitively high costs that have thus far discouraged the construction of any new nuclear power plants, there has been rising interest among some proponents of nuclear energy in the use of non-light water reactors (NLWRs), which use other materials as a coolant. NLWRs have been advertised as safer and potentially cheaper alternatives to LWRs. However, several international NGOs have released reports concluding that these reactors do not offer significantly improved-- and sometimes even worse-- safety and efficiency capabilities compared to those of existing LWR designs. [^36]
 
 ## The future of nuclear power
 .ve-media width=70% wc:20181204_Warming_stripes_(global,_WMO,_1850-2018)_-_Climate_Lab_Book_(Ed_Hawkins).png right no-caption
