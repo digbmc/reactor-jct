@@ -1,7 +1,6 @@
 .ve-header "Nuclear Disasters" wc:Chernobyl_2019_G03.jpg
 
-
-###infographics with the radiological disasters data
+![radiation accidents from 1896-2020 by countries, causes and deaths](assets/radiationaccidents.svg)
 
 [radiological disasters from 1896-2020 by countries, causes and deaths](https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <iframe src="[https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes](https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)"></iframe>
