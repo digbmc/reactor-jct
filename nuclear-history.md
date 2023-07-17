@@ -44,7 +44,7 @@ The idea of the atom has been around for centuries – the Greeks believed that 
 - May 17th - Arthur Compton at the National Academy of Sciences reports favorably on the prospects of military uses of nuclear power. 
 - June 28th - Roosevelt creates the Office of Scientific Research and Development (OSRD), which absorbs the NDRC and Uranium committees.
 - July 15th - The MAUD Committee issues a final report on the design and cost of building an atomic bomb.
-August 20th - Prime Minister Churchill becomes the first leader to approve a nuclear weapons program, the Tube Alloys.
+- August 20th - Prime Minister Churchill becomes the first leader to approve a nuclear weapons program, the Tube Alloys.
 - October 9th - An official copy of the MAUD report is taken to President Roosevelt, who approves a project to confirm findings in the United States.
 - December 6th - Vannevar Bush, the head of OSRD, organizes an accelerated research project to be managed by Arthur Compton.
 - December 7th - Japan launches a surprise military attack on Pearl Harbor in Honolulu, Hawaii.
