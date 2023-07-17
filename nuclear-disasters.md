@@ -34,7 +34,7 @@
     - Q152225 8 marker "Bikini Islands"
     - Q1221 8 marker "Idaho"
     - Q488690 8 marker "Dauphin County, PA"
-    -Q161176 8 marker "Fukushima"
+    - Q161176 8 marker "Fukushima"
     
 #### <a id="k19">K-19</a>
 
@@ -107,7 +107,7 @@ High radiation levels delayed emergency responders’ entry into the reactor bui
 
 ##### Overview 
 
-On March 28, 1979, the Unit 2 reactor at Three Mile Island, located near Middletown, Pennsylvania, experienced a partial meltdown. This incident is widely considered as the most significant accident in the history of commercial nuclear power plants in the United States despite its limited radioactive releases. It initiated significant changes made in aspects of nuclear power plant operations and regulations, including emergency response planning, reactor operator training, human factors engineering, and radiation protection. 
+On March 28, 1979, the Unit 2 reactor at Three Mile Island, located near ==Middletown, Pennsylvania=={flyto:Q488690,7}, experienced a partial meltdown. This incident is widely considered as the most significant accident in the history of commercial nuclear power plants in the United States despite its limited radioactive releases. It initiated significant changes made in aspects of nuclear power plant operations and regulations, including emergency response planning, reactor operator training, human factors engineering, and radiation protection. 
 ##### Events in Sequence
 
 At around 4 a.m., the accident originated in the non-nuclear part of the plant, affecting one of the two reactors. A failure, either mechanical or electrical, caused the main pumps to stop supplying water to cool the reactor. This led to the shutdown of the turbine-generator and the reactor itself. While the pressure in the nuclear piping system started to rise, a relief valve at the top of the pressurizer that should have closed got stuck open. Unfortunately, the control room instruments indicated that the valve was closed, and the staff was unaware that steam was escaping from the open valve, causing a loss of coolant. Alarms and warning lights alerted the operators, but they did not realize the severity of the situation.
@@ -143,7 +143,7 @@ Training reforms are among the most significant outcomes of the TMI-2 accident. 
 #### <a id="Fukushima-Daiichi">Fukushima Daiichi</a>
 ##### Overview
 
-On March 11, 2011, Great East Japan Earthquake and tsunami induced a disaster in northeastern Japan and initiated a severe nuclear accident at the Fukushima Daiichi nuclear plant. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed.
+On March 11, 2011, Great East Japan Earthquake and tsunami induced a disaster in northeastern Japan and initiated a severe nuclear accident at the ==Fukushima=={flyto:Q161176} Daiichi nuclear plant. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed.
 
 The reactors proved robust seismically, but vulnerable to the tsunami. Power, from grid or backup generators, was available to run the residual heat removal (RHR) system cooling pumps at eight of the eleven units, and despite some problems they achieved 'cold shutdown' within about four days. The other three, at Fukushima Daiichi, lost power at 3.42 pm, almost an hour after the earthquake, when the entire site was flooded by the 15-metre tsunami. Three employees at the Daiichi and Daini plants were killed directly by the earthquake and tsunami, but there have been no fatalities from the nuclear accident.[^25]
 
