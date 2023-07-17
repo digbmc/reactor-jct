@@ -8,7 +8,7 @@
 
 Nuclear power didn't just disappear after the accident at Chornobyl, and will continue to affect our daily lives for a long time to come! In this section, we review the current state of nuclear as well as how it may evolve or decline in the future.
 
-.ve-media wc:Nuclear_power_environmenal_collage.jpg static
+.ve-media wc:Nuclear_power_environmenal_collage.jpg static no-caption right
 
 # Nuclear Power and Geopolitics
 As nuclear energy is spreading rapidly in today's world, it is interwining with the global political landscape. Energy security, nuclear proliferation, non-proliferation treaties, nuclear alliances, nuclear energy cooperation, nuclear accidents, geopolitical hotspots are some of the concerns that is revolving mostly around Asia and Europe.
