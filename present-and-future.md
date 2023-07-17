@@ -64,7 +64,7 @@ In the 1960s, three small nuclear reactors were built for scientific purposes, a
 ### Switzerland
 In 1990, a referendum was held, citizens supported a ten-year moratorium on building new NPPs, but the four existing plants continued in operation. In 2017, the Swiss government rejected the construction of new NPPs. 
 ### UK
-have plans to close all the NPPs by 2035. 
+Plans to close all the NPPs by 2035. 
 ### Belgium
 Plans to close most NPPs by 2025, others by 2035. 
 ### France
