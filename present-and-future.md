@@ -6,7 +6,7 @@
 
 ### Expansion of Nuclear Power in Asia 
 
-For Asian countries, they are mostly leaning towards nuclear energy from their economics and increasing their energy demands perspective. Also nuclear power is green energy and sustainable for the environment as a lot of Asian countries are dependent on ==fossil fuel=={Q12748} energy and they are going under the minimum percentage of forest a country should have. So, with growing industries and populations,if nuclear power is handled with proper precaution, it is the most consistent energy option for their overall energy mix to ensure energy security and meet their rising electricity needs. [^1] [^5] [^10] [^11] [^17]  [^22] [^25] [^30] [^33] [^47] [^53] [^54] [^55]
+Asian countries are mostly leaning towards nuclear energy from their economics and increasing their energy demands perspective. Also nuclear power is green energy and sustainable for the environment as a lot of Asian countries are dependent on ==fossil fuel=={Q12748} energy and they are going under the minimum percentage of forest a country should have. So, with growing industries and populations,if nuclear power is handled with proper precaution, it is the most consistent energy option for their overall energy mix to ensure energy security and meet their rising electricity needs. [^1] [^5] [^10] [^11] [^17]  [^22] [^25] [^30] [^33] [^47] [^53] [^54] [^55]
 
 
 ### Europe and nuclear power {.cards}
