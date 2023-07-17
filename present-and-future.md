@@ -150,15 +150,15 @@ Nuclear energy, due to the scale of damage possible if it is mishandled or weapo
 
 ## Further Reading {.cards}
 
-### Accidents & Disasters {href=https://digbmc.github.io/reactor-jct/nuclear-disasters}
+### Accidents & Disasters {href=nuclear-disasters/}
 ![](https://upload.wikimedia.org/wikipedia/commons/1/15/Chernobyl_2019_G03.jpg)
 *Nuclear accidents over time.*
 
-### Present & Future {href=https://digbmc.github.io/reactor-jct/present-and-future}
-![](https://upload.wikimedia.org/wikipedia/commons/5/54/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3859%29.jpg)
+### Nuclear History {href=nuclear-history/}
+![](https://commons.wikimedia.org/wiki/File:Laura_and_Enrico_Fermi_1954.jpg)
 *The present and future of nuclear energy.*
 
-### How It Works {href=https://digbmc.github.io/reactor-jct/science}
+### How It Works {href=science/}
 ![](https://upload.wikimedia.org/wikipedia/commons/3/30/NSC-Oct-2017.jpg)
 *How nuclear power and reactors work.*
 
