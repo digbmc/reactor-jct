@@ -142,6 +142,20 @@ The global nuclear energy industry is dominated by the ==light water reactor (LW
 .ve-media width=70% wc:20181204_Warming_stripes_(global,_WMO,_1850-2018)_-_Climate_Lab_Book_(Ed_Hawkins).png right no-caption
 Nuclear energy, due to the scale of damage possible if it is mishandled or weaponized, remains controversial. Advocates argue that nuclear power is a source of efficient and reliable energy that, while posing potential dangers, is key to a ==successful transition=={Q795757} from our current energy economy to one that produces net zero or net negative emissions by 2050 in order to prevent ==catastrophic levels of warming=={description="The Intergovernmental Panel on Climate Change has concluded that global emissions need to reach net zero by 2050 in order to limit global temperature rise to 1.5 degrees Celsius."}. Ultimately, current trends indicate that nuclear energy use will likely continue to decline. [^13]; [^29]; [^30]; [^32]; [^44]; [^51]; [^52]; [^54]
 
+## Further Reading {.cards}
+
+### Accidents & Disasters {href=https://digbmc.github.io/reactor-jct/nuclear-disasters}
+![](https://upload.wikimedia.org/wikipedia/commons/1/15/Chernobyl_2019_G03.jpg)
+*Nuclear accidents over time.*
+
+### Present & Future {href=https://digbmc.github.io/reactor-jct/present-and-future}
+![](https://upload.wikimedia.org/wikipedia/commons/5/54/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3859%29.jpg)
+*The present and future of nuclear energy.*
+
+### How It Works {href=https://digbmc.github.io/reactor-jct/science}
+![](https://upload.wikimedia.org/wikipedia/commons/3/30/NSC-Oct-2017.jpg)
+*How nuclear power and reactors work.*
+
 [^1]: Asia’s Nuclear Energy Growth | Nuclear Power Developments in Asia - World Nuclear Association. Apr. 2023, https://world-nuclear.org/information-library/country-profiles/others/asias-nuclear-energy-growth.aspx.
 [^2]: Baraniuk, Chris. “Could Nuclear Desalination Plants Beat Water Scarcity?” BBC, 21 June 2022, https://www.bbc.com/news/business-61483491. 7/7/2023.
 [^3]: Brumfiel, Geoff, et al. “Video Analysis Reveals Russian Attack on Ukrainian Nuclear Plant Veered near Disaster.” NPR, 11 Mar. 2022, https://www.npr.org/2022/03/11/1085427380/ukraine-nuclear-power-plant-zaporizhzhia.
