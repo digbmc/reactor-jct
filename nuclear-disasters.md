@@ -9,8 +9,8 @@
 
 | Event | Type of Accident | Date | Deaths | 
 | ------------ |:-------------:| -----:|-----:|
-|  <a href="#k19">k 19</a><br />  | Submarine reactor | 07/04/1961 |==22=={description="over a span of two years"}[^1] |
-|  <a href="#k27">k 27</a><br />  |Submarine reactor | 05/24/1968 |==9=={description="all 144 of the crew poisoned and injured"}[^3]|
+|  <a href="#k19">K 19</a><br />  | Submarine reactor | 07/04/1961 |==22=={description="over a span of two years"}[^1] |
+|  <a href="#k27">K 27</a><br />  |Submarine reactor | 05/24/1968 |==9=={description="all 144 of the crew poisoned and injured"}[^3]|
 |  <a href="#Texas-radiological-assault">Texas radiological assault</a><br />   | Criminal acts       | 1974 |==0=={description="target of assault injured"}[^6]|
 |  <a href="#Tammiku-Stolen-Source">Tammiku Stolen Source</a><br />   | Criminal acts      |  10/21/1994 |==1=={description="4 injuries, 1 family dog died"}|
 |  <a href="#Guangzhou-radiological-assault">Guangzhou radiological assault</a><br />   | Criminal acts      | 2002  |==0=={description="target of assault injured"}[^9] |
@@ -36,7 +36,7 @@
     - Q488690 8 marker "Dauphin County, PA"
     -Q161176 8 marker "Fukushima"
     
-#### <a id="k19">k 19</a>
+#### <a id="k19">K 19</a>
 
 The K19 submarine was the first ballistic-missile equipped nuclear submarine, carrying three ballistic missiles with a range of 650km. During its first mission as a US attacker on June 18, 1961, the submarine experienced testing pressure that exceeded its designed pressure at ==Abrosimov Bay=={flyto:Q39265625,7}, resulting in damaged piping in the primary cooling unit. This led to a drop in pressure, causing the reactor water to boil and the reactor room temperature to reach 140°C, resulting in a fire. 
 
@@ -46,7 +46,7 @@ With no coolant system in place, the crew had to fix the leak using raincoats an
 
 The person in charge of the test failed to report the damage to superiors and did not perform necessary repairs. Additionally, the captain did not respond immediately after the leak occurred. The crew members were sworn to secrecy, routinely lying to doctors during checkups for decades following the accident.
 
-#### <a id="k27">k 27</a>
+#### <a id="k27">K 27</a>
 
 K-27 was sent off on a five-day trip to conduct checkups for a 70-day mission, collecting data on two experimental liquid metal-cooled reactors which featured a new design intended for the Soviet army. The goal was to have the first USSR submarine remain submerged for 50 consecutive days. 
 
