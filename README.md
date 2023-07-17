@@ -23,7 +23,7 @@ The basics of nuclear energy generation and nuclear reactor design.
 ## Accidents & Disasters {href="/nuclear-disasters"}
 ![](https://upload.wikimedia.org/wikipedia/commons/1/15/Chernobyl_2019_G03.jpg)
 
-Description of the most infamous nuclear disasters from around the world. 
+A representative survey of nuclear incidents. 
 
 ## Present & Future {href="/present-and-future"}
 ![](https://upload.wikimedia.org/wikipedia/commons/5/54/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3859%29.jpg)
