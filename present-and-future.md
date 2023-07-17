@@ -6,15 +6,12 @@
     - [Disasters](nuclear-disasters/)
     - [Present and Future](present-and-future/)
 
+Nuclear power didn't just disappear after the accident at Chornobyl, and will continue to affect our daily lives for a long time to come! In this section, we review the current state of nuclear as well as how it may evolve or decline in the future. 
+
 ## Nuclear Power and Geopolitics
-
-
-
 As nuclear energy is spreading rapidly in today's world, it is interwining the global political landscape. Energy security, nuclear proliferation, non-proliferation treaties, nuclear alliances, nuclear energy cooperation, nuclear accidents, geopolitical hotspots are some of the concerns that is revolving mostly around Asia and Europe.
 
-
-### Europe and Nuclear Power {.cards}
-
+## Europe and Nuclear Power {.cards}
 The Chernobyl disaster majorly impacted on Europe's perception of nuclear power. The EU is concerned about the safety of nuclear reactors and their potential for catastrophic consequences. Phasing out or reducing their reliance on nuclear power was influenced by public sentiment, political factors, and a desire to prioritize other alternative energy sources such as renewable energy. Long-term environmental impact of nuclear power played a role as well. Issues such as radioactive waste disposal, the risk of accidents, and the potential for nuclear proliferation have raised questions about the sustainability and desirability of nuclear energy. [^10] [^12] [^22] [^25] [^26] [^35] [^36] [^40] [^41] [^42] [^44] [^47] [^48] [^53] [^60]
 
 However, it is noteworthy that nuclear power is not entirely absent in Europe. Countries such as France and Sweden, still heavily rely on nuclear energy for electricity. Also, some countries are embracing advanced nuclear technologies, such as small modular reactors and fusion, hoping to lead to a reevaluation of nuclear power in the future. Western Europe’s nuclear need and Eastern Europe’s nuclear security conflicts (shifts in public opinion and policies regarding regional nuclear energy strategies, international cooperation and nuclear safety standards) might be the reasons behind it. [^17] [^26] [^35] [^36] [^40] [^41]  [^42] [^44] [^47] [^48] [^53] [^60] 
@@ -26,63 +23,61 @@ However, it is noteworthy that nuclear power is not entirely absent in Europe. C
 .ve-iframe width=80% height=600px https://ourworldindata.org/grapher/annual-change-nuclear?tab=chart&facet=entity&country=OWID_ASI~OWID_EUR~Europe+%28BP%29~OWID_EU27~Asia+Pa 
 
 
-##### Germany
+### Germany
 All NPPs are shut down (most recently in April 2023). 
-##### Italy
+### Italy
 After 1986 rejected all plans. 
 In 2007 considered a restoration attempt. 
 In 2011 banned the use of nuclear power as the result of a referendum. 
-##### Austria
+### Austria
 In 1978, held a referendum on building a NPP, the citizens voted against nuclear power, never operated.  
 In the 1960s, three small nuclear reactors were built for scientific purposes, and only one of these plants is in operation. 
-##### Switzerland
+### Switzerland
 In 1990, a referendum was held, citizens supported a ten-year moratorium on building new NPPs, but the four existing plants continued in operation. In 2017, the Swiss government rejected the construction of new NPPs. 
-##### UK
+### UK
 have plans to close all the NPPs by 2035. 
-##### Belgium
+### Belgium
 Plans to close most of the NPPs by 2025, others by 2035. 
-##### France
+### France
 68% of the country's annual electricity generation comes from NPPs. 
-##### Netherlands
+### Netherlands
 one NPP reactor in operation, one NPP in safe enclosure, two research reactors, one enrichment plant 
-##### Ireland
+### Ireland
 In 1999, electricity produced by nuclear fission was banned. 
-##### Russia
+### Russia
 In the twenty-first century, Russia resumed the use of nuclear energy. Rosatom corporation consists of 360 enterprises and is currently building NPPs in twelve countries. 
-##### Belarus
+### Belarus
 has returned to the use of NPPs.  
 In 2021, the first Belarusian NPP operated. 
 By 2023, another NPP will start operating. 
-##### Lithuania
+### Lithuania
 Closed its NPP (the sole source of 70 percent of its electricity) 
-##### Poland
+### Poland
 In the 1990 referendum, 86 percent of citizens voted against the use of nuclear power. 
 Proposal of own NPP in operation by 2030. 
-##### Czech Republic
+### Czech Republic
 Has six reactors in operation and more in future. 
-##### Slovakia
+### Slovakia
 Active four nuclear reactors. 
 In 2004, it had to close two reactors as a condition of joining the EU. 
-##### Ukraine
+### Ukraine
 More than half the electricity produced from NPPs. 
 
 
-### Expansion of Nuclear Power in Asia 
-
+## Expansion of Nuclear Power in Asia 
 Asian countries are mostly leaning towards nuclear energy due to their economics and increasing their energy demands. Also nuclear power is green energy and sustainable for the environment as a lot of Asian countries are dependent on ==fossil fuel=={Q12748} energy and they are going under the minimum percentage of forest a country should have. So, with growing industries and populations, if nuclear power is handled with proper precaution, it is the most consistent energy option for their overall energy mix to ensure energy security and meet their rising electricity needs. With substantial nuclear power capabilities, countries are less dependent on imported fossil fuels, reducing their vulnerability to fluctuations in global energy markets and potential supply disruptions. As a result, they can achieve a more stable position in geopolitical negotiations and are less likely to be influenced by energy-related political pressures. [^1] [^5] [^10] [^11] [^17]  [^22] [^25] [^30] [^33] [^47] [^53] [^54] [^55]
 
 
-### World Power around the Russian-Ukrainian War
+## World Power around the Russian-Ukrainian War
 The conflict between Russia and Ukraine is geographically distant from most Asian countries, and also their immediate security concerns might be focused on ther geopolitical tensions in the Middle East, the Korean Peninsula, and around South Asia which are often considered a result of nuclear  proliferation. It's also true that the Russian-Ukrainian war has impacted global security and geopolitics, and some Asian countries' interests lies in the outcome (like China shares a border with Russia). Again economic or political ties (foreign policy objectives) to either Russia or Ukraine impacted the support for each country.  Countries with significant trade or investment links to either country tends to have a stronger incentive to monitor the situation closely due to potential economic repercussions. These alliances are also creating geopolitical blocs and influencing global power dynamics (like NATO's nuclear-sharing arrangements about the deployment of U.S. nuclear weapons in some European countries).  [^11] [^14] [^22] [^25] [^53] [^54] [^55]
 
 ### Zaporizhzhya NPP in the Russian-Ukrainian Warfare
-
 As ==Zaporizhzhya NPP=={Q909477}  was taken over by russian army, with continued shelling around the plant is repeatedly cutting access to the electricity grid. As a result, it's last working reactor were scheduled to be shut down. A stable electricity supply is important for any nuclear power plant to maintain cooling systems for radioactive fuel. Zaporizhzhya does have diesel generators to switch on when the primary electricity supply is cut, but they are not a long-term solution. The exact situation of not having continuous electricity to run the reactor worsened the situation of Chornobyl in the past, and also at ==Fukushima=={Q171178} during the earthquake. Disaster at Zaporizhzhya, caused either by an accident or a deliberate attack, residents in Ukrainian towns and villages nearby it could face the threat of radiation poisoning immediately or within a few hours. [^3] [^4] [^8] [^16] [^20] [^21] [^37] [^38]
 
 ### Ukraine’s Dam Collapse
 The destruction of the colossal ==Nova Kakhovka dam=={Q119210467} is draining the water supplies, farming in the region and the cooling of the Zaporizhzhia nuclear power plant. Tons of oil have been leaked and mixed with water, which will eventually fall into the Dnipro River and potentially the ==Black Sea=={Q166}. Kyiv has long warned of the danger of an attack on the dam. In this state, the dam’s destruction in the Kherson region marks a potential war crime which leads to another devastating consequence of the Russian invasion of Ukraine. [^7] [^10]
 
-## Prevalence of nuclear power globally
+# Prevalence of nuclear power globally
 While a significant portion of the world’s energy is generated by nuclear power, its use has been declining since a peak in the early 2000s, driven by a combination of political opposition and the rise of cheap energy sources such as natural gas. While the global share of ==renewables=={Q12705} has very recently started to catch up, this decline in the use of nuclear power has been compensated for primarily using fossil fuels. [^10]; [^44]; [^51]; [^54]
 
 .ve-iframe width=70% height=600px https://ourworldindata.org/explorers/energy?time=latest&facet=none&country=~OWID_WRL&hideControls=false&Total+or+Breakdown=Select+a+source&Energy+or+Electricity=Primary+energy&Metric=Per+capita+consumption&Select+a+source=Nuclear
