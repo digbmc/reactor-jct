@@ -89,6 +89,7 @@ The global stockpile of nuclear weapons also declined in the 1990s and early 200
 Nuclear power has a variety of uses beyond pure electricity production, many of which are derived from the byproducts of nuclear energy generation. [^15] [^18]
 
 ### Hydrogen production
+.ve-media wc:Hydrogen_fuel_cell_bus_in_Daiba.jpg caption="Hydrogen fuel cell bus"
 Nuclear power can be utilized to produce hydrogen, an increasingly important ingredient in the production of chemicals like ammonia and methanol as well as the manufacture of fuel cells. Currently, hydrogen production is dominated by fossil fuels, making nuclear power an alternative that does not produce greenhouse gas emissions. [^18] [^27] [^31] [^43] [^49]
 
 ### District heating
@@ -100,6 +101,7 @@ District heating systems, which allow buildings in an area to be heated from the
 The combined heat and electricity produced by a nuclear reactor from an onshore plant or floating vessel can be used in the desalination of seawater. [^2] [^18] [^49]
 
 ### Industrial process heating
+.ve-media wc:Allegheny_Ludlum_steel_furnace.jpg caption="Steel furnace"
 While many renewable energy sources can produce the heat needed for low-temperature industrial process heating, nuclear power is able to provide the high temperatures necessary for other industrial processes. [^18] [^49] [^57]
 
 ### Radioisotope production
@@ -107,6 +109,7 @@ While many renewable energy sources can produce the heat needed for low-temperat
 Nuclear reactors and other nuclear technologies can be used to produce the radioisotopes necessary for medical equipment, research applications like carbon dating, and the production of technology like smoke detectors. [^39] [^49]
 
 ### Utilizing waste products
+.ve-media wc:Fluor_Fernald_Workers.jpg caption="Pneumatic removal of thorium-bearing waste"
 Waste products from other industries, such as thorium and copper, have the potential to be utilized in or transformed into useful material by nuclear power. [^9] [^34] [^49]
 
 ## Issues with modern nuclear power
@@ -135,9 +138,8 @@ The U.S. nuclear energy industry is dominated by the ==light water reactor (LWR)
 
 ## The future of nuclear power
 .ve-media width=70% wc:20181204_Warming_stripes_(global,_WMO,_1850-2018)_-_Climate_Lab_Book_(Ed_Hawkins).png right no-caption
-Nuclear energy, due to the scale of damage possible if it is mishandled or weaponized, remains controversial. Advocates argue that nuclear power is a source of efficient and reliable energy that, while posing potential dangers, is key to a ==successful transition=={Q795757} from our current energy economy to one that produces net zero or net negative emissions by 2050 in order to prevent ==catastrophic levels of warming=={description="The Intergovernmental Panel on Climate Change has concluded that global emissions need to reach net zero by 2050 in order to limit global temperature rise to 1.5 degrees Celsius."}. Ultimately, current trends indicate that nuclear energy use will likely continue to decline. [^10] [^13] [^19] [^29] [^30] [^32] [^42] [^44] [^51] [^52] [^54] [^59]
+Nuclear energy, due to the scale of damage possible if it is mishandled or weaponized, remains controversial. Advocates argue that nuclear power is a source of efficient and reliable energy that, while posing potential dangers, is key to a ==successful transition=={Q795757} from our current energy economy to one that produces net zero or net negative emissions by 2050 in order to prevent ==catastrophic levels of warming=={description="The Intergovernmental Panel on Climate Change has concluded that global emissions need to reach net zero by 2050 in order to limit global temperature rise to 1.5 degrees Celsius."}. Ultimately, current trends indicate that nuclear energy use will likely continue to decline. [^10]; [^13] [^19] [^29] [^30] [^32] [^42] [^44] [^51] [^52] [^54] [^59]
 
-# Works cited
 [^1]: Asia’s Nuclear Energy Growth | Nuclear Power Developments in Asia - World Nuclear Association. Apr. 2023, https://world-nuclear.org/information-library/country-profiles/others/asias-nuclear-energy-growth.aspx.
 [^2]: Baraniuk, Chris. “Could Nuclear Desalination Plants Beat Water Scarcity?” BBC, 21 June 2022, https://www.bbc.com/news/business-61483491. 7/7/2023.
 [^3]: Brumfiel, Geoff, et al. “Video Analysis Reveals Russian Attack on Ukrainian Nuclear Plant Veered near Disaster.” NPR, 11 Mar. 2022, https://www.npr.org/2022/03/11/1085427380/ukraine-nuclear-power-plant-zaporizhzhia.
