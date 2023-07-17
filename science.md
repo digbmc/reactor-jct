@@ -3,7 +3,7 @@
 
 
 
-###How nuclear energy is generated
+### How nuclear energy is generated
 
 .ve-media wc:Liquid_drop_model_of_nuclear_fission.jpg right 
 
@@ -11,12 +11,11 @@ The first law of thermodynamics asserts that heat is energy, which is generated 
 
 
 
-###The process of nuclear energy production
-
+### The process of nuclear energy production
 
 Firstly, uranium is processed and enriched in order to increase the concentration of uranium atoms. Then it is pressed into little uranium pellets which are then packed into long metal rods called fuel rods.[^1] The fuel rods are grouped together to make a fuel assembly. The process of nuclear fission starts generating heat in the fuel assembly. The heat generated boils water which is located either in the same compartment or in a separate location. The location of the water is determined by the kind of reactor in use. The boiling water turns to steam which spins an electricity-generating turbine. The steam is then condensed and the water gets recycled once more. The process is controlled by control rods which absorb extra neutrons in order to slow down or stop the reaction. Control rods are made from neutron-absorbing materials such as boron and silver, which aid in the hindering of neutrons which continue the nuclear fission chain reaction. One can moderate the speed and ability to generate energy by inserting the control rods for a certain length or removing them entirely. 
 
-###Types of reactors {.cards}
+### Types of reactors {.cards}
 
 There are two kinds of nuclear reactor designs currently used in the United States, and their main difference is the way they generate steam. One of them is the more common pressurized water reactor. This kind of reactor uses water for cooling the reactor and for driving the electricity-generating turbines; however, those processes are separated via loops and do not mix. The other reactor is the less common boiling water reactor. This reactor uses the same water which is used to cool and power the electricity-generating turbines. 
 
@@ -49,7 +48,7 @@ The previous two reactors were moderated and cooled by water, which means that t
 The RMBK diagram showing its complex construction.[^5]
 
 
-###The reactor explosion
+### The reactor explosion
 
 The explosion started when there was too much power generated and the heat from the power increased, which made the fuel rods break and leak into the external cooling system. When coming into contact with the cooling system without the protection of the control rods, the water elementally separated which blew the lid off the reactor. This hot steam explosion set off a chain of events that led to the graphite of the control rods melting. When mixed with other elements such as nuclear fuel and fission products, the melted graphite created corium, which then turned into lava-like radioactive material which is extremely dangerous. 
 
@@ -58,7 +57,8 @@ Some say that the Chornobyl reactor was doomed to fail due to the numerous desig
 For more information on the design flaw topic: [Cutting Corners](https://digitalscholarship.brynmawr.edu/reactor-room/projects/cutting-corners/)
 
 
-###The post-Chornobyl changes
+### The post-Chornobyl changes
+
 In order to prevent further accidents, there were some modifications done to the reactor design for the health and safety of the operators and those in the surrounding area. The first was the reduction of the void coefficient of reactivity. In order to do that, the design was changed in three ways: 80-90 new neutron absorbers were installed in the core to inhibit operation at low power; the amount of control rods was increased from 26-30 rods to 43-48 rods; and fuel enrichment was increased from 2% to 2.4%. The second large modification was the improvement of the response efficiency of the emergency protection system. A fast-acting emergency protection system, FAEP, was installed which rapidly introduced negative reactivity. The third modification was the introduction of calculation programs to provide an indication of the value of the effective number of control rods remaining in the core in the control room so that the operators would make decisions based on recent and correct data. Finally, measures were introduced to prevent operators from bypassing the emergency safety systems while the reactor is active. All of these design changes were necessary for the safety and security of the reactor and its operators. [^4]
 
 
