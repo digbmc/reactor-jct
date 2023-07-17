@@ -45,6 +45,7 @@ With no coolant system in place, the crew had to fix the leak using raincoats an
 ##### Human Factors
 
 The person in charge of the test failed to report the damage to superiors and did not perform necessary repairs. Additionally, the captain did not respond immediately after the leak occurred. The crew members were sworn to secrecy, routinely lying to doctors during checkups for decades following the accident.
+
 .ve-media wc:K-19.jpg caption = "Problem-plagued K-19, disabled in the North Atlantic on 29 February 1972. Picture taken on board of the US Navy plane."
 
 #### <a id="k27">K-27</a>
@@ -60,6 +61,7 @@ The exhausted crew of the submarine faced a series of alarming oversights and ne
 When the submarine returned to dock, most of the crew members who had been exposed to radiation were compelled to walk back to the base. Several members were left on board the submarine to "keep watch," further exacerbating their exposure. A lack of proper medical checkups followed the incident, with many crew members being declared healthy by military doctors without thorough examination. 
 
 The captain did make a crucial decision to ignore orders from the division to cut the engines and remain in the submarine. Recognizing the dangers of prolonged exposure, he took action to safeguard the crew by preventing further hours of potential radiation poisoning.
+
 .ve-media wc:The dead sailors of the submarine "K-27".jpg caption = "The dead sailors of the submarine K-27"
 
 #### <a id="Texas-radiological-assault">Texas Radiological Assault</a>
