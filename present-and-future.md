@@ -133,7 +133,7 @@ Mandler, C. What’s at Stake with Ukraine’s Zaporizhzhia Nuclear Power Plant,
 and Nancy, Jean-Luc. After Fukushima: The Equivalence of Catastrophes. First Edition, Fordham University Press, 2015, https://tripod.brynmawr.edu/permalink/01TRI_INST/160urp0/alma991009892059704921. Accessed 7 July 2023.
 
 ### Ukraine’s Dam Collapse
-The destruction of the colossal ==Nova Kakhovka dam=={Q119210467} is draining the water supplies, farming in the region and the cooling of the Zaporizhzhia nuclear power plant. Tons of oil have been leaked and mixed with water, which will eventually fall into the Dnipro River and potentially the ==Black Sea=={Q166}. Kyiv has long warned of the danger of an attack on the dam. In this state, the dam’s destruction in the Kherson region marks a potential war crime which leads to another devastating consequence of the Russian invasion of Ukraine. [^6]
+The destruction of the colossal ==Nova Kakhovka dam=={Q119210467} is draining the water supplies, farming in the region and the cooling of the Zaporizhzhya nuclear power plant. Tons of oil have been leaked and mixed with water, which will eventually fall into the Dnipro River and potentially the ==Black Sea=={Q166}. Kyiv has long warned of the danger of an attack on the dam. In this state, the dam’s destruction in the Kherson region marks a potential war crime which leads to another devastating consequence of the Russian invasion of Ukraine. [^6]
 
 [^6]: See:
 Caulcutt, Clea. “‘The Worst Environmental Disaster since Chernobyl’.” POLITICO, 7 July 2023, https://www.politico.com/newsletters/global-insider/2023/06/07/the-worst-environmental-disaster-since-chernobyl-00100713. Accessed 7 July 2023.
