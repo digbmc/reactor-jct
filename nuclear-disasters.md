@@ -64,7 +64,7 @@ The captain did make a crucial decision to ignore orders from the division to cu
 
 A man from ==Harris County, Texas=={flyto:Q26676,7} deliberately exposed his 11-year-old son to radiological material on multiple occasions, resulting in serious consequences. The man had obtained capsules of ==Cesium 137=={description="a radioactive isotope commonly used in medical devices, gauges, and also produced as a byproduct of nuclear weapons and reactors. It is worth noting that approximately 27 kg of Cesium 137 was generated during the Chornobyl disaster."} [^5] and used under 5-7 occasions, placing it inside headphones, pillows and cushions used by his son. In 1973, a plastic surgeon diagnosed the boy's skin lesion as being radiation-induced, confirming the harmful effects of the exposure. 
 
-As a result, the boy had to undergo 16 operations between 1974 and 1978, including numerous skin grafts and castration.[^7] 
+As a result, the boy had to undergo 16 operations between 1974 and 1978, including numerous skin grafts and castration. The man was sentenced to five years in prison. [^7] 
 
 #### <a id="Tammiku-Stolen-Source">Tammiku Stolen Source</a>
 
@@ -74,13 +74,13 @@ The man who carried the stolen source home received a dose of ==183,000 rads=={d
 
 #### <a id="Guangzhou-radiological-assault">Guangzhou radiological assault</a>
 
-A radiology scientist based in ==Guangzhou, China=={flyto:Q16572,7} used ==Iridium 192=={description="Iridium 192 is a man-made radioactive element commonly utilized in the medical field to combat cancer cells, produced through the irradiation of nonradioactive iridium in a nuclear reactor. "} pellets to target his colleague and former business partner. With forged documents, the scientist obtained an industrial machine containing Iridium 192 and enlisted an accomplice to help. They installed the machine above the ceiling panels in the victim's office and activated it when the victim was present.After approximately two months, the victim began to suspect a connection between his deteriorating health and radiation exposure. 
+A radiology scientist based in ==Guangzhou, China=={flyto:Q16572,7} used ==Iridium 192=={description="Iridium 192 is a man-made radioactive element commonly utilized in the medical field to combat cancer cells, produced through the irradiation of nonradioactive iridium in a nuclear reactor. "} pellets to target his colleague and former business partner. With forged documents, the scientist obtained an industrial machine containing Iridium 192 and enlisted an accomplice to help. They installed the machine above the ceiling panels in the victim's office and activated it when the victim was present. After approximately two months, the victim began to suspect a connection between his deteriorating health and radiation exposure. 
 
 The primary victim was exposed to a dose ranging from 70 to 150 rads, while an additional 78 hospital staff members were also injured.[^10]  
 
 #### <a id="San-Jose-Radiotherapy-incident">San Jose Radiotherapy incident</a>
 
-The ==San Jose=={flyto:Q3070,7} radiotherapy incident in 1996 involved a significant error in a ==Cobalt 60=={description="Cobalt 60 (Co-60) is a radioactive isotope used in medical applications for radiotherapy treatment. It is produced as a byproduct of nuclear reactors when metal structures, such as steel rods, are exposed to neutron radiation."} radiotherapy unit, leading to overdosages of approximately 60%. This incident resulted in the deaths of 7 to 17 individuals, although there were debates regarding whether the deaths were caused by the radiotherapy exposure or the underlying illnesses themselves. Additionally, 81 individuals suffered injuries as a result of the overexposures. [^11]   
+The ==San Jose=={flyto:Q3070,7} radiotherapy incident in 1996 involved a significant error in a ==Cobalt 60=={description="Cobalt 60 (Co-60) is a radioactive isotope used in medical applications for radiotherapy treatment. It is produced as a byproduct of nuclear reactors when metal structures, such as steel rods, are exposed to neutron radiation."} radiotherapy unit, leading to overdosages of approximately 60%. This incident resulted in the deaths of 7 to 17 individuals, although there were debates regarding whether the deaths were caused by the radiotherapy exposure or the underlying illnesses themselves. Additionally, 81 individuals suffered injuries as a result of the overexposures. [^5][^11]   
 
 #### <a id="Orphaned-source-in-Goiania-Brazil">Orphaned source in Goiania Brazil</a>
 
@@ -98,7 +98,7 @@ As a result, all crew members were hospitalized, and aggressive blood transfusio
 
 #### <a id="SL-1-Reactor-excursion">SL-1 Reactor excursion</a>
 
-The SL-1 reactor was a prototype reactor designed for easy assembly in remote locations.The reactor was water moderated and controlled by five aluminum-clad cadmium control rods. While three workers were reassembling the control rod drives on Jan 3 1961, one worker manually removed the center control rod rapidly over a 0.5-second period, causing the reactor to become supercritical. This resulted in a steam explosion with a total energy release of 1.3 x 108 joules, comparable to 30 kg of TNT. The worker who withdrew the rod was killed instantly by a control rod. The other two workers were burned and thrown by the explosion, with one dying instantly from impact and the other succumbing to head injuries and dying a few hours later. The release of radioactive material was largely contained within the building.
+The SL-1 reactor was a prototype reactor designed for easy assembly in remote locations.The reactor was water moderated and controlled by five aluminum-clad cadmium control rods. While three workers were reassembling the control rod drives on January 3 1961, one worker manually removed the center control rod rapidly over a 0.5-second period, causing the reactor to become supercritical. This resulted in a steam explosion with a total energy release of 1.3 x 108 joules, comparable to 30 kg of TNT. The worker who withdrew the rod was killed instantly by a control rod. The other two workers were burned and thrown by the explosion, with one dying instantly from impact and the other succumbing to head injuries and dying a few hours later. The release of radioactive material was largely contained within the building.
 High radiation levels delayed emergency responders’ entry into the reactor building. The bodies of the deceased workers were recovered on January 4 and January 9. In total, 22 personnel and responders received radiation doses ranging from 3 to 27 rads.[^17]
 
 ## Powerplant Failures: Consequences and Responses 
