@@ -8,6 +8,8 @@
 
 Nuclear power didn't just disappear after the accident at Chornobyl, and will continue to affect our daily lives for a long time to come! In this section, we review the current state of nuclear as well as how it may evolve or decline in the future.
 
+.ve-media Nuclear_power_environmenal_collage.jpg static
+
 # Nuclear Power and Geopolitics
 As nuclear energy is spreading rapidly in today's world, it is interwining with the global political landscape. Energy security, nuclear proliferation, non-proliferation treaties, nuclear alliances, nuclear energy cooperation, nuclear accidents, geopolitical hotspots are some of the concerns that is revolving mostly around Asia and Europe.
 
@@ -267,7 +269,7 @@ and Toth, Ferenc L. Nuclear Energy in Combating Climate Change in Asia and the P
 *Nuclear accidents over time.*
 
 ### Nuclear History {href=nuclear-history/}
-![](https://commons.wikimedia.org/wiki/File:Laura_and_Enrico_Fermi_1954.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Laura_and_Enrico_Fermi_1954.jpg)
 *The present and future of nuclear energy.*
 
 ### How It Works {href=science/}
@@ -275,5 +277,5 @@ and Toth, Ferenc L. Nuclear Energy in Combating Climate Change in Asia and the P
 *How nuclear power and reactors work.*
 
 ### Nuclear Energy Figures {href=https://ourworldindata.org/nuclear-energy}
-![](https://commons.wikimedia.org/wiki/File:Our_World_in_Data_logo.png)
+![](https://upload.wikimedia.org/wikipedia/commons/4/44/Our_World_in_Data_logo.png)
 *Interactive graphics on nuclear energy by* Our World in Data.
