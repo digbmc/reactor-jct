@@ -62,6 +62,27 @@ For more information on the design flaw topic: [Cutting Corners](https://digital
 In order to prevent further accidents, there were some modifications done to the reactor design for the health and safety of the operators and those in the surrounding area. The first was the reduction of the void coefficient of reactivity. In order to do that, the design was changed in three ways: 80-90 new neutron absorbers were installed in the core to inhibit operation at low power; the amount of control rods was increased from 26-30 rods to 43-48 rods; and fuel enrichment was increased from 2% to 2.4%. The second large modification was the improvement of the response efficiency of the emergency protection system. A fast-acting emergency protection system, FAEP, was installed which rapidly introduced negative reactivity. The third modification was the introduction of calculation programs to provide an indication of the value of the effective number of control rods remaining in the core in the control room so that the operators would make decisions based on recent and correct data. Finally, measures were introduced to prevent operators from bypassing the emergency safety systems while the reactor is active. All of these design changes were necessary for the safety and security of the reactor and its operators. [^4]
 
 
+## Further Reading {.cards}
+
+### Accidents & Disasters {href=https://digbmc.github.io/reactor-jct/nuclear-disasters}
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/15/Chernobyl_2019_G03.jpg)
+
+*Nuclear accidents over time.*
+
+### Present & Future {href=https://digbmc.github.io/reactor-jct/present-and-future}
+
+![](https://upload.wikimedia.org/wikipedia/commons/5/54/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3859%29.jpg)
+
+*The present and future of nuclear energy.*
+
+### How It Works {href=https://digbmc.github.io/reactor-jct/science}
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/30/NSC-Oct-2017.jpg)
+
+*How nuclear power and reactors work.*
+
+
 [^1]: How Does a Nuclear Reactor Work - [World Nuclear Association](https://world-nuclear.org/nuclear-essentials/how-does-a-nuclear-reactor-work.aspx.) Accessed 12 June 2023.
 [^2]: Graphics made by Sarah Harman | [U.S. Department of Energy](https://www.energy.gov/ne/office-nuclear-energy)
 [^3]: Semenov, B. A. “Nuclear Power in the Soviet Union.” IAEA Bulletin, vol. 25, no. 2, 1983.
