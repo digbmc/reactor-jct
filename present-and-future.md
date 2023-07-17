@@ -27,7 +27,7 @@ After 1986 rejected all plans.
 In 2007 considered a restoration attempt. 
 In 2011 banned the use of nuclear power as the result of a referendum. 
 ##### Austria
-In 1978, held a referendum on building an NPP, the citizens voted against nuclear power, never operated.  
+In 1978, held a referendum on building a NPP, the citizens voted against nuclear power, never operated.  
 In the 1960s, three small nuclear reactors were built for scientific purposes, and only one of these plants is in operation. 
 ##### Switzerland
 In 1990, a referendum was held, citizens supported a ten-year moratorium on building new NPPs, but the four existing plants continued in operation. In 2017, the Swiss government rejected the construction of new NPPs. 
