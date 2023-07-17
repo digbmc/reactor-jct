@@ -24,7 +24,7 @@ However, it is noteworthy that nuclear power is not entirely absent in Europe. C
 All NPPs are shut down (most recently in April 2023). 
 ##### Italy
 After 1986 rejected all plans. 
-In 2007 Was thinking about a restoration attempt  
+In 2007 considered a restoration attempt. 
 In 2011 banned the use of nuclear power as the result of a referendum. 
 ##### Austria
 In 1978, held a referendum on building an NPP, the citizens voted against nuclear power, never operated.  
