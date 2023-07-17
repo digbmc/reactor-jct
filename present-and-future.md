@@ -45,9 +45,6 @@ Prokip, Andrian. “Anniversary of Chernobyl Finds European Nuclear Power at a C
 Thomas, S. D. The Realities of Nuclear Power: International Economic and Regulatory Experience. Cambridge University Press, 1988, https://tripod.brynmawr.edu/permalink/01TRI_INST/1ijd0uu/alma991003033149704921. Accessed 7 July 2023;
 and Росатом Госкорпорация «Росатом» ядерные технологии атомная энергетика АЭС ядерная медицина. 14:37 2021, https://www.rosatom.ru/journalist/news/energoblok-1-belorusskoy-aes-prinyat-v-promyshlennuyu-ekspluatatsiyu/. Accessed 7 July 2023.
 
-.ve-iframe width=80% height=600px https://ourworldindata.org/grapher/nuclear-primary-energy?facet=none&country=BGD~BLR~AUT~BEL~BRA~CHN~CZE~FIN~FRA~DEU~HKG~HUN~ISL~IND~IDN~IRL~LTU~VNM~GBR~OWID_USS~TUR~THA~TWN~SWE~LKA~ESP~SVK~SGP~KOR~RUS~PRT~POL~PHL~PAK~NLD~LUX~MYS
-
-
 ### Germany
 All NPPs are shut down (most recently in April 2023). 
 ### Italy
@@ -87,6 +84,10 @@ Has active four nuclear reactors.
 In 2004, it had to close two reactors as a condition of joining the EU. 
 ### Ukraine
 More than half of the electricity produced from NPPs. 
+
+
+Here is a graph showing how nuclear energy is expanding as a primary source of energy around the world.
+.ve-iframe width=80% height=600px https://ourworldindata.org/grapher/nuclear-primary-energy?facet=none&country=BGD~BLR~AUT~BEL~BRA~CHN~CZE~FIN~FRA~DEU~HKG~HUN~ISL~IND~IDN~IRL~LTU~VNM~GBR~OWID_USS~TUR~THA~TWN~SWE~LKA~ESP~SVK~SGP~KOR~RUS~PRT~POL~PHL~PAK~NLD~LUX~MYS
 
 
 ## Expansion of Nuclear Power in Asia 
