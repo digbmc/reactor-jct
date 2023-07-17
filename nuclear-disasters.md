@@ -75,7 +75,7 @@ As a result, the boy had to undergo 16 operations between 1974 and 1978, includi
 
 Three brothers stole Cesium 137 from a nuclear waste factory in ==Tammiku, Estonia=={flyto:Q1356491,7}. One of the brothers placed the stolen metal block in his jacket pocket. He was hospitalized within 4 days and passed away just two days later, with the cause of death determined to be kidney failure, showing no signs of radiation injury. Unaware of the danger, the victim's stepson placed the metal in a kitchen drawer. After eight days, he too was hospitalized with radiation burns detected on his body. The authorities were promptly notified. 
 
-The man who carried the stolen source home received a dose of ==183,000 rads=={description="rad stands for radiation absorbed dose and measures the amount of energy deposited per unit of weight of human tissue. A rem is the dosage received from the exposure to a rad. It is the number of rads multiplied by the quality factor of the particular source of radiation."} [^29] [^30] to his thigh and a whole-body dose of 4,000 rads. Other family members also received whole-body doses ranging from 100 to 400 rads. Tragically, even the family dog, which slept near the metal, succumbed to the radiation exposure and died.[^8] 
+The man who carried the stolen source home received a dose of ==183,000 rads=={description="rad stands for radiation absorbed dose and measures the amount of energy deposited per unit of weight of human tissue. A rem is the dosage received from the exposure to a rad. It is the number of rads multiplied by the quality factor of the particular source of radiation."} [^29] [^30] to his thigh and a whole-body dose of 4,000 rads. Other family members also received whole-body doses ranging from 100 to 400 rads. Tragically, even the family dog, which slept near the metal, succumbed to the radiation exposure and died. [^8] 
 
 #### <a id="Guangzhou-radiological-assault">Guangzhou Radiological Assault</a>
 
@@ -87,6 +87,7 @@ The primary victim was exposed to a dose ranging from 70 to 150 rads, while an a
 #### <a id="San-Jose-Radiotherapy-incident">San Jose Radiotherapy Incident</a>
 
 The ==San Jose=={flyto:Q3070,7} radiotherapy incident in 1996 involved a significant error in a ==Cobalt 60=={description="Cobalt 60 (Co-60) is a radioactive isotope used in medical applications for radiotherapy treatment. It is produced as a byproduct of nuclear reactors when metal structures, such as steel rods, are exposed to neutron radiation."} radiotherapy unit, leading to overdosages of approximately 60%. This incident resulted in the deaths of 7 to 17 individuals, although there were debates regarding whether the deaths were caused by the radiotherapy exposure or the underlying illnesses themselves. Additionally, 81 individuals suffered injuries as a result of the overexposures. [^5][^11]   
+.ve-media wc:137CS radioactive source/emitter caption = "137CS radioactive source/emitter"
 
 #### <a id="Orphaned-source-in-Goiania-Brazil">Orphaned Source in Goiania Brazil</a>
 
