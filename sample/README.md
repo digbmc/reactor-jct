@@ -8,7 +8,7 @@
 
 This Juncture essay illustrates the use of a few ==Markdown=={Q1193600} formatting tags and the incorporation of an image and a map into a Juncture essay.[^1] Does [this internal link](#aulacophora-indica) work properly? Maybe it will with an ID on the header element?
 
-.ve-media https://www.loc.gov/item/2007687055/manifest.json right
+.ve-media https://www.loc.gov/item/2007687055/manifest.json right "here's the caption"
 
 Owls are interesting and complex creatures. This one isn't real. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem. The owls are not what they seem.
 
