@@ -13,3 +13,26 @@ body {
     color: black;
     margin: 0;
 }
+
+
+
+/* Footnote weird space fix */
+
+sup::before {
+    max-height: 10px;
+    margin: 0;
+}
+
+:target:before {
+    margin: 0;
+}
+
+/* Footer color */
+
+ve-footer .main {
+    background-color: #c6d1d3;
+}
+
+ve-footer div.main.sticky {
+    background-color: #c6d1d3 !important;
+}
