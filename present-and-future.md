@@ -66,11 +66,11 @@ In 1990, a referendum was held, citizens supported a ten-year moratorium on buil
 ### UK
 have plans to close all the NPPs by 2035. 
 ### Belgium
-Plans to close most of the NPPs by 2025, others by 2035. 
+Plans to close most NPPs by 2025, others by 2035. 
 ### France
 68% of the country's annual electricity generation comes from NPPs. 
 ### Netherlands
-one NPP reactor in operation, one NPP in safe enclosure, two research reactors, one enrichment plant 
+One NPP reactor in operation, one NPP in safe enclosure, two research reactors, one enrichment plant 
 ### Ireland
 In 1999, electricity produced by nuclear fission was banned. 
 ### Russia
