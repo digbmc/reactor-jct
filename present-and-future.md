@@ -4,7 +4,7 @@
 
 
 
-As nuclear energy is spreading rapidly in today's world, it is interwining the global political landscape. Energy Security, Nuclear Proliferation, Non-Proliferation Treaties, Nuclear Alliances, Nuclear Energy Cooperation, Nuclear Accidents, Geopolitical Hotspots. While it can provide energy security and contribute to climate change mitigation, it also raises significant challenges related to nuclear proliferation and safety. Geopolitical considerations are crucial in shaping the global response to nuclear issues and determining the future of nuclear power on the international stage.
+As nuclear energy is spreading rapidly in today's world, it is interwining the global political landscape. Energy security, nuclear proliferation, non-proliferation treaties, nuclear alliances, nuclear energy cooperation, nuclear accidents, geopolitical hotspots are some of the concerns.
 
 
 ### Europe and nuclear power {.cards}
