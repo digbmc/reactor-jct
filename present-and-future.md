@@ -73,7 +73,7 @@ Proposal of own NPP in operation by 2030.
 ### Czech Republic
 Has six reactors in operation and more in future. 
 ### Slovakia
-Active four nuclear reactors. 
+Has active four nuclear reactors. 
 In 2004, it had to close two reactors as a condition of joining the EU. 
 ### Ukraine
 More than half of the electricity produced from NPPs. 
