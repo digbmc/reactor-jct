@@ -80,17 +80,17 @@ has returned to the use of NPPs.
 In 2021, the first Belarusian NPP operated. 
 By 2023, another NPP will start operating. 
 ### Lithuania
-Closed its NPP (the sole source of 70 percent of its electricity) 
+Closed its NPP (the sole source of 70 percent of its electricity).
 ### Poland
 In the 1990 referendum, 86 percent of citizens voted against the use of nuclear power. 
 Proposal of own NPP in operation by 2030. 
 ### Czech Republic
 Has six reactors in operation and more in future. 
 ### Slovakia
-Active four nuclear reactors. 
+Has active four nuclear reactors. 
 In 2004, it had to close two reactors as a condition of joining the EU. 
 ### Ukraine
-More than half the electricity produced from NPPs. 
+More than half of the electricity produced from NPPs. 
 
 
 ## Expansion of Nuclear Power in Asia 
