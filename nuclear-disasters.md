@@ -118,10 +118,10 @@ Unaware of the relief valve being stuck open and unable to confirm the water cov
 ##### What Went Wrong?
 
 The partial meltdown and minor off-site releases of radioactivity were caused by a combination of equipment malfunctions, personale errors, regulatory laxities, and operational issues.
-- Equipment malfunction: The pilot-operated relief valve stuck open when it should have closed when the pressure fell to proper levels.
+- Equipment Malfunction: The pilot-operated relief valve stuck open when it should have closed when the pressure fell to proper levels.
 - Personale Error:  Plant operators’ was misled by the instruments in the control room which indicated that the valve was closed and failed to identify the valve was actually stuck open. 
 - Regulatory Laxity: The closure of valves for routine maintenance was a violation of a key NRC rule. Once the secondary feedwater pumps stopped, three auxiliary pumps activated automatically but the valves had been closed for routine maintenace, the system was then unable to pump any extra water in this accident.
-- operational issue: Reactor No. 2 had been rushed into service on the last day of 1978 since the utility company would have lost a $40 million federal tax break if waited one day more. [^21]
+- Operational Issue: Reactor No. 2 had been rushed into service on the last day of 1978 since the utility company would have lost a $40 million federal tax break if waited one day more. [^21]
 ##### Aftermath
 
 In spite of serious damage to the plant, most of the radiation was contained and the actual release have a negligible effect on the physical health of individuals.
