@@ -76,7 +76,7 @@ Has six reactors in operation and more in future.
 Active four nuclear reactors. 
 In 2004, it had to close two reactors as a condition of joining the EU. 
 ### Ukraine
-More than half the electricity produced from NPPs. 
+More than half of the electricity produced from NPPs. 
 
 
 ## Expansion of Nuclear Power in Asia 
