@@ -41,6 +41,7 @@
 The K-19 submarine was the first ballistic-missile equipped nuclear submarine, carrying three ballistic missiles with a range of 650km. During its first mission as a US attacker on June 18, 1961, the submarine experienced testing pressure that exceeded its designed pressure at ==Abrosimov Bay=={flyto:Q39265625,7}, resulting in damaged piping in the primary cooling unit. This led to a drop in pressure, causing the reactor water to boil and the reactor room temperature to reach 140°C, resulting in a fire. 
 
 With no coolant system in place, the crew had to fix the leak using raincoats and gas masks. They managed to develop an effective cooling system with a drinking water supply, preventing fuel melting and a steam explosion. However, they were exposed to high levels of radiation, approximately ==50-60 Sv (5000-6000 rem)=={description="According to the International Commission on Radiological Protection, 1 Sv results in a 5.5% probability of eventually developing fatal cancer based on disputed linear no-threshold model of ionizing radiation exposure"}. Eight crew members who fixed the leak died within days. After replacing the reactor units, the K19 submarine was put back into use, but 22 out of the original crew of 139 died due to radiation exposure. [^2] 
+.ve-media K-19.jpg caption = "Problem-plagued K-19, disabled in the North Atlantic on 29 February 1972. Picture taken on board of the US Navy plane."
 
 ##### Human Factors
 
