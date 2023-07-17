@@ -169,11 +169,11 @@ IAEA director has announced that his agency’s “comprehensive, neutral, objec
 
 ## Further Reading {.cards}
 
-### Accidents & Disasters {href=https://digbmc.github.io/reactor-jct/nuclear-disasters}
+### Nuclear History {href=nuclear-history/}
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/15/Chernobyl_2019_G03.jpg)
+![](https://commons.wikimedia.org/wiki/File:Laura_and_Enrico_Fermi_1954.jpg)
 
-*Nuclear accidents over time.*
+*The present and future of nuclear energy.*
 
 ### Present & Future {href=https://digbmc.github.io/reactor-jct/present-and-future}
 
