@@ -1,4 +1,3 @@
-.ve-style ./assets/custom.css
 .ve-header "The History of Nuclear Power" wc:Laura_and_Enrico_Fermi_1954.jpg height=500 sticky
     - [Home](/)
     - [History](nuclear-history/)
@@ -6,9 +5,9 @@
     - [Disasters](nuclear-disasters/)
     - [Present and Future](present-and-future/)
 
+## Origins of Nuclear Research[^1]
 
-## Origins of Nuclear Power[^1]
-The idea of the atom has been around for centuries – the Greeks believed that our world was made up of tiny, invisible particles they named *atoms*, from the word *atomos*, meaning indivisible.[^2] In 1789, a German chemist discovered the element uranium, named after the planet Uranus. Then, in 1895, Wilhelm Röntgen discovered ionizing radiation, an energy released by atoms that appears as particles, like neutrons, or electromagnetic waves, like gamma or X-rays. Henri Becquerel discovered beta radiation in 1896 when he found that pitchblende, which contains both radium and uranium, caused a photographic plate to grow dark due to the beta radiation and the alpha particles that emitted from the pitchblende. In 1896, Marie and Pierre Curie deemed this emitting of particles *radioactivity* and went on to isolate polonium and radium from the pitchblende in 1898. Ernest Rutherford proved that radioactivity created a different element in 1902. In 1911, Frederick Soddy discovered that radioactive elements have different isotopes, or radionuclides, with the same chemistry. Rutherford then discovered nuclear rearrangement in 1919 when he fired alpha particles from radium into nitrogen, which created oxygen.[^3]
+The idea of the atom has been around for centuries — the Greeks believed that our world was made up of tiny, invisible particles they named *atoms*, from the word *atomos*, meaning indivisible.[^2] In 1789, a German chemist discovered the element uranium, named after the planet Uranus. Then, in 1895, Wilhelm Röntgen discovered ionizing radiation, an energy released by atoms that appears as particles, such as neutrons, or electromagnetic waves, such as gamma or X-rays. Henri Becquerel discovered beta radiation in 1896 when he found that pitchblende, which contains both radium and uranium, caused a photographic plate to grow dark due to the beta radiation and the alpha particles that emitted from the pitchblende. In 1896, Marie and Pierre Curie deemed this emitting of particles *radioactivity* and went on to isolate polonium and radium from the pitchblende in 1898. Ernest Rutherford proved that radioactivity created a different element in 1902. In 1911, Frederick Soddy discovered that radioactive elements have different isotopes, or radionuclides, with the same chemistry. Rutherford then discovered nuclear rearrangement in 1919 when he fired alpha particles from radium into nitrogen, which created oxygen.[^3]
 
 [^1]: “Outline History of Nuclear Energy.” World Nuclear Association, Nov. 2020. [https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx](https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx)
 [^2]: “The History of Nuclear Energy.” The Department of Energy, [https://www.energy.gov/ne/articles/history-nuclear-energy](https://www.energy.gov/ne/articles/history-nuclear-energy)
@@ -18,45 +17,54 @@ The idea of the atom has been around for centuries – the Greeks believed that 
 ## {.tabs style=height:1200px}
 
 ### 1930s
+#### 1931
+- May 20th - 24th - The first international conference on nuclear physics is held at the Federal Institute of Technology in Zurich, Switzerland.
+- October 11th - 18th - The second international conference on nuclear physics is held in Rome, Italy.
 #### 1932
 - James Chadwick discovers the neutron.
 - April 14th – John Cockcroft and Ernest Walton create nuclear transformations by bombarding atoms with accelerated protons.
+- September 24th - 30th - The third international conference on nuclear physics is held at the Abram Ioffe’s Physico-Technical Institute in Leningrad.[^4]
+[^4]: Stuewer, Roger H. “Nuclear Physicists at the Crossroads.” The Age of Innocence: Nuclear Physics Between the First and Second World Wars, Oxford University Press, 2022, pp. 216–247, https://academic.oup.com/book/26094/chapter/194080423. Accessed 19 July 2023. [https://academic.oup.com/book/26094/chapter/194080423](https://academic.oup.com/book/26094/chapter/194080423)
+- October 10th - The first experiments into nuclear fission in the USSR are conducted at the UIPhT.[^5]
+[^5]: “Kharkiv Institute of Physics and Technology.” Wikipedia, 2 Feb. 2023, en.wikipedia.org/wiki/Kharkiv_Institute_of_Physics_and_Technology. [https://en.wikipedia.org/wiki/Kharkiv_Institute_of_Physics_and_Technology](en.wikipedia.org/wiki/Kharkiv_Institute_of_Physics_and_Technology.)
 #### 1934
-- Irène and Frédéric Joliot-Curie discover that radioactive elements can be artificially *created* from stable elements.
+- Irène and Frédéric Joliot-Curie discover artificial radionuclides, meaning radioactive elements can be artificially *created* from stable elements. [^6]
+[^6]: “Case Files: Enrico Fermi.” The Franklin Institute, 9 Feb. 2023, [https://www.fi.edu/en/news/case-files-enrico-fermi](https://www.fi.edu/en/news/case-files-enrico-fermi)
 #### 1935
-- October 22nd - Enrico Fermi discovers a method to create a greater variety of radionuclides using neutrons.[^4]
-[^4]: “Case Files: Enrico Fermi.” The Franklin Institute, 9 Feb. 2023, [https://www.fi.edu/en/news/case-files-enrico-fermi](https://www.fi.edu/en/news/case-files-enrico-fermi)
+- October 22nd - Enrico Fermi discovers a method to create a greater variety of radionuclides using neutrons.
 #### 1938
-- Otto Hahn and Fritz Strassmann split uranium apart, creating several lighter elements – such as barium – which demonstrates atomic fission.
+- Otto Hahn and Fritz Strassmann split uranium apart, creating several lighter elements — such as barium — which demonstrates atomic fission.
 #### 1939
-- Lise Meitner, Niels Bohr, and Otto Frisch used Hahn and Strassmann’s discovery to confirm Albert Einstein’s theory of mass and energy from 1905. By calculating the masses of the fission products and finding that they did not equal the uranium’s mass, they prove that the lost mass had been turned into energy during fission.
+- Lise Meitner, Niels Bohr, and Otto Frisch used Hahn and Strassmann’s discovery to confirm Einstein’s theory of mass and energy from 1905[^7] by calculating the masses of the fission products and finding that they did not equal the uranium’s mass, proving that it had been turned into energy during fission.
 - Leo Szilard and Fermi propose a new method of slowing emitted neutrons to more effectively cause fission.
 - Francis Perrin demonstrates fission in a uranium and water mixture and uses a neutron-absorbing material to control the reaction.  
-- Werner Heisenberg calculates the possibility of a nuclear chain reaction and that it could generate energy.
-- **September 1st - World War Two begins.**
+- Werner Heisenberg calculated the possibility of a nuclear chain reaction and that it could generate energy.
+- Yakov Zeldovich, Yuliy Khariton and Alexander Leypunsky prove that a nuclear chain reaction is theoretically possible at the Radium Laboratory (renamed the Khlopin Radium Institute in 1950) in Russia.[^8]
+- September 1st - World War Two begins.
 - October 11th - The Einstein-Szilard letter is delivered to Roosevelt, advising him to look into nuclear fission as a weapon, as Germany may already be researching it.
 - October 21st - The Advisory Committee on Uranium meets for the first time.
 
-.ve-media wc:1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg
+[^7]: Fernflores, Francisco. “The Equivalence of Mass and Energy.” Stanford Encyclopedia of Philosophy, 15 Aug. 2019, plato.stanford.edu/entries/equivME/. [https://plato.stanford.edu/entries/equivME/](https://plato.stanford.edu/entries/equivME/)
 
+[^8]: “Short History of the Russian Nuclear Industry.” Rosatom, rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/. Accessed 17 July 2023. [https://rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/](https://rosatom.ru/en/press-centre/short-history-of-the-russian-nuclear-industry/)
+
+.ve-media wc:1-Einstein_and_Szilard_letter_to_Roosevelt_NNSA.jpg static caption="Einstein and Szilard"
 
 ### 1940s
 #### 1940
-- Carl Friedrich von Weizsäcker concludes that if a “uranium machine” can sustain a chain reaction, then Uranium-238 could become ‘element 94,’ also known as plutonium.
-- April 10th - The MAUD Committee, a group of British scientists working to determine if an atomic bomb was possible, is established by Sir Henry Tizard.
+- Carl Friedrich von Weizsäcker concludes that if a “uranium machine” can sustain a chain reaction, the Uranium-238 could become ‘element 94,’ also known as plutonium.
+- April 10th - The MAUD Committee, a group of British scientists working to determine if an atomic bomb was possible, is established.
 - June 12th - President Roosevelt creates the National Defense Research Committee (NDRC), which absorbs the Uranium Committee.
 
 #### 1941
 - February 25th - Glenn Seaborg and Arthur Wahl conclusively discover plutonium at the University of California, Berkeley.
 - May 17th - Arthur Compton at the National Academy of Sciences reports favorably on the prospects of military uses of nuclear power. 
+- June 22nd - Germany invades the Soviet Union, halting nuclear research.
 - June 28th - Roosevelt creates the Office of Scientific Research and Development (OSRD), which absorbs the NDRC and Uranium committees.
 - July 15th - The MAUD Committee issues a final report on the design and cost of building an atomic bomb.
 - August 20th - Prime Minister Churchill becomes the first leader to approve a nuclear weapons program, the Tube Alloys.
 - October 9th - An official copy of the MAUD report is taken to President Roosevelt, who approves a project to confirm findings in the United States.
 - December 6th - Vannevar Bush, the head of OSRD, organizes an accelerated research project to be managed by Arthur Compton.
-- December 7th - Japan launches a surprise military attack on Pearl Harbor in Honolulu, Hawaii.
-- December 8th - The United States and Great Britain declare war against Japan.
-- December 11th - Germany and Italy declares war on the United States, and the United States declares war on Germany and Italy.
 - December 18th - The researchers sponsored by OSRD to develop nuclear weapons hold their first meeting.
 
 #### 1942
@@ -64,27 +72,29 @@ The idea of the atom has been around for centuries – the Greeks believed that 
 - January 24th - Arthur Compton centralizes plutonium research at the University of Chicago.
 - July - September - A conference is held at UC Berkeley to discuss potential designs for a fission bomb. Edward Teller suggests a hydrogen bomb.
 - August 13th - The Manhattan Engineering District is established.
-- September 23rd - Lieutenant General Leslie Groves becomes director of the Manhattan Project
+- September 23rd - Lieutenant General Leslie Groves becomes director of the Manhattan Project.
 - September 29th - Secretary of War Robert P. Patterson authorizes Site X, the Oak Ridge, Tennessee laboratory.
 - October 19th - Groves appoints Robert Oppenheimer to coordinate the project at Site Y, the Los Alamos, New Mexico laboratory.
-- **December 2nd - The first self-sustaining nuclear chain reaction takes place at the Chicago Pile-1 reactor at the University of Chicago by the Metallurgical Laboratory, or Met Lab.**[^5] Led by Professor Arthur Compton, Enrico Fermi, Leo Szilard, and Eugene Eigner, the reactor was built on an old squash court under the abandoned Stagg Field football stands, without permission from or notification of any elected officials, the Mayor of Chicago, or the President of the University. The Chicago Pile-1, or CP-1, was a 20 foot tall stack of graphite and uranium blocks arranged in 56 layers with cadmium control rods.[^6] The pile was completed December 1st. On December 2nd, 49 scientists gathered, and Fermi “directed the operators to slowly move the control rods, and their instruments clicked to record the neutron count. At 3:53 p.m., they recorded that a self-sustaining nuclear chain reaction was achieved for the first time ever. It had taken 28 minutes.”[^7]
+- December 2nd - The first self-sustaining nuclear chain reaction takes place at the Chicago Pile-1 reactor at the University of Chicago by the Metallurgical Laboratory, or Met Lab.[^9] Led by Professor Arthur Compton, Enrico Fermi, Leo Szilard, and Eugene Eigner, the reactor was built on an old squash court under the abandoned Stagg Field football stands, without permission from or notification of any elected officials, the Mayor of Chicago, or the President of the University. The Chicago Pile-1, or CP-1, was a 20 foot tall stack of graphite and uranium blocks arranged in 56 layers with cadmium control rods.[^10] The pile was completed December 1st. On December 2nd, 49 scientists gathered, and Fermi “directed the operators to slowly move the control rods, and their instruments clicked to record the neutron count. At 3:53 p.m., they recorded that a self-sustaining nuclear chain reaction was achieved for the first time ever. It had taken 28 minutes.”[^11]
 
-.ve-media wc:Chicago_pile_I_banner.jpg
+.ve-media wc:Chicago_pile_I_banner.jpg static caption="Chicago Pile-1"
 
-[^5]: Lerner, Louise. “The First Nuclear Reactor, Explained.” University of Chicago News, 25 May 2023, [https://news.uchicago.edu/explainer/first-nuclear-reactor-explained](https://news.uchicago.edu/explainer/first-nuclear-reactor-explained)
+[^9]: Lerner, Louise. “The First Nuclear Reactor, Explained.” University of Chicago News, 25 May 2023, [https://news.uchicago.edu/explainer/first-nuclear-reactor-explained](https://news.uchicago.edu/explainer/first-nuclear-reactor-explained)
 
-[^6]: Drapa, Michael. “Race to the First Nuclear Chain Reaction.” University of Chicago News, 23 Oct. 2017, [https://news.uchicago.edu/story/race-first-nuclear-chain-reaction](https://news.uchicago.edu/story/race-first-nuclear-chain-reaction)
+[^10]: Drapa, Michael. “Race to the First Nuclear Chain Reaction.” University of Chicago News, 23 Oct. 2017, [https://news.uchicago.edu/story/race-first-nuclear-chain-reaction](https://news.uchicago.edu/story/race-first-nuclear-chain-reaction)
 
-[^7]: Drapa, Michael. “Ted Petry, Last Known Witness to Pioneering Nuclear Reaction at UChicago, 1924-2018.” University of Chicago News, 7 Aug. 2018, [https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018](https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018)
+[^11]: Drapa, Michael. “Ted Petry, Last Known Witness to Pioneering Nuclear Reaction at UChicago, 1924-2018.” University of Chicago News, 7 Aug. 2018, [https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018](https://news.uchicago.edu/story/ted-petry-last-known-witness-pioneering-nuclear-reaction-uchicago-1924-2018)
 
 #### 1943
-- February 9th - Groves and Patterson approve the Hanford Site and build location in Benton County, Washington, for the world's first plutonium-producing reactor.[^8]
+- February 9th - Groves and Patterson approve the Hanford Site and build location in Benton County, Washington, for the world's first plutonium-producing reactor.
+[^12]
 - February 18th - Construction begins on the electromagnetic separation plant for enriching uranium at Oak Ridge, Tennessee.
 - April 1st - The Los Alamos Laboratory is established in New Mexico.
 - July - The Los Alamos Laboratory, Clinton Engineer Works (CEW), and Hanford Engineer Works (HEW) are designated as military districts, removing them from state control.
-- July 10th - The first sample of plutonium arrives at the Los Alamos Laboratory.[^9]
+- July 10th - The first sample of plutonium arrives at the Los Alamos Laboratory.
+[^13]
 - August 13th - The first drop test of a gun-type fission weapon at Dahlgren Proving Ground in Virginia takes place.
-- August 19th - President Roosevelt and Prime Minister Churchill sign the Quebec Agreement, merging the Tube Alloys with Manhattan Project.[^10]
+- August 19th - President Roosevelt and Prime Minister Churchill sign the Quebec Agreement, merging the Tube Alloys with Manhattan Project.[^14]
 - September 8th - The first meeting of the Combined Policy Committee is held to coordinate the atomic efforts of the United States, Great Britain, and Canada.
 - October 10th - Construction of the first Hanford Site reactor begins.
 - November 4th - The X-10 Graphite Reactor goes critical at Oak Ridge.
@@ -92,7 +102,7 @@ The idea of the atom has been around for centuries – the Greeks believed that 
 #### 1944
 - April 5th - Emilio Segre receives the first sample of plutonium from the Oak Ridge reactor and discovers that the fission rate is too high for a gun-type weapon.
 - July 4th - Oppenheimer reveals Segre’s measurements and the development of a gun-type plutonium weapon.
-- July 17th - The *Thin Man* gun-type is abandoned, as it is impractical to use with plutonium, making an implosion-type weapon, the *Fat Man* bomb, a top priority. Research on a uranium gun-type continues with *Little Boy*, a gun-type using Uranium-235 at Clinton Engineer Works in Oak Ridge, Tennessee.
+- July 17th - The Thin Man gun-type is abandoned, as it is impractical to use with plutonium, making an implosion-type weapon, the Fat Man bomb, a top priority. Research on a uranium gun-type continues with Little Boy, a gun-type using Uranium-235 at Clinton Engineer Works in Oak Ridge, Tennessee.
 - September 22nd - The first Radioactive Lanthanum (RaLa) Experiment with a radioactive source takes place at Los Alamos.
 - September 26th - The largest nuclear reactor, the B Reactor, goes critical at the Hanford Site.
 - November - Samuel Goudsmit concludes that German scientists didn’t make substantial progress towards nuclear bombs or reactors, as the programs were not a high priority.
@@ -102,16 +112,17 @@ The idea of the atom has been around for centuries – the Greeks believed that 
 - February 2nd - The first plutonium created at the Hanford Site arrives at Los Alamos.
 - April 27th - The first meeting of the Target Committee at Los Alamos occurs to determine potential locations to bomb in Japan, such as Kyoto, Hiroshima, Yokohama, the Kokura Arsenal, and Niigata.
 - May 7th - Germany surrenders.
-- May 10th - The 2nd meeting of the Target Committee occurs.
-- May 28th - The 3rd meeting of the Target Committee occurs to finalize the list of cities to bomb.
+- May 10th - The second meeting of the Target Committee occurs.
+- May 28th - The third meeting of the Target Committee occurs to finalize the list of cities to bomb.
 - June 11th - The Met Lab of the University of Chicago argues for a demonstration of the bomb before it is used on civilian targets.
 - July 16th - The first nuclear explosion of an implosion-style plutonium-based nuclear weapon occurs at the Alamogordo Bombing and Gunnery Range in New Mexico. The explosion, called the Trinity Test, yields about 15 to 20 kilotons and marks the beginning of the atomic age.
-- July 24th - President Truman discloses to Premier Stalin that the United States has atomic bombs, something Premier Stalin knows already due to espionage.
+- July 24th - President Truman discloses to Premier Stalin that the United States has atomic bombs, something the latter knows already due to espionage.
 - July 25th - General Carl Spaatz is ordered to drop a bomb on either Hiroshima, Kokura, Niigata, or Nagasaki as soon as the weather permits after August 3rd.
 - July 26th - The Potsdam Declaration is issued, threatening Japan with destruction if it does not surrender.
 - August 6th - The B-29 plane ‘Enola Gay’ drops *Little Boy* on Hiroshima.
 - August 9th - The B-29 plane ‘Bockscar’ drops *Fat Man* on Nagasaki because Kokura was obscured by clouds and smoke.
 - August 15th - Japan surrenders.
+- August 20th - A special committee is established to work on uranium under the State Defense Committee of the USSR.[^15]
 - September 8th - The Manhattan Project survey group under General Thomas Farrell arrives in Hiroshima.
 - September 17th - The Manhattan Project survey group under Colonel Stafford Warren arrives in Nagasaki.
 - September 26th - The Manhattan Project survey group under Captain Hymer Friedell arrives in Hiroshima.
@@ -119,29 +130,32 @@ The idea of the atom has been around for centuries – the Greeks believed that 
 
 #### 1946
 - February - A Soviet spy ring in Canada is exposed by defector Igor Gouzenko, resulting in “atomic spy hysteria,” which pushed American Congressional discussions about postwar atomic regulation.
-- July 1st - The testing at Bikini Atoll in the Marshall Islands commences with the test of the Able bomb as part of Operation Crossroads.
-- July 25th - The Baker bomb is tested at Bikini Atoll to determine the effects of a nuclear device underwater. Baker sinks eight ships and permanently contaminates the rest.  
+- July 1st - The testing at Bikini Atoll in the Marshall Islands commenced with the test of the Able bomb as part of Operation Crossroads.
+- July 25th - The Baker bomb is tested at Bikini Atoll to determine the effects of a nuclear device underwater. Baker sank eight ships and permanently contaminated the rest.  
 - August 1st - President Truman signs the *Atomic Energy Act of 1946* into law, ending the uncertainty regarding control of atomic research in the postwar United States, as well as creating the Atomic Energy Commission (AEC) to control nuclear energy development and explore peaceful uses of nuclear energy.
+- December 25th - The F-1 reactor achieves a self-sustaining chain reaction at the Kurchatov Institute in Russia. This is the first working nuclear reactor in the USSR and Europe.[^16]
 
 #### 1947
 - January 1st - The *Atomic Energy Act of 1946,* or the McMahon Act, takes effect. The Manhattan Project is turned over to the United States Atomic Energy Commission.
-- **March 12th, 1947 - December 26, 1991 (44 years and 9 months) The Cold War Begins.**
+- March 12th, 1947 - December 26, 1991 (44 years and 9 months) The Cold War Begins.
 - August 15th - The Manhattan District is abolished.
 
 #### 1949
 - March 1st - The AEC announces the selection of a site in Idaho for the National Reactor Testing Station.
 - August 29th - The Soviet Union tests its first atomic bomb, called ‘First Lightning’ by the West.
-.ve-media wc:Crossroads_Baker_bomb_explosion,_photographed_form_a_Grumman_F6F-5K_Hellcat_drone,_25_July_1946.jpg
+
+.ve-media wc:Crossroads_Baker_bomb_explosion,_photographed_form_a_Grumman_F6F-5K_Hellcat_drone,_25_July_1946.jpg static caption="The Baker Bomb"
 
 
-[^8]: “Manhattan Project Timeline.” National Parks Service, 4 Apr. 2023, [https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.](https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.)
+[^12]: “Manhattan Project Timeline.” National Parks Service, 4 Apr. 2023, [https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.](https://www.nps.gov/mapr/learn/historyculture/timeline.htm#:~:text=Officially%20lasting%20from%20June%2018,the%20world%20we%20live%20in.)
 
+[^13]: “Timeline of the Manhattan Project.” Wikipedia, 11 Feb. 2023, [https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project](https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project)
 
-[^9]: “Timeline of the Manhattan Project.” Wikipedia, 11 Feb. 2023, [https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project](https://en.wikipedia.org/wiki/Timeline_of_the_Manhattan_Project)
+[^14]: “Timeline.” The National Museum of Nuclear Science & History, [https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/](https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/)
 
+[^15]: Holloway, David. “Entering the Nuclear Arms Race: The Soviet Decision to Build the Atomic Bomb, 1939-45.” Social Studies of Science, vol. 11, no. 2, 1981, pp. 159–197, https://doi.org/10.1177/030631278101100201. [https://www.jstor.org/stable/pdf/284865.pdf](https://www.jstor.org/stable/pdf/284865.pdf)
 
-[^10]: “Timeline.” The National Museum of Nuclear Science & History, [https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/](https://ahf.nuclearmuseum.org/ahf/nuc-history/timeline/)
-
+[^16]: “F-1 (Nuclear Reactor).” Wikipedia, 1 July 2023, en.wikipedia.org/wiki/F-1_(nuclear_reactor).[https://en.wikipedia.org/wiki/F-1_(nuclear_reactor)](https://en.wikipedia.org/wiki/F-1_(nuclear_reactor))
 
 ### 1950s
 #### 1950
@@ -152,60 +166,81 @@ The idea of the atom has been around for centuries – the Greeks believed that 
 - August 12th - The Soviet Union tests a thermonuclear device, RDS-6s, for the first time. 
 #### 1954
 - March 1st - The United States performs the Castle Bravo test, resulting in the largest yield by an American nuclear device at about 15 megatons.
+- June 27th - The world’s first grid-connected nuclear power plant, Obninsk, is put into operation in the Soviet Union.[^17]
 #### 1955
 - July 17th - Arco, Idaho, becomes the first nuclear-powered town using the water boiler reactor BORAX III.
-- August 8th - 20th - The first United Nations International Conference on the Peaceful Uses of Atomic Energy is held in Geneva, Switzerland.
+- August 8th - 20th - The first United Nations International Conference on the Peaceful Uses of Atomic Energy was held in Geneva, Switzerland.
 - November 22nd - The Soviet Union tests its first hydrogen bomb.
+#### 1956
+- October 17th - The first nuclear power station built to produce commercial energy, Calder Hall, is opened in Seascale, England.[^18]
 #### 1957
 - October 1st - The United Nations created the *International Atomic Energy Agency* (IAEA) to promote peaceful applications of nuclear power and to prevent the spread of nuclear weapons.
 - October - The first successful Soviet Union test of the intercontinental ballistic missile (ICBM) takes place, and Sputnik 1 is launched.
 #### 1958
-- The first successful United States test of ICBM takes place, and NASA is created.
-- The United States, the Soviet Union, and the United Kingdom tests over 100 nuclear devices.
-.ve-media wc:Soviet_postage_stamp_commemorating_the_Conference_on_the_Peaceful_Uses_of_Atomic_Energy,_1958_-_DPLA_-_4c7c8f556f94242a4e83be85a2de6ae7.jpg
+- The first successful United States test of ICBM took place, and NASA is created.
+- The United States, the Soviet Union, and the United Kingdom test over 100 nuclear devices.
+
+#### 1959
+- The world’s first nuclear-powered ice-breaker ship, Lenin, is constructed. [^19]
+
+.ve-media wc:Soviet_postage_stamp_commemorating_the_Conference_on_the_Peaceful_Uses_of_Atomic_Energy,_1958_-_DPLA_-_4c7c8f556f94242a4e83be85a2de6ae7.jpg static caption="Soviet Postage Stamp for the Confrence on the Peaceful Uses of Atomic Energy"
+
+
+[^17]: “Obninsk Nuclear Power Plant.” Wikipedia, 2 July 2023, en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant. [https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant](https://en.wikipedia.org/wiki/Obninsk_Nuclear_Power_Plant)
+
+[^18]: Rao, Bhaskara, and Prabhakara Rao. NUCLEAR ENERGY SCENARIO OF ASIAN DEVELOPING COUNTRIES , http://large.stanford.edu/courses/2015/ph241/morrissey2/docs/311.pdf. [http://large.stanford.edu/courses/2015/ph241/morrissey2/docs/311.pdf](http://large.stanford.edu/courses/2015/ph241/morrissey2/docs/311.pdf)
+
+[^19]: Semenov, B.A. “Nuclear Power in the Soviet Union.” International Atomic Energy Agency, www.iaea.org/sites/default/files/25204744759.pdf. Accessed 19 July 2023. [https://www.iaea.org/sites/default/files/25204744759.pdf](https://www.iaea.org/sites/default/files/25204744759.pdf)
 
 ### 1960s
 #### 1960
-- February 13th - France conducts its first nuclear test, making it the world’s 4th nuclear power.
+- February 13th - France conducts its first nuclear test, making them the world’s fourth nuclear power.
 - November 22nd - The United States Navy commissions the world’s largest ship, the USS Enterprise, a nuclear-powered aircraft carrier.
+
 #### 1961
-- October 30th - The Soviet Union tests a hydrogen bomb with a yield of **50 megatons** named *Tsar Bomba* – the biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about **15 megatons.**[^11]
-[^11]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
+- October 30th - The Soviet Union tests a hydrogen bomb with a yield of 50 megatons named *Tsar Bomba*. The biggest nuclear device ever detonated by the United States was *Castle Bravo,* with a yield of about 15 megatons.[^20]
+[^20]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
 #### 1962
-- October 16th - 29th - The *Cuban Missile Crisis* is a thirteen-day period in which the United States and the Soviet Union come the closest to nuclear war.[^12]
+- October 16th - 29th - The *Cuban Missile Crisis* is a thirteen-day period in which the United States and the Soviet Union come the closest to nuclear war.[^21]
 #### 1963
 - August 5th - The *Test Ban Treaty* between the Soviet Union, the United States, and the United Kingdom is signed, limiting the kinds of nuclear testing that can be done. 
 #### 1964
-- President Johnson signs the *Private Ownership of Special Nuclear Materials Act,* allowing the nuclear power industry to create its own fuel and requiring private ownership of uranium fuel.
+- August 26th - President Johnson signs the *Private Ownership of Special Nuclear Materials Act,* allowing the nuclear power industry to create its own fuel and requiring private ownership of uranium fuel.
 #### 1965
 - April 3rd - A nuclear reactor, SNAP-10A - Systems for Nuclear Auxiliary Power - is operated in space for the first time, launched by the United States.
 #### 1968
-- July 1st - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) signed.[^13]
+- July 1st - The *Treaty on the Non-proliferation of Nuclear Weapons* (NPT) is signed.[^22]
 #### 1969
 - 1969-1979 - The détente begins, easing the tension between the Soviet Union and the United States.
-.ve-media wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg
+.ve-media wc:Snapshot_satellite_with_SNAP-10A_reactor_HD.6D.563_(10967640793).jpg static caption="SNAP-10A Reactor"
 
-[^12]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” Arms Races in International Politics: From the Nineteenth to the Twenty-First Century, Oxford University Press, [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
+[^21]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” Arms Races in International Politics: From the Nineteenth to the Twenty-First Century, Oxford University Press, [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
 
-[^13]: “U.S.-Russia Nuclear Arms Control.” Council on Foreign Relations, [https://www.cfr.org/timeline/us-russia-nuclear-arms-control](https://www.cfr.org/timeline/us-russia-nuclear-arms-control)
+[^22]: “U.S.-Russia Nuclear Arms Control.” Council on Foreign Relations, [https://www.cfr.org/timeline/us-russia-nuclear-arms-control](https://www.cfr.org/timeline/us-russia-nuclear-arms-control)
 
 ### 1970s
 #### 1970
 - March 5th - The *Treaty for Non-Proliferation of Nuclear Weapons* becomes effective.
 #### 1972
 - May 26th - The *Interim Strategic Arms Limitation Treaty,* or SALT I, and the *Anti-Ballistic Missile* Treaty, or ABM, is signed by the United States and the Soviet Union. 
+- The first commercial breeder reactor in the Soviet Union goes online in Shevchenko, Kazakhstan.[^23]
+
+[^23]: Pryde, Philip R. “Nuclear Energy in the Soviet Union.” Current History, vol. 77, no. 450, 1979, pp. 115–35. JSTOR, http://www.jstor.org/stable/45319372. Accessed 19 July 2023.[https://www.jstor.org/stable/pdf/45319372.pdf](https://www.jstor.org/stable/pdf/45319372.pdf)
 #### 1974
 - October 11th - The *Energy Reorganization Act* of 1974 divides the Atomic Energy Commission’s functions, creating the Energy Research and Development Administration (ERDA) for research and design and the Nuclear Regulatory Commission (NRC) to regulate nuclear power.
+- November 1st - The first RBMK reactor begins operating at the Leningrad Nuclear Power Plant. 
+- A second nuclear-powered ice-breaker ship, Arktika, is constructed.
 #### 1977
 - August 4th - President Carter signs the *Department of Energy Organization Act,* establishing the Department of Energy.
 - October 1st - The Department of Energy begins operations.
+- A third nuclear-powered ice-breaker ship, Sibir, is constructed.
 #### 1979
-- March 28th - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.[^14]
+- March 28th - The Three Mile Island reactor near Harrisburg, Pennsylvania, partially melts down, prompting the NRC to impose stricter regulations and inspection procedures.[^24]
 - June 17th - The United States and the Soviet Union sign the SALT II treaty, which limits the nuclear forces of both nations.
 - December 24th - The Soviet Union invades Afghanistan, halting the consideration of the SALT II treaty and beginning a nine-year war.
-.ve-media wc:3MileIsland.jpg
+.ve-media wc:3MileIsland.jpg static caption="Three Mile Island Reactor"
 
-[^14]: “Backgrounder on the Three Mile Island Accident.” United States Nuclear Regulatory Commission, 15 Nov. 2015, [https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html)
+[^24]: “Backgrounder on the Three Mile Island Accident.” United States Nuclear Regulatory Commission, 15 Nov. 2015, [https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html)
 
 
 ### 1980s
@@ -213,14 +248,14 @@ The idea of the atom has been around for centuries – the Greeks believed that 
 - January 2nd - The détente ends after President Carter responds to the Soviet Union’s invasion of Afghanistan.
 #### 1983
 - January 7th - The *Nuclear Waste Policy Act* (NWPA) establishes a program for disposing of radioactive waste and spent fuel.
-- March 23rd - President Reagan announces the Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.[^15]
+- March 23rd - President Reagan announced Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.[^25]
 #### 1986
-- **April 26th - Reactor 4 of the Chornobyl Power Plant in Pripyat, Ukraine, explodes.**[^16]
+- **April 26th - Reactor 4 of the Chornobyl Power Plant in Prypiat, Ukraine, explodes.**[^26]
 
-.ve-media wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg
+.ve-media wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg static caption="Chornobyl 2013"
 
-[^15]: “Strategic Defense Initiative (SDI).” The National Museum of Nuclear Science & History, 18 July 2018, [https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/](https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/)
-[^16]: Kenaston, Elliot. “The Accident: A Timeline of the Chernobyl Reactor Explosion.” [https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/](https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/)
+[^25]: “Strategic Defense Initiative (SDI).” The National Museum of Nuclear Science & History, 18 July 2018, [https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/](https://ahf.nuclearmuseum.org/ahf/history/strategic-defense-initiative-sdi/)
+[^26]: Kenaston, Elliot. “The Accident: A Timeline of the Chernobyl Reactor Explosion.” [https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/](https://digitalscholarship.brynmawr.edu/reactor-room/projects/accident/)
 
 ## Further Reading {.cards}
 
