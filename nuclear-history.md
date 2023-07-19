@@ -1,3 +1,4 @@
+.ve-style ./assets/custom.css
 .ve-header "The History of Nuclear Power" wc:Laura_and_Enrico_Fermi_1954.jpg height=500 sticky
     - [Home](/)
     - [History](nuclear-history/)
