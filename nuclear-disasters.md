@@ -61,7 +61,7 @@ However, the system had a tendency to leak steam, leading to oxidation of the li
 
 The exhausted crew of the submarine faced a series of alarming oversights and neglect that put their health and safety at risk. Objections raised about the need to clean the reactor coolant were overlooked. The radiation detector in the compartment was switched off, and the crew was not monitoring their radiation dosimeters. 
 
-When the submarine returned to dock, most of the crew members who had been exposed to radiation were compelled to walk back to the base. Several members were left on board the submarine to "keep watch," further exacerbating their exposure. A lack of proper medical checkups followed the incident, with many crew members being declared healthy by military doctors without thorough examination. 
+When the submarine returned to dock, most of the crew members exposed to radiation were compelled to walk back to the base. Several members were left on board the submarine to "keep watch," further exacerbating their exposure. A lack of proper medical checkups followed the incident, with many crew members being declared healthy by military doctors without thorough examination. 
 
 The captain did make a crucial decision to ignore orders from the division to cut the engines and remain in the submarine. Recognizing the dangers of prolonged exposure, he took action to safeguard the crew by preventing further hours of potential radiation poisoning.
 
