@@ -1,6 +1,6 @@
 .ve-style ./assets/custom.css
-.ve-header "Nuclear Disasters" wc:Chernobyl_2019_G03.jpg height=500 sticky
- - [Home](/)
+.ve-header "The History of Nuclear Power" wc:Chernobyl_2019_G03.jpg height=500 sticky
+    - [Home](/)
     - [History](nuclear-history/)
     - [Science](science/)
     - [Disasters](nuclear-disasters/)
