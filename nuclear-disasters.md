@@ -13,7 +13,7 @@ Nuclear disasters with catastrophic consequences, like Chornobyl, dominate the p
 Nuclear incidents occur under various circumstances and affect its victims in more ways than one, serving as a reminder to stay vigilant in everyday situations. By presenting a broader spectrum of incidents related to nuclear use and radiation, we can better contextualize Chornobyl’s role in the history of nuclear and radiological disasters, recognizing it as the anomaly it is. With a biological and cultural impact that outlasts any other industrial nuclear incidents in history, the legacy of Chornobyl remains our ongoing subject of study. 
 
 #### Radiological Disasters from 1896-2020
-[radiological disasters from 1896-2020 by countries, causes and deaths](https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
+The graphs of [radiological disasters from 1896-2020](https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link) present radiological disaster by countries, causes and deaths as documented by Johnston's Archive.  
 
 | Event | Type of Accident | Date | Deaths | 
 | ------------ |:-------------:| -----:|-----:|
