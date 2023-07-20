@@ -161,7 +161,7 @@ How nuclear power and reactors work.
 Interactive graphics on nuclear energy by Our World in Data.
 
 
-
+####
 [^1]:
 Clemmer, Steve, et al. *The Nuclear Power Dilemma: Declining Profits, Plant Closures, and the Threat of Rising Carbon Emissions.* Union of Concerned Scientists, Nov. 2018, [https://www.ucsusa.org/sites/default/files/attach/2018/11/Nuclear-Power-Dilemma-full-report.pdf](https://www.ucsusa.org/sites/default/files/attach/2018/11/Nuclear-Power-Dilemma-full-report.pdf). Accessed 7 July 2023;
 Cravens, Gwyneth. “Terrorism and Nuclear Energy: Understanding the Risks". Brookings, 1 Mar. 2002, [https://www.brookings.edu/articles/terrorism-and-nuclear-energy-understanding-the-risks/](https://www.brookings.edu/articles/terrorism-and-nuclear-energy-understanding-the-risks/). Accessed 7 July 2023;
@@ -268,10 +268,6 @@ Lyman.
 
 [^21]:
 Duan, Lei, et al. “Stylized Least-Cost Analysis of Flexible Nuclear Power in Deeply Decarbonized Electricity Systems Considering Wind and Solar Resources Worldwide.” *Nature Energy*, vol. 7, no. 3, Feb. 2022, pp. 260–69, [https://doi.org/10.1038/s41560-022-00979-x] (https://doi.org/10.1038/s41560-022-00979-x). Accessed 7 July 2023;
-*Net Zero by 2050: A Roadmap for the Global Energy Sector*. International Energy Agency, May 2021, [https://iea.blob.core.windows.net/assets/7ebafc81-74ed-412b-9c60-5cc32c8396e4/NetZeroby2050-ARoadmapfortheGlobalEnergySector-SummaryforPolicyMakers_CORR.pdf](https://iea.blob.core.windows.net/assets/7ebafc81-74ed-412b-9c60-5cc32c8396e4/NetZeroby2050-ARoadmapfortheGlobalEnergySector-SummaryforPolicyMakers_CORR.pdf). Accessed 7 July 2023;
-*Nuclear Power in a Clean Energy System*. International Energy Agency, 2019, [https://www.iea.org/reports/nuclear-power-in-a-clean-energy-system](https://www.iea.org/reports/nuclear-power-in-a-clean-energy-system). Accessed 7 July 2023;
-Intergovernmental Panel on Climate Change. *Global Warming of 1.5°C: IPCC Special Report on Impacts of Global Warming of 1.5°C above Pre-Industrial Levels in Context of Strengthening Response to Climate Change, Sustainable Development, and Efforts to Eradicate Poverty*. Cambridge University Press, 2022, [https://doi.org/10.1017/9781009157940](https://doi.org/10.1017/9781009157940). Accessed 7 July 2023;
-“Plans for New Nuclear Reactors Worldwide". World Nuclear Association;
-Sovacool;
----. “Reply to: Nuclear Power and Renewable Energy Are Both Associated with National Decarbonization.” *Nature Energy*, vol. 7, no. 1, Jan. 2022, pp. 30–31, [https://doi.org/10.1038/s41560-021-00965-9](https://doi.org/10.1038/s41560-021-00965-9). Accessed 7 July 2023;
+*Net Zero by 2050: A Roadmap for the Global Energy Sector*. International Energy Agency, May 2021, [https://iea.blob.core.windows.net/assets/7ebafc81-74ed-412b-9c60-5cc32c8396e4/NetZeroby2050-ARoadmapfortheGlobalEnergySector-SummaryforPolicyMakers_CORR.pdf](https://iea.blob.core.windows.net/assets/7ebafc81-74ed-412b-9c60-5cc32c8396e4/NetZeroby2050-ARoadmapfortheGlobalEnergySector-SummaryforPolicyMakers_CORR.pdf). Accessed 7 July 2023; *Nuclear Power in a Clean Energy System*. International Energy Agency, 2019, [https://www.iea.org/reports/nuclear-power-in-a-clean-energy-system](https://www.iea.org/reports/nuclear-power-in-a-clean-energy-system). Accessed 7 July 2023; Intergovernmental Panel on Climate Change. *Global Warming of 1.5°C: IPCC Special Report on Impacts of Global Warming of 1.5°C above Pre-Industrial Levels in Context of Strengthening Response to Climate Change, Sustainable Development, and Efforts to Eradicate Poverty*. Cambridge University Press, 2022, [https://doi.org/10.1017/9781009157940](https://doi.org/10.1017/9781009157940). Accessed 7 July 2023; “Plans for New Nuclear Reactors Worldwide". World Nuclear Association;
+Sovacool; ---. “Reply to: Nuclear Power and Renewable Energy Are Both Associated with National Decarbonization.” *Nature Energy*, vol. 7, no. 1, Jan. 2022, pp. 30–31, [https://doi.org/10.1038/s41560-021-00965-9](https://doi.org/10.1038/s41560-021-00965-9). Accessed 7 July 2023;
 and Toth.
