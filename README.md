@@ -7,8 +7,14 @@
     - [Present and Future](present-and-future/)
 
 
-# Nuclear power {.cards}
+# Nuclear power 
 
+Welcome to the digital exhibition on nuclear power! 
+Our exhibition will explore the history, science, and future of nuclear power. You will learn about the different types of nuclear reactors, how they work, and the historical development of nuclear power. You will also learn about the scope of some selected nuclear accidents and the current usage of nuclear energy in the world.
+Nuclear power is a controversial topic, but it is an important one to understand. Our goal for this exhibition is to provide you with the information you need to draw informed, unbiased conclusions on nuclear power, in order to enhance your experience of the overall Chornobyl reactor room project. 
+We hope you enjoy the exhibition!
+
+# {.cards}
 
 ## History {href="/nuclear-history"}
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Laura_and_Enrico_Fermi_1954.jpg)
