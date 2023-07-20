@@ -29,7 +29,7 @@
 ## {.show-active}
 
 .ve-map basemaps=OpenStreetMap,Esri_WorldPhysical,Stamen_Watercolor sticky right
-    - Q39265625 8 marker "<a id="Abrosimov Bay">Abrosimov Bay</a>"
+    - Q39265625 8 marker "Abrosimov Bay"
     - Q80413 8 marker "Novaya Zemlya"
     - Q26676 8 marker "Texas"
     - Q1356491 8 marker "Tammiku"
