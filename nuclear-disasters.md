@@ -201,7 +201,7 @@ IAEA director has announced that his agency’s “comprehensive, neutral, objec
 *How nuclear power and reactors work.*
 
 
-[^1]:  [Johnston, Wm. Robert. “K-19 Submarine Reactor Accident, 1961.” K-19 Submarine Reactor Accident, 1961, 10 May 2005, www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html. ](http://large.stanford.edu/courses/2017/ph241/lowet2/)
+[^1]:  Johnston, Wm. Robert. “K-19 Submarine Reactor Accident, 1961.” K-19 Submarine Reactor Accident, 1961, 10 May 2005, [www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html. ](http://large.stanford.edu/courses/2017/ph241/lowet2/)
 [^2]:  [Johnston, Wm. Robert. “K-19 Submarine Reactor Accident, 1961.” K-19 Submarine Reactor Accident, 1961, 10 May 2005, www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html. ](http://www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html)
 [^3]:  [Johnston, Wm. Robert. “K-27 Submarine Reactor Accident, 1968.” K-27 Submarine Reactor Accident, 1968, 20 Sept. 2007, www.johnstonsarchive.net/nuclear/radevents/1968USSR6.html. ](http://www.johnstonsarchive.net/nuclear/radevents/1968USSR6.html)
 [^4]:  [Kiryukhina, Yaroslava. “Eyewitness: Tragedy of Soviet Nuclear Submarine K-27.” BBC News, 24 Jan. 2013, www.bbc.com/news/world-europe-21148434. ](https://www.bbc.com/news/world-europe-21148434)
