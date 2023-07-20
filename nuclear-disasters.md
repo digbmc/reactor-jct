@@ -1,5 +1,5 @@
 .ve-style ./assets/custom.css
-.ve-header "The History of Nuclear Power" wc:Chernobyl_2019_G03.jpg height=500 sticky
+.ve-header "Accidents&Disasters" wc:Chernobyl_2019_G03.jpg height=500 sticky
     - [Home](/)
     - [History](nuclear-history/)
     - [Science](science/)
@@ -140,6 +140,7 @@ At around 4 a.m., the accident originated in the non-nuclear part of the plant, 
 Under normal circumstances, the pressure vessel containing the reactor core in the nuclear power plant was always filled with water. There was no need for a water-level instrument to indicate whether the core was adequately submerged. Therefore, the plant staff wrongly assumed that as long as the water level in the pressurizer was sufficient, the core would also be adequately covered. 
 
 Unaware of the relief valve being stuck open and unable to confirm the water coverage of the core, the staff made a series of decisions that exposed the core. The malfunctioning valve caused a significant decrease in the pressure of the primary system, resulting in the reactor coolant pumps vibrating and being shut off. To avoid an undesirable situation where the pressurizer would be completely filled with emergency cooling water, the flow of water was reduced. Without the circulation of water by the reactor coolant pumps and with a scarcity of emergency cooling water in the primary system, the water level in the pressure vessel declined, leading to overheating of the core. [^20]
+.ve-media wc:Setcom_at_Three_Mile_Island_Photo.png caption = "Technicians enter the Unit 2 Reactor Building on Three Mile Island."
 ##### What Went Wrong?
 
 The partial meltdown and minor off-site releases of radioactivity were caused by a combination of equipment malfunctions, personale errors, regulatory laxities, and operational issues.
@@ -156,7 +157,11 @@ In spite of serious damage to the plant, most of the radiation was contained and
 No acute radiation injuries occurred, and the evidence indicates no chronic radiation injuries resulted. No individual chronic injuries can be attributed to the TMI accident; even claims of statistically observable changes in possible chronic effects (such as cancer) are not consistent with the evidence. Maximum possible dose to any individuals near the plant was about 0.02 to 0.07 rem in the case of a few hundred individuals, which is well below natural background radiation levels. No consistent evidence that radioactivity released during the nuclear accident has had a significant impact on the overall mortality.[^23]
 
 The TMI accident resulted in significant property damage for the plant operator, but no injuries resulted. The main impact of the Three Mile Island accident has been psychological rather than physical.
-
+.ve-media grid
+    - wc:Anti-nuke_rally_in_Harrisburg_USA.jpg
+    - wc:President_Carter_leaves_Three_Mile_Island_-_April_1%2C_1979_%2814492226660%29.jpg
+    - wc:
+    
 ##### Impact on Nuclear Industry
 
 Despite the incident at TMI being a significant cause for the American public's distrust in nuclear industries in the decades to follow, it led to widespread changes across the U.S. commercial nuclear industry that improved regulations and practices. 
