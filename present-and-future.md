@@ -160,7 +160,7 @@ How nuclear power and reactors work.
 ![](https://upload.wikimedia.org/wikipedia/commons/4/44/Our_World_in_Data_logo.png)
 Interactive graphics on nuclear energy by Our World in Data.
 
-#
+
 
 [^1]:
 Clemmer, Steve, et al. *The Nuclear Power Dilemma: Declining Profits, Plant Closures, and the Threat of Rising Carbon Emissions.* Union of Concerned Scientists, Nov. 2018, [https://www.ucsusa.org/sites/default/files/attach/2018/11/Nuclear-Power-Dilemma-full-report.pdf](https://www.ucsusa.org/sites/default/files/attach/2018/11/Nuclear-Power-Dilemma-full-report.pdf). Accessed 7 July 2023;
