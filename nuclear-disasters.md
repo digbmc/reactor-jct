@@ -197,10 +197,10 @@ IAEA director has announced that his agency’s “comprehensive, neutral, objec
 *How nuclear power and reactors work.*
 
 
-[^1]:  Johnston, Wm. Robert. “K-19 Submarine Reactor Accident, 1961.” K-19 Submarine Reactor Accident, 1961, 10 May 2005, [www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html. ](http://large.stanford.edu/courses/2017/ph241/lowet2/)
-[^2]:  Johnston, Wm. Robert. “K-19 Submarine Reactor Accident, 1961.” K-19 Submarine Reactor Accident, 1961, 10 May 2005, [www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html. ](http://www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html)
-[^3]:  Johnston, Wm. Robert. “K-27 Submarine Reactor Accident, 1968.” K-27 Submarine Reactor Accident, 1968, 20 Sept. 2007, [www.johnstonsarchive.net/nuclear/radevents/1968USSR6.html. ](http://www.johnstonsarchive.net/nuclear/radevents/1968USSR6.html)
-[^4]:  Kiryukhina, Yaroslava. “Eyewitness: Tragedy of Soviet Nuclear Submarine K-27.” BBC News, 24 Jan. 2013, [www.bbc.com/news/world-europe-21148434. ](https://www.bbc.com/news/world-europe-21148434)
+[^1]:  Lowet, Daniel. “K-19 Nuclear Submarine 1961 Incident.” K-19 Nuclear Submarine 1961 Incident, 18 Mar. 2017, [large.stanford.edu/courses/2017/ph241/lowet2/](http://large.stanford.edu/courses/2017/ph241/lowet2/)]
+[^2]:  Johnston, Wm. Robert. “K-19 Submarine Reactor Accident, 1961.” Johnston's Archive, 1961, 10 May 2005, [www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html. ](http://www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html)
+[^3]:  Johnston, Wm. Robert. “K-27 Submarine Reactor Accident, 1968.” Johnston's Archive, 1968, 20 Sept. 2007, [www.johnstonsarchive.net/nuclear/radevents/1968USSR6.html. ](http://www.johnstonsarchive.net/nuclear/radevents/1968USSR6.html)
+[^4]:  Kiryukhina, Yaroslava. “Eyewitness: Tragedy of Soviet Nuclear Submarine K-27.” <em>BBC News</em>, 24 Jan. 2013, [www.bbc.com/news/world-europe-21148434. ](https://www.bbc.com/news/world-europe-21148434)
 [^5]:  Wessells, Colin. Cesium-137: A Deadly Hazard, 20 Mar. 2012, [large.stanford.edu/courses/2012/ph241/wessells1/#:~:text=During%20the%20Chernobyl%20explosion%2C%20about,were%20expelled%20into%20the%20atmosphere. ](http://large.stanford.edu/courses/2012/ph241/wessells1/#:~:text=During%20the%20Chernobyl%20explosion%2C%20about,were%20expelled%20into%20the%20atmosphere.)
 [^6]:  Johnston, Wm. Robert. Texas Radiological Assault, 1972, 18 Sept. 2007, [www.johnstonsarchive.net/nuclear/radevents/1972USA1.html. ](http://www.johnstonsarchive.net/nuclear/radevents/1972USA1.html)
 [^7]:  Bailey, Edgar, and Martin Wukasch. “A Case of Felonious Use of Radioactive Materials.” Irpa, [www.irpa.net/irpa4/cdrom/VOL.3/P3_64.PDF. Accessed 7 July 2023. ](https://www.irpa.net/irpa4/cdrom/VOL.3/P3_64.PDF)
