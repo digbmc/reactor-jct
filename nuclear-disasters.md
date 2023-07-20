@@ -90,7 +90,7 @@ The primary victim was exposed to a dose ranging from 70 to 150 rads, while an a
 #### <a id="San-Jose-Radiotherapy-incident">San Jose Radiotherapy Incident</a>
 
 The ==San Jose=={flyto:Q3070,7} radiotherapy incident in 1996 involved a significant error in a ==Cobalt 60=={description="Cobalt 60 (Co-60) is a radioactive isotope used in medical applications for radiotherapy treatment. It is produced as a byproduct of nuclear reactors when metal structures, such as steel rods, are exposed to neutron radiation."} radiotherapy unit, leading to overdosages of approximately 60%. This incident resulted in the deaths of 7 to 17 individuals, although there were debates regarding whether the deaths were caused by the radiotherapy exposure or the underlying illnesses themselves. Additionally, 81 individuals suffered injuries as a result of the overexposures. [^5] [^11]   
-.ve-media wc:Hospital_San_Juan_de_Dios._San_José._Costa_Rica.jpg caption = "Hospital San Juan de Dios. San José. Costa Rica.jpg"
+.ve-media wc:Hospital_San_Juan_de_Dios._San_José._Costa_Rica.jpg caption = "Hospital San Juan de Dios. San José"
 
 #### <a id="Orphaned-source-in-Goiania-Brazil">Orphaned Source in Goiania Brazil</a>
 
@@ -99,6 +99,7 @@ An abandoned radiotherapy unit in a demolished clinic in ==Goiania Brazil=={flyt
 A number of people examined the material closely, took parts of it home, and distributed it among their families. Some even applied it directly to their skin. Certain components were sold to a second junkyard. Initially, doctors misdiagnosed the resulting illnesses as tropical diseases, but later suspected radiation as the cause. Fortunately, a medical physicist intervened and prevented firefighters from disposing of the substance in a nearby river. Authorities were alerted, and areas of contamination were identified. Treatment centers were established in the Olympic stadium to care for the injured. 
 
 Approximately 112,800 people were examined, with 129 individuals sustaining injuries and 20 requiring hospitalization. There were five deaths and numerous injuries, including radiation burns, with some individuals needing amputations of fingers. [^13]   
+.ve-media wc:02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg caption = "the radioactive source involved in the 1987 accident in Goiânia, Brazil."
 
 #### <a id="Castle-Bravo-Nuclear-testing">Castle Bravo Nuclear Testing</a>
 
