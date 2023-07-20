@@ -130,6 +130,10 @@ High radiation levels delayed emergency responders’ entry into the reactor bui
 ##### Overview 
 
 On March 28, 1979, the Unit 2 reactor at Three Mile Island, located near ==Middletown, Pennsylvania=={flyto:Q488690,7}, experienced a partial meltdown. This incident is widely considered as the most significant accident in the history of commercial nuclear power plants in the United States despite its limited radioactive releases. It initiated significant changes made in aspects of nuclear power plant operations and regulations, including emergency response planning, reactor operator training, human factors engineering, and radiation protection. 
+.ve-media
+    - wc:Oblique_%28view_of%29_TMI_%28Three_Mile_Island%29_-_NARA_-_540028.tif caption = "Three Mile Island after the 1979 accident"
+    - wc:Three_Mile_Island_2012-04-21.jpg caption = "Three Mile Island in 2012"
+    
 ##### Events in Sequence
 
 At around 4 a.m., the accident originated in the non-nuclear part of the plant, affecting one of the two reactors. A failure, either mechanical or electrical, caused the main pumps to stop supplying water to cool the reactor. This led to the shutdown of the turbine-generator and the reactor itself. While the pressure in the nuclear piping system started to rise, a relief valve at the top of the pressurizer that should have closed got stuck open. Unfortunately, the control room instruments indicated that the valve was closed, and the staff was unaware that steam was escaping from the open valve, causing a loss of coolant. Alarms and warning lights alerted the operators, but they did not realize the severity of the situation.
