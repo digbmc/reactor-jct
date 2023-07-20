@@ -199,8 +199,8 @@ The water was largely used to cool the three damaged reactor cores, which remain
 
 IAEA director has announced that his agency’s “comprehensive, neutral, objective and scientifically sound” evaluation showed that the planned discharge was consistent with global industry and safety standards while its report was “neither a recommendation nor an endorsement” of Japan’s water discharge decision. [^27] [^28]
 .ve-media
-    - wc:Rafael_Mariano_Grossi_visits_Fukushima_NPP_%2801815831%29.jpg
     - wc:Fukushima_Decommissioning_%2802110067%29_%2816372350279%29.jpg
+    - wc:Rafael_Mariano_Grossi_visits_Fukushima_NPP_%2801815831%29.jpgFukushima_Decommissioning_%2802110067%29_%2816372350279%29.jpg
 
 ## Further Reading {.cards}
 
