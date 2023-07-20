@@ -198,6 +198,9 @@ Japan announced in April 2021 that it planned to discharge more than 1.25 millio
 The water was largely used to cool the three damaged reactor cores, which remain highly radioactive. Some of it has since leaked into basements of the reactor buildings but was collected and stored in tanks. Space for the tanks is running out and the long-term management of the treated water is necessary to allow for the further decommissioning of Fukushima-Daiichi, which has been permanently shut down.
 
 IAEA director has announced that his agency’s “comprehensive, neutral, objective and scientifically sound” evaluation showed that the planned discharge was consistent with global industry and safety standards while its report was “neither a recommendation nor an endorsement” of Japan’s water discharge decision. [^27] [^28]
+.ve-media
+    - wc:Rafael_Mariano_Grossi_visits_Fukushima_NPP_%2801815831%29.jpg
+    - wc:Fukushima_Decommissioning_%2802110067%29_%2816372350279%29.jpg
 
 ## Further Reading {.cards}
 
