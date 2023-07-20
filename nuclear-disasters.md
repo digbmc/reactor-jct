@@ -39,7 +39,7 @@
     - Q488690 8 marker "Dauphin County, PA"
     - Q161176 8 marker "Fukushima"
     
-#### <a id="k19">K-19</a>
+#### K-19
 
 The K-19 submarine was the first ballistic-missile equipped nuclear submarine, carrying three ballistic missiles with a range of 650km. During its first mission as a US attacker on June 18, 1961, the submarine experienced testing pressure that exceeded its designed pressure at ==Abrosimov Bay=={flyto:Q39265625,7}, resulting in damaged piping in the primary cooling unit. This led to a drop in pressure, causing the reactor water to boil and the reactor room temperature to reach 140°C, resulting in a fire. 
 
@@ -53,7 +53,7 @@ The person in charge of the test failed to report the damage to superiors and di
 
 #### <a id="k27">K-27</a>
 
-K-27 was sent off on a five-day trip to conduct checkups for a 70-day mission, collecting data on two experimental liquid metal-cooled reactors which featured a new design intended for the Soviet army. The goal was to have the first USSR submarine remain submerged for 50 consecutive days. 
+The K-27 was sent off on a five-day trip to conduct checkups for a 70-day mission, collecting data on two experimental liquid metal-cooled reactors which featured a new design intended for the Soviet army. The goal was to have the first USSR submarine remain submerged for 50 consecutive days. 
 
 However, the system had a tendency to leak steam, leading to oxidation of the liquid metal coolant and necessitating regular clean-up. A coolant failure occured, possibly caused by the accumulation of oxide particles, resulting in overheating and the release of radioactive gas into the engine room. The submarine resurfaced at ==Novaya Zemlya=={flyto:Q80413,7}This incident led to the deaths of nine individuals and the poisoning of all 144 crew members. [^4] 
 
