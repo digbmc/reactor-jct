@@ -90,8 +90,8 @@ In order to prevent further accidents, there were some modifications done to the
 *How nuclear power and reactors work.*
 
 
-[^1]: How Does a Nuclear Reactor Work - [World Nuclear Association](https://world-nuclear.org/nuclear-essentials/how-does-a-nuclear-reactor-work.aspx.) Accessed 12 June 2023.
-[^2]: Graphics made by Sarah Harman | [U.S. Department of Energy](https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work)
-[^3]: Semenov, B. A. “Nuclear Power in the Soviet Union.” IAEA Bulletin, vol. 25, no. 2, 1983.
-[^4]: Kirk, Benny. “37 Years After Chernobyl, RBMK Reactors Are Still Operating in Russia.” Autoevolution, 20 Feb. 2023.[RMBK Reactors](https://www.autoevolution.com/news/37-years-after-chernobyl-rbmk-nuclear-reactors-are-still-operating-in-russia-210581.html.)
-[^5]: World Nuclear Association. RBMK Reactors | Reactor Bolshoy Moshchnosty Kanalny | Positive Void Coefficient - World Nuclear Association. 1991, [WNA](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/appendices/rbmk-reactors.aspx.)
+[^1]: "How Does a Nuclear Reactor Work" [https://world-nuclear.org/nuclear-essentials/how-does-a-nuclear-reactor-work.aspx](https://world-nuclear.org/nuclear-essentials/how-does-a-nuclear-reactor-work.aspx) Accessed 12 June 2023.
+[^2]: Graphics made by Sarah Harman | [https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work](https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work)
+[^3]: Semenov, B. A. “Nuclear Power in the Soviet Union.” *IAEA Bulletin*, vol. 25, no. 2, 1983.
+[^4]: Kirk, Benny. “37 Years After Chernobyl, RBMK Reactors Are Still Operating in Russia.” *Autoevolution*, 20 Feb. 2023.[https://www.autoevolution.com/news/37-years-after-chernobyl-rbmk-nuclear-reactors-are-still-operating-in-russia](https://www.autoevolution.com/news/37-years-after-chernobyl-rbmk-nuclear-reactors-are-still-operating-in-russia-210581.html#:~:text=But%20if%20you%20thought%20RBMKs,eight%20are%20still%20in%20operation)
+[^5]: World Nuclear Association. "RBMK Reactors | Reactor Bolshoy Moshchnosty Kanalny | Positive Void Coefficient". - World Nuclear Association. 1991, [https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/appendices/rbmk-reactors.aspx](https://www.world-nuclear.org/information-library/nuclear-fuel-cycle/nuclear-power-reactors/appendices/rbmk-reactors.aspx)
