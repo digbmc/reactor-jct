@@ -119,7 +119,7 @@ As a result, all crew members were hospitalized, and aggressive blood transfusio
 
 #### <a id="SL-1-Reactor-excursion">SL-1 Reactor Excursion</a>
 
-The SL-1 reactor was a prototype reactor designed for easy assembly in remote locations at the ==National Reactor Testing Station in Idaho, USA=={flyto:Q1221,7}. The reactor was water moderated and controlled by five aluminum-clad cadmium control rods. While three workers were reassembling the control rod drives on January 3 1961, one worker manually removed the center control rod rapidly over a 0.5-second period, causing the reactor to become supercritical. This resulted in a steam explosion with a total energy release of 1.3 x 108 joules, comparable to 30 kg of TNT. The worker who withdrew the rod was killed instantly by a control rod. The other two workers were burned and thrown by the explosion, with one dying instantly from impact and the other succumbing to head injuries and dying a few hours later. The release of radioactive material was largely contained within the building.
+The SL-1 reactor was a prototype reactor designed for easy assembly in remote locations at the ==National Reactor Testing Station in Idaho, USA.=={flyto:Q1221,7} The reactor was water moderated and controlled by five aluminum-clad cadmium control rods. While three workers were reassembling the control rod drives on January 3 1961, one worker manually removed the center control rod rapidly over a 0.5-second period, causing the reactor to become supercritical. This resulted in a steam explosion with a total energy release of 1.3 x 108 joules, comparable to 30 kg of TNT. The worker who withdrew the rod was killed instantly by a control rod. The other two workers were burned and thrown by the explosion, with one dying instantly from impact and the other succumbing to head injuries and dying a few hours later. The release of radioactive material was largely contained within the building.
 High radiation levels delayed emergency responders’ entry into the reactor building. The bodies of the deceased workers were recovered on January 4 and January 9. In total, 22 personnel and responders received radiation doses ranging from 3-27 rads. [^17]
 .ve-media wc:SL1nuclearpowerplant.JPG caption = "SL-1 Nuclear Power Plant"
 
@@ -133,7 +133,6 @@ On March 28, 1979, the Unit 2 reactor at Three Mile Island, located near ==Middl
 .ve-media
     - wc:Oblique_%28view_of%29_TMI_%28Three_Mile_Island%29_-_NARA_-_540028.tif
     - wc:Exelon_Three_Mile_Island_Nuclear_Generating_Station.jpg caption = "Three Mile Island 1979 vs. 2019"
-    
 ##### Events in Sequence
 
 At around 4 a.m., the accident originated in the non-nuclear part of the plant, affecting one of the two reactors. A failure, either mechanical or electrical, caused the main pumps to stop supplying water to cool the reactor. This led to the shutdown of the turbine-generator and the reactor itself. While the pressure in the nuclear piping system started to rise, a relief valve at the top of the pressurizer that should have closed got stuck open. Unfortunately, the control room instruments indicated that the valve was closed, and the staff was unaware that steam was escaping from the open valve, causing a loss of coolant. Alarms and warning lights alerted the operators, but they did not realize the severity of the situation.
@@ -165,6 +164,7 @@ Despite the incident at TMI being a significant cause for the American public's 
 The NRC was strengthened and the industry established the Institute of Nuclear Power Operations (INPO) to ensure appropriate training, plant management and operations. It expanded its resident inspector program in which two NRC inspectors live near each of the plants and provide oversight of adherence to the agencies’ regulations. It also expanded both safety and performance-oriented inspections and established an operations center staffed 24 hours a day to provide assistance in plant emergencies. [^24] 
 
 Training reforms are among the most significant outcomes of the TMI-2 accident. Training became centred on protecting a plant's cooling capacity, whatever the triggering problem might be. Events of TMI led to the establishment of the Atlanta-based Institute of Nuclear Power Operations (INPO) and its National Academy for Nuclear Training. Close to half of the operators' training was in a full-scale electronic simulator of the TMI control room. The $18 million simulator permitted operators to learn and be tested on all kinds of accident scenarios. [^22]
+.ve-media wc:Presentation_at_Three_Mile_Island_Nuclear_Plant_Simulator_%2828751374767%29.jpg caption = "NRC Resident Inspector Zach Hollcraft (center) gives fellows from the White House Leadership Development Program a presentation from the Three Mile Island nuclear plant simulator"
 
 #### <a id="Fukushima-Daiichi">Fukushima Daiichi</a>
 ##### Overview
