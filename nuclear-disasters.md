@@ -174,12 +174,13 @@ Training reforms are among the most significant outcomes of the TMI-2 accident. 
 #### <a id="Fukushima-Daiichi">Fukushima Daiichi</a>
 ##### Overview
 
-On March 11, 2011, Great East Japan Earthquake and tsunami induced a disaster in northeastern Japan and initiated a severe nuclear accident at the ==Fukushima=={flyto:Q161176} Daiichi nuclear plant. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed.
-
-The reactors proved robust seismically, but vulnerable to the tsunami. Power, from grid or backup generators, was available to run the residual heat removal (RHR) system cooling pumps at eight of the eleven units, and despite some problems they achieved 'cold shutdown' within about four days. The other three, at Fukushima Daiichi, lost power at 3.42 pm, almost an hour after the earthquake, when the entire site was flooded by the 15-metre tsunami. Three employees at the Daiichi and Daini plants were killed directly by the earthquake and tsunami, but there have been no fatalities from the nuclear accident. [^25]
 .ve-media
     - wc:20200926fukushima02.jpg
     - wc:IAEA_Experts_at_Fukushima_%2802813336%29_%28cropped_3_to_2%29.jpg
+    
+On March 11, 2011, Great East Japan Earthquake and tsunami induced a disaster in northeastern Japan and initiated a severe nuclear accident at the ==Fukushima=={flyto:Q161176} Daiichi nuclear plant. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed.
+
+The reactors proved robust seismically, but vulnerable to the tsunami. Power, from grid or backup generators, was available to run the residual heat removal (RHR) system cooling pumps at eight of the eleven units, and despite some problems they achieved 'cold shutdown' within about four days. The other three, at Fukushima Daiichi, lost power at 3.42 pm, almost an hour after the earthquake, when the entire site was flooded by the 15-metre tsunami. Three employees at the Daiichi and Daini plants were killed directly by the earthquake and tsunami, but there have been no fatalities from the nuclear accident. [^25]
 
 ##### Could it Have Been Prevented?
 
