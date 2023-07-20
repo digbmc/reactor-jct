@@ -161,7 +161,7 @@ How nuclear power and reactors work.
 Interactive graphics on nuclear energy by Our World in Data.
 
 
-####
+
 [^1]:
 Clemmer, Steve, et al. *The Nuclear Power Dilemma: Declining Profits, Plant Closures, and the Threat of Rising Carbon Emissions.* Union of Concerned Scientists, Nov. 2018, [https://www.ucsusa.org/sites/default/files/attach/2018/11/Nuclear-Power-Dilemma-full-report.pdf](https://www.ucsusa.org/sites/default/files/attach/2018/11/Nuclear-Power-Dilemma-full-report.pdf). Accessed 7 July 2023;
 Cravens, Gwyneth. “Terrorism and Nuclear Energy: Understanding the Risks". Brookings, 1 Mar. 2002, [https://www.brookings.edu/articles/terrorism-and-nuclear-energy-understanding-the-risks/](https://www.brookings.edu/articles/terrorism-and-nuclear-energy-understanding-the-risks/). Accessed 7 July 2023;
