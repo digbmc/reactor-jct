@@ -131,8 +131,8 @@ High radiation levels delayed emergency responders’ entry into the reactor bui
 
 On March 28, 1979, the Unit 2 reactor at Three Mile Island, located near ==Middletown, Pennsylvania=={flyto:Q488690,7}, experienced a partial meltdown. This incident is widely considered as the most significant accident in the history of commercial nuclear power plants in the United States despite its limited radioactive releases. It initiated significant changes made in aspects of nuclear power plant operations and regulations, including emergency response planning, reactor operator training, human factors engineering, and radiation protection. 
 .ve-media
+    - wc:Exelon_Three_Mile_Island_Nuclear_Generating_Station.jpg
     - wc:Oblique_%28view_of%29_TMI_%28Three_Mile_Island%29_-_NARA_-_540028.tif
-    - wc:Exelon_Three_Mile_Island_Nuclear_Generating_Station.jpg caption = "Three Mile Island 1979 vs. 2019"
 ##### Events in Sequence
 
 At around 4 a.m., the accident originated in the non-nuclear part of the plant, affecting one of the two reactors. A failure, either mechanical or electrical, caused the main pumps to stop supplying water to cool the reactor. This led to the shutdown of the turbine-generator and the reactor itself. While the pressure in the nuclear piping system started to rise, a relief valve at the top of the pressurizer that should have closed got stuck open. Unfortunately, the control room instruments indicated that the valve was closed, and the staff was unaware that steam was escaping from the open valve, causing a loss of coolant. Alarms and warning lights alerted the operators, but they did not realize the severity of the situation.
@@ -178,8 +178,8 @@ On March 11, 2011, Great East Japan Earthquake and tsunami induced a disaster in
 
 The reactors proved robust seismically, but vulnerable to the tsunami. Power, from grid or backup generators, was available to run the residual heat removal (RHR) system cooling pumps at eight of the eleven units, and despite some problems they achieved 'cold shutdown' within about four days. The other three, at Fukushima Daiichi, lost power at 3.42 pm, almost an hour after the earthquake, when the entire site was flooded by the 15-metre tsunami. Three employees at the Daiichi and Daini plants were killed directly by the earthquake and tsunami, but there have been no fatalities from the nuclear accident. [^25]
 .ve-media
-    - wc:IAEA_Experts_at_Fukushima_%2802813336%29_%28cropped_3_to_2%29.jpg
     - wc:20200926fukushima02.jpg
+    - wc:IAEA_Experts_at_Fukushima_%2802813336%29_%28cropped_3_to_2%29.jpg
 
 ##### Could it Have Been Prevented?
 
