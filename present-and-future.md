@@ -176,6 +176,7 @@ Prokip, Andrian. “Anniversary of Chernobyl Finds European Nuclear Power at a C
 Thomas, S. D. The Realities of Nuclear Power: International Economic and Regulatory Experience. Cambridge University Press, 1988. Accessed 7 July 2023;
 and Росатом Госкорпорация «Росатом» ядерные технологии атомная энергетика АЭС ядерная медицина. 14:37 2021, [https://www.rosatom.ru/journalist/news/energoblok-1-belorusskoy-aes-prinyat-v-promyshlennuyu-ekspluatatsiyu/](https://www.rosatom.ru/journalist/news/energoblok-1-belorusskoy-aes-prinyat-v-promyshlennuyu-ekspluatatsiyu/). Accessed 7 July 2023.
 
+
 [^2]:
 Faulder, Dominic. “Asia’s Nuclear Power Dilemma: Ukraine War Drives Energy Turnarounds.” *Nikkei Asia*, 20 Apr. 2022, [https://asia.nikkei.com/Spotlight/The-Big-Story/Asia-s-nuclear-power-dilemma-Ukraine-war-drives-energy-turnarounds](https://asia.nikkei.com/Spotlight/The-Big-Story/Asia-s-nuclear-power-dilemma-Ukraine-war-drives-energy-turnarounds). Accessed 7 July 2023;
 Hatch;
