@@ -160,6 +160,7 @@ The TMI accident resulted in significant property damage for the plant operator,
 .ve-media grid
     - wc:Anti-nuke_rally_in_Harrisburg_USA.jpg
     - wc:President_Carter_leaves_Three_Mile_Island_-_April_1%2C_1979_%2814492226660%29.jpg
+    - wc:Three_Mile_Island_Article_%28FDA120a%29_%288205614095%29.jpg
     
 ##### Impact on Nuclear Industry
 
