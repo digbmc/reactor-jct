@@ -63,6 +63,7 @@ More than half of the electricity produced from NPPs.
 ##
 Here is a graph showing how nuclear energy is expanding as a primary source of energy around the world.
 .ve-iframe width=80% height=600px https://ourworldindata.org/grapher/nuclear-primary-energy?facet=none&country=BGD~BLR~AUT~BEL~BRA~CHN~CZE~FIN~FRA~DEU~HKG~HUN~ISL~IND~IDN~IRL~LTU~VNM~GBR~OWID_USS~TUR~THA~TWN~SWE~LKA~ESP~SVK~SGP~KOR~RUS~PRT~POL~PHL~PAK~NLD~LUX~MYS
+If you'd like to see more figures on nuclear energy, we recommend taking a look at those made by research nonprofit [Our World in Data](https://ourworldindata.org/nuclear-energy). 
 
 
 ## Expansion of Nuclear Power in Asia 
@@ -155,10 +156,6 @@ The present and future of nuclear energy.
 ### How It Works {href=science/}
 ![](https://upload.wikimedia.org/wikipedia/commons/3/30/NSC-Oct-2017.jpg)
 How nuclear power and reactors work.
-
-### Nuclear Energy Figures {href=https://ourworldindata.org/nuclear-energy}
-![](https://upload.wikimedia.org/wikipedia/commons/4/44/Our_World_in_Data_logo.png)
-Interactive graphics on nuclear energy by Our World in Data.
 
 
 ## 
