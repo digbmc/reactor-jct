@@ -139,6 +139,7 @@ In spite of serious damage to the plant, most of the radiation was contained and
 
 .ve-iframe https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=15VoPoQNfyxPhOWLvjBmyrJ8yyp-nwxqs7UfxL9UkgD4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0' [^19]
 
+
 No acute radiation injuries occurred, and the evidence indicates no chronic radiation injuries resulted. No individual chronic injuries can be attributed to the TMI accident; even claims of statistically observable changes in possible chronic effects (such as cancer) are not consistent with the evidence. Maximum possible dose to any individuals near the plant was about 0.02 to 0.07 rem in the case of a few hundred individuals, which is well below natural background radiation levels. No consistent evidence that radioactivity released during the nuclear accident has had a significant impact on the overall mortality.[^23]
 
 The TMI accident resulted in significant property damage for the plant operator, but no injuries resulted. The main impact of the Three Mile Island accident has been psychological rather than physical.
