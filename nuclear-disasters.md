@@ -174,13 +174,12 @@ Training reforms are among the most significant outcomes of the TMI-2 accident. 
 #### <a id="Fukushima-Daiichi">Fukushima Daiichi</a>
 ##### Overview
 
-.ve-media
-    - wc:20200926fukushima02.jpg
-    - wc:IAEA_Experts_at_Fukushima_%2802813336%29_%28cropped_3_to_2%29.jpg
-    
 On March 11, 2011, Great East Japan Earthquake and tsunami induced a disaster in northeastern Japan and initiated a severe nuclear accident at the ==Fukushima=={flyto:Q161176} Daiichi nuclear plant. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed.
 
 The reactors proved robust seismically, but vulnerable to the tsunami. Power, from grid or backup generators, was available to run the residual heat removal (RHR) system cooling pumps at eight of the eleven units, and despite some problems they achieved 'cold shutdown' within about four days. The other three, at Fukushima Daiichi, lost power at 3.42 pm, almost an hour after the earthquake, when the entire site was flooded by the 15-metre tsunami. Three employees at the Daiichi and Daini plants were killed directly by the earthquake and tsunami, but there have been no fatalities from the nuclear accident. [^25]
+.ve-media
+    - wc:20200926fukushima02.jpg
+    - wc:IAEA_Experts_at_Fukushima_%2802813336%29_%28cropped_3_to_2%29.jpg   
 
 ##### Could it Have Been Prevented?
 
@@ -194,14 +193,15 @@ The methods used by TEPCO and NISA to assess the risk from tsunamis lagged behin
 - NISA Inattentiveness:   NISA failed to review simulations conducted by TEPCO and to foster the development of appropriate computer modeling tools. [^26]
 ##### Fukushima Now: Water Discharge
 
+.ve-media
+    - wc:Rafael_Mariano_Grossi_visits_Fukushima_NPP_%2801815831%29.jpg
+    - wc:Fukushima_Decommissioning_%2802110067%29_%2816372350279%29.jpg  
+    
 Japan announced in April 2021 that it planned to discharge more than 1.25 million cubic metres of treated water stored at the station by discharging it into the sea. The plan was approved by the nuclear regulator in early 2022. The water stored at the tanks at the Fukushima-Daiichi site is treated through a process known as advanced liquid processing system (Alps) to remove most of the radioactivity. Tritium, which cannot be removed by Alps, and some very low levels of other radionuclides, remain in the water after processing.
 
 The water was largely used to cool the three damaged reactor cores, which remain highly radioactive. Some of it has since leaked into basements of the reactor buildings but was collected and stored in tanks. Space for the tanks is running out and the long-term management of the treated water is necessary to allow for the further decommissioning of Fukushima-Daiichi, which has been permanently shut down.
 
 IAEA director has announced that his agency’s “comprehensive, neutral, objective and scientifically sound” evaluation showed that the planned discharge was consistent with global industry and safety standards while its report was “neither a recommendation nor an endorsement” of Japan’s water discharge decision. [^27] [^28]
-.ve-media
-    - wc:Fukushima_Decommissioning_%2802110067%29_%2816372350279%29.jpg
-    - wc:Rafael_Mariano_Grossi_visits_Fukushima_NPP_%2801815831%29.jpgFukushima_Decommissioning_%2802110067%29_%2816372350279%29.jpg
 
 ## Further Reading {.cards}
 
