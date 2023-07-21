@@ -91,10 +91,9 @@ The man who carried the stolen source home received a dose of ==<u>183,000 rads<
 
 #### <a id="Guangzhou-radiological-assault">Guangzhou Radiological Assault</a>
 
-A radiology scientist based in ==Guangzhou, China=={flyto:Q16572,7} used ==<u>Iridium 192</u>=={description="Iridium 192 is a man-made radioactive element commonly utilized in the medical field to combat cancer cells, produced through the irradiation of nonradioactive iridium in a nuclear reactor. "} pellets to target his colleague and former business partner. With forged documents, the scientist obtained an industrial machine containing Iridium 192 and enlisted an accomplice to help. They installed the machine above the ceiling panels in the victim's office and activated it when the victim was present. After approximately two months, the victim began to suspect a connection between his deteriorating health and radiation exposure. 
+A radiology scientist based in ==Guangzhou, China=={flyto:Q16572,7} used ==<u>Iridium 192</u>=={description="Iridium 192 is a man-made radioactive element commonly utilized in the medical field to combat cancer cells, produced through the irradiation of nonradioactive iridium in a nuclear reactor. "} pellets to target his colleague and former business partner. With forged documents, the scientist obtained an industrial machine containing Iridium 192 and enlisted an accomplice to help. They installed the machine above the ceiling panels in the victim's office and activated it when the victim was present. 
 
-The primary victim was exposed to a dose ranging from 70 to 150 rads, while an additional 78 hospital staff members were also injured.[^10]  
-
+After approximately two months, the victim began to suspect a connection between his deteriorating health and radiation exposure. The primary victim was exposed to a dose ranging from 70 to 150 rads, while an additional 78 hospital staff members were also injured.[^10] 
 
 #### <a id="San-Jose-Radiotherapy-incident">San Jose Radiotherapy Incident</a>
 
