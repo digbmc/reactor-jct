@@ -6,11 +6,10 @@
     - [Disasters](nuclear-disasters/)
     - [Present and Future](present-and-future/)
 
-# PLACEHOLDER INTRO
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Semper auctor neque vitae tempus. Vitae congue mauris rhoncus aenean. Amet est placerat in egestas erat imperdiet sed euismod nisi. Tincidunt arcu non sodales neque. Id neque aliquam vestibulum morbi blandit cursus risus at. Habitant morbi tristique senectus et. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Lacus laoreet non curabitur gravida. Cursus vitae congue mauris rhoncus aenean vel. Auctor augue mauris augue neque gravida in fermentum et. Ut ornare lectus sit amet est placerat in egestas erat. Mattis enim ut tellus elementum sagittis vitae et leo duis. Lacus luctus accumsan tortor posuere ac ut consequat semper. Aliquet porttitor lacus luctus accumsan tortor posuere. Amet commodo nulla facilisi nullam. Placerat duis ultricies lacus sed turpis tincidunt id. Duis tristique sollicitudin nibh sit amet. Urna cursus eget nunc scelerisque viverra mauris in aliquam sem. Vehicula ipsum a arcu cursus vitae congue mauris rhoncus. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Quis hendrerit dolor magna eget est lorem. Ut etiam sit amet nisl purus in mollis nunc sed. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Cursus risus at ultrices mi tempus. Egestas maecenas pharetra convallis posuere morbi leo.
-
 # Origins of Nuclear Research[^1]
 The idea of the atom has been around for centuries — the Greeks believed that our world was made up of tiny, invisible particles they named *atoms*, from the word *atomos*, meaning indivisible.[^2] In 1789, a German chemist discovered the element uranium, named after the planet Uranus. Then, in 1895, Wilhelm Röntgen discovered ionizing radiation, an energy released by atoms that appears as particles, such as neutrons, or electromagnetic waves, such as gamma or X-rays. Henri Becquerel discovered beta radiation in 1896 when he found that pitchblende, which contains both radium and uranium, caused a photographic plate to grow dark due to the beta radiation and the alpha particles that emitted from the pitchblende. In 1896, Marie and Pierre Curie deemed this emitting of particles *radioactivity* and went on to isolate polonium and radium from the pitchblende in 1898. Ernest Rutherford proved that radioactivity created a different element in 1902. In 1911, Frederick Soddy discovered that radioactive elements have different isotopes, or radionuclides, with the same chemistry. Rutherford then discovered nuclear rearrangement in 1919 when he fired alpha particles from radium into nitrogen, which created oxygen.[^3]
+
+When two atoms are combined, or one is broken apart, energy is released – this is called fusion and fission, respectively, and are the basis of nuclear power. At the onset of World War Two and through the Cold War, the intent of nuclear development changed from economical energy generation to weapons of mass destruction, but that does not make nuclear energy a black and white issue. While nuclear power is the foundation of the largest bomb ever created, it is also the resource that made mankind reaching the stars possible, and may be the [future](https://digitalscholarship.brynmawr.edu/reactor-room/projects/nuclear-power/) of sustainable energy.
 
 [^1]: “Outline History of Nuclear Energy.” World Nuclear Association, Nov. 2020. [https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx](https://world-nuclear.org/information-library/current-and-future-generation/outline-history-of-nuclear-energy.aspx)
 [^2]: “The History of Nuclear Energy.” The Department of Energy, [https://www.energy.gov/ne/articles/history-nuclear-energy](https://www.energy.gov/ne/articles/history-nuclear-energy)
@@ -220,6 +219,7 @@ The idea of the atom has been around for centuries — the Greeks believed that 
     - wc:Yuri_Gagarin_Capsule_and_space_suit.jpg
     - wc:Yuri_Gagarin_(1961)_-_Restoration.jpg
 
+
 [^22]: “Tsar Bomba.” The National Museum of Nuclear Science & History, 8 Aug. 2014, [https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/](https://ahf.nuclearmuseum.org/ahf/history/tsar-bomba/)
 #### 1962
 - October 16th - 29th - The *Cuban Missile Crisis* is a thirteen-day period in which the United States and the Soviet Union come the closest to nuclear war.[^23]
@@ -243,6 +243,7 @@ The idea of the atom has been around for centuries — the Greeks believed that 
     - wc:Apollo_11_Crew.jpg
     - wc:Aldrin_Apollo_11_original.jpg
     - wc:Apollo_11_Launch_-_GPN-2000-000630.jpg
+
 
 [^23]: Mahnken, Thomas G., et al. “The United States and the Cold War Arms Race.” *Arms Races in International Politics: From the Nineteenth to the Twenty-First Century*, (Oxford, 2016; online edn, Oxford Academic, 21 Jan. 2016) [https://academic.oup.com/book/8562/chapter/154459921](https://academic.oup.com/book/8562/chapter/154459921)
 
@@ -281,7 +282,7 @@ The idea of the atom has been around for centuries — the Greeks believed that 
 - January 7th - The *Nuclear Waste Policy Act* (NWPA) establishes a program for disposing of radioactive waste and spent fuel.
 - March 23rd - President Reagan announced Strategic Defense Initiative (SDI), also called the “Star Wars Program,” a missile defense system to prevent attack by intercontinental or submarine-launched ballistic missiles.[^27]
 #### 1986
-- **April 26th - Reactor 4 of the Chornobyl Power Plant in Prypiat, Ukraine, explodes.**[^28]
+- April 26th - Reactor 4 of the Chornobyl Power Plant in Prypiat, Ukraine, explodes.[^28]
 
 .ve-media wc:Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg static caption="Chornobyl 2013"
 
