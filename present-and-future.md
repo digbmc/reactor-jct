@@ -111,7 +111,7 @@ While many renewable energy sources can produce the heat needed for low-temperat
 Nuclear reactors and other nuclear technologies can be used to produce the radioisotopes necessary for medical equipment, research applications like carbon dating, and the production of technology like smoke detectors. [^13]
 
 ### Utilizing Waste Products
-.ve-media wc:Fluor_Fernald_Workers.jpg static caption="Pneumatic removal of thorium waste"
+.ve-media wc:Fluor_Fernald_Workers.jpg static caption="Removal of thorium waste"
 Waste products from other industries, such as thorium and copper, have the potential to be utilized in or transformed into useful material by nuclear power. [^14]
 
 ## Issues with Modern Nuclear Power
