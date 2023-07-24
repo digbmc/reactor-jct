@@ -73,7 +73,7 @@ When the submarine returned to dock, most of the crew members exposed to radiati
 
 The captain did make a crucial decision to ignore orders from the division to cut the engines and remain in the submarine. Recognizing the dangers of prolonged exposure, he took action to safeguard the crew by preventing further hours of potential radiation poisoning.
 
-.ve-media wc:The_dead_sailors_of_the_submarine_%22K-27%22.jpg caption = "The dead sailors of the submarine K-27"
+.ve-media wc:The_dead_sailors_of_the_submarine_%22K-27%22.jpg caption = "The deceased sailors of the submarine K-27"
 
 #### <a id="Texas-radiological-assault">Texas Radiological Assault</a>
 
