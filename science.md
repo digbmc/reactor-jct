@@ -71,7 +71,7 @@ In order to prevent further accidents, there were some modifications done to the
 
 ## Further Reading {.cards}
 
-### Accidents & Disasters {href="/nuclear-disaster"}
+### Accidents & Disasters {href="/nuclear-disasters"}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/15/Chernobyl_2019_G03.jpg)
 
