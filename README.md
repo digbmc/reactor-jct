@@ -10,7 +10,7 @@
 
 # Nuclear power 
 
-Welcome to the digital exhibition on nuclear power! Our exhibition will explore the history, science, and future of nuclear power. You will learn about the different types of nuclear reactors, how they work, and the historical development of nuclear power. You will also learn about the scope of some selected nuclear accidents and the current usage of nuclear energy in the world. Nuclear power is a controversial topic, but it is an important one to understand. Our goal for this exhibition is to provide you with the information one needs to draw informed, unbiased conclusions on nuclear power, in order to enhance your experience of the overall Chornobyl reactor room project. We hope you enjoy the exhibition!
+Welcome to the digital exhibition on nuclear power. This exhibition explores the history, science, and future of nuclear power. Nuclear power is a controversial topic, but it is an important one to understand. The goal of this exhibition is to provide one with the information one needs to draw informed, unbiased conclusions on nuclear power, in order to enhance your experience of the overall Chornobyl reactor room project. We hope you enjoy the exhibition.
 
 
 ## Explore {.cards}
