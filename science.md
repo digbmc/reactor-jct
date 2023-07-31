@@ -90,6 +90,11 @@ In order to prevent further accidents, there were some modifications done to the
 *The history of the development and implementation of nuclear power from the 1930s to the 1980s.*
 
 
+### Reactor Room Project {href=https://digitalscholarship.brynmawr.edu/reactor-room/}
+
+*Return to main page*
+
+
 [^1]: "How Does a Nuclear Reactor Work" [https://world-nuclear.org/nuclear-essentials/how-does-a-nuclear-reactor-work.aspx](https://world-nuclear.org/nuclear-essentials/how-does-a-nuclear-reactor-work.aspx) Accessed 12 June 2023.
 [^2]: Graphics made by Sarah Harman | [https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work](https://www.energy.gov/ne/articles/nuclear-101-how-does-nuclear-reactor-work)
 [^3]: Semenov, B. A. “Nuclear Power in the Soviet Union.” *IAEA Bulletin*, vol. 25, no. 2, 1983.
