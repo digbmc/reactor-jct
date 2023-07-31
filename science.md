@@ -95,7 +95,7 @@ In order to prevent further accidents, there were some modifications done to the
 
 ![](https://digitalscholarship.brynmawr.edu/reactor-room/assets/images/rothbart-chernobyl-gauges-web.jpg)
 
-*Return to main page*
+*Return to main page.*
 
 
 [^1]: "How Does a Nuclear Reactor Work" [https://world-nuclear.org/nuclear-essentials/how-does-a-nuclear-reactor-work.aspx](https://world-nuclear.org/nuclear-essentials/how-does-a-nuclear-reactor-work.aspx) Accessed 12 June 2023.
