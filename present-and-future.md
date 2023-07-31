@@ -1,5 +1,5 @@
 .ve-style ./assets/custom.css
-.ve-header sticky "The Present and Future of Nuclear Power Globally" wc:De_Molen_(windmill)_and_the_nuclear_power_plant_cooling_tower_in_Doel,_Belgium_(DSCF3859).jpg height=500
+.ve-header sticky "The Present and Future of Nuclear Power Globally" wc:De_Molen_(windmill)_and_the_nuclear_power_plant_cooling_tower_in_Doel,_Belgium_(DSCF3859).jpg height=500 logo=https://digbmc.github.io/reactor-jct/favicon.ico url=#
     - [Home](/)
     - [History](nuclear-history/)
     - [Science](science/)
