@@ -1,7 +1,7 @@
 .ve-style ./assets/custom.css
 
 
-.ve-header  "The Science Behind Nuclear Power" wc:NSC-Oct-2017.jpg sticky 
+.ve-header  "The Science Behind Nuclear Power" wc:NSC-Oct-2017.jpg sticky logo=https://digbmc.github.io/reactor-jct/favicon.ico url=#
     - [Home](/)
     - [History](nuclear-history/)
     - [Science](science/)
