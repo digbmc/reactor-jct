@@ -1,5 +1,5 @@
 .ve-style ./assets/custom.css
-.ve-header "Nuclear Disasters" wc:Chernobyl_2019_G03.jpg height=500 sticky
+.ve-header "Nuclear Disasters" wc:Chernobyl_2019_G03.jpg height=500 sticky logo=https://digbmc.github.io/reactor-jct/favicon.ico url=#
     - [Home](/)
     - [History](nuclear-history/)
     - [Science](science/)
