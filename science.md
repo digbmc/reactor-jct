@@ -12,7 +12,7 @@
 
 ### How Nuclear Energy is Generated
 
-.ve-media wc:Liquid_drop_model_of_nuclear_fission.jpg right 
+.ve-media wc:Liquid_drop_model_of_nuclear_fission.jpg right static 
 
 The first law of thermodynamics asserts that heat is energy, which is generated in the process of nuclear fission. The purpose of nuclear reactors is to house this process in order to reap its energy output. Fission occurs when a neutron hits a larger atom's nucleus which is  split into two smaller atoms and some neutrons. The neutrons created from the split can then generate a chain reaction by hitting other large atoms and so on. In the case of most nuclear reactors, the fuel of choice is uranium, which acts as the large atom in nuclear fission. Uranium is used because its atoms easily split apart, it is easy to initiate and control, and it is abundant on Earth. [^1]
 
