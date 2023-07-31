@@ -5,6 +5,7 @@
     - [Science](science/)
     - [Disasters](nuclear-disasters/)
     - [Present and Future](present-and-future/)
+
 <link href="favicon.ico" rel="icon"/>
 
 # Origins of Nuclear Research[^1]
