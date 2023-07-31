@@ -94,6 +94,7 @@ In order to prevent further accidents, there were some modifications done to the
 
 
 ![](https://digitalscholarship.brynmawr.edu/reactor-room/assets/images/rothbart-chernobyl-gauges-web.jpg)
+
 *Return to main page*
 
 
