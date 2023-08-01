@@ -206,9 +206,8 @@ IAEA director has announced that his agency’s “comprehensive, neutral, objec
 
 ### Nuclear History {href=nuclear-history/}
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Laura_and_Enrico_Fermi_1954.jpg)
-The present and future of nuclear energy.
 
-*The present and future of nuclear energy.*
+*The history of nuclear technology from 1930s to the 1980s.*
 
 ### Present & Future {href=https://digbmc.github.io/reactor-jct/present-and-future}
 
