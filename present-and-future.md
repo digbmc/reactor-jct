@@ -147,18 +147,22 @@ Nuclear energy, due to the scale of damage possible if it is mishandled or weapo
 
 ### Accidents and Disasters {href=nuclear-disasters/}
 ![](https://upload.wikimedia.org/wikipedia/commons/1/15/Chernobyl_2019_G03.jpg)
+
 *Nuclear accidents over time.*
 
 ### Nuclear History {href=nuclear-history/}
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Laura_and_Enrico_Fermi_1954.jpg)
-*The present and future of nuclear energy.*
+
+*The history of nuclear technology from 1930s to the 1980s.*
 
 ### How It Works {href=science/}
 ![](https://upload.wikimedia.org/wikipedia/commons/3/30/NSC-Oct-2017.jpg)
+
 *How nuclear power and reactors work.*
 
 ### Reactor Room Project {href=https://digitalscholarship.brynmawr.edu/reactor-room/}
 ![](https://digitalscholarship.brynmawr.edu/reactor-room/assets/images/rothbart-chernobyl-gauges-web.jpg)
+
 *Return to main page.*
 
 
