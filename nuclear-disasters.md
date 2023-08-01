@@ -222,6 +222,12 @@ The present and future of nuclear energy.
 
 *How nuclear power and reactors work.*
 
+### Reactor Room Project {href=https://digitalscholarship.brynmawr.edu/reactor-room/}
+
+![](https://digitalscholarship.brynmawr.edu/reactor-room/assets/images/rothbart-chernobyl-gauges-web.jpg)
+
+*Return to main page.*
+
 
 [^1]:  Lowet, Daniel. “K-19 Nuclear Submarine 1961 Incident.” Stanford University, 18 Mar. 2017, [large.stanford.edu/courses/2017/ph241/lowet2/](http://large.stanford.edu/courses/2017/ph241/lowet2/)]
 [^2]:  Johnston, Wm. Robert. “K-19 Submarine Reactor Accident, 1961.” Johnston's Archive, 1961, 10 May 2005, [www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html. ](http://www.johnstonsarchive.net/nuclear/radevents/1961USSR1.html)
