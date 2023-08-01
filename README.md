@@ -10,7 +10,7 @@
 
 # Nuclear Power 
 
-Welcome to the digital exhibition on nuclear power and weaponry. This exhibition explores the history, science, and future of nuclear power. Nuclear power is a controversial topic, but it is an important one to understand. The goal of this exhibition is to provide one with the information one needs to draw informed, unbiased conclusions on nuclear power, in order to enhance your experience of the overall Chornobyl reactor room project. We hope you enjoy the exhibition.
+Welcome to the digital exhibition on nuclear power and technology. This exhibition explores the history, science, and future of nuclear power. Nuclear power is a controversial topic, but it is an important one to understand. The goal of this exhibition is to provide one with the information one needs to draw informed, unbiased conclusions on nuclear power, in order to enhance your experience of the overall Chornobyl reactor room project. We hope you enjoy the exhibition.
 
 
 ## Explore {.cards}
@@ -19,7 +19,7 @@ Welcome to the digital exhibition on nuclear power and weaponry. This exhibition
 ### History {href="/nuclear-history"}
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Laura_and_Enrico_Fermi_1954.jpg)
 
-The history of the development and implementation of nuclear power from the 1930s to the 1980s.
+The history of nuclear technology from 1930s to the 1980s.
 
 ### Science {href="/science"}
 ![](https://upload.wikimedia.org/wikipedia/commons/3/30/NSC-Oct-2017.jpg)
