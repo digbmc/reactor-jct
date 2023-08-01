@@ -87,7 +87,7 @@ In order to prevent further accidents, there were some modifications done to the
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Laura_and_Enrico_Fermi_1954.jpg)
 
-*The history of the development and implementation of nuclear power from the 1930s to the 1980s.*
+*The history of nuclear technology from 1930s to the 1980s.*
 
 
 ### Reactor Room Project {href=https://digitalscholarship.brynmawr.edu/reactor-room/}
