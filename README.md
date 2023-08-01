@@ -36,5 +36,5 @@ A representative survey of nuclear incidents.
 
 The present state and predicted future of nuclear energy.
 
-## [Back to main site](https://digitalscholarship.brynmawr.edu/reactor-room/)
+## [Back to Main Site](https://digitalscholarship.brynmawr.edu/reactor-room/)
 
