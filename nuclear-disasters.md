@@ -6,13 +6,13 @@
     - [Disasters](nuclear-disasters/)
     - [Present and Future](present-and-future/)
 
-#### Chornobyl Among Nuclear Disasters
+## Chornobyl Among Nuclear Disasters
 
 Nuclear disasters with catastrophic consequences, like Chornobyl, dominate the public's perception of what could become of potential failures in nuclear facilities. Prominence of nuclear bombs and significant meltdowns seem to suggest that while any resource-related mishaps may be problematic, the failures of nuclear-powered sources bring about exceptionally tragic outcomes. While that may be true in particular cases, they are not representative of nuclear-related incidents as a collective. It is, therefore, necessary to further analyze nuclear incidents and consider the extent to which misfortune arises from the use of nuclear power itself, and how much can be attributed to human errors and intentions, substandard technological conditions, and various external factors–as is the case with any other type of incidents and disasters. 
 
 Nuclear incidents occur under various circumstances and affect its victims in more ways than one, serving as a reminder to stay vigilant in everyday situations. By presenting a broader spectrum of incidents related to nuclear use and radiation, we can better contextualize Chornobyl’s role in the history of nuclear and radiological disasters, recognizing it as the anomaly it is. With a biological and cultural impact that outlasts any other industrial nuclear incidents in history, the legacy of Chornobyl remains our ongoing subject of study. 
 
-#### Radiological Disasters from 1896-2020
+### Radiological Disasters from 1896-2020
 
 The graphs of [radiological disasters from 1896-2020](https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link) present the collection of all radiological disaster by countries, causes and deaths as documented by Johnston's Archive. 
 
@@ -59,7 +59,7 @@ The person in charge of the test failed to report the damage to superiors and di
 
 .ve-media wc:K-19.jpg caption = "Problem-plagued K-19, disabled in the North Atlantic on 29 February 1972. Picture taken on board of the US Navy plane."
 
-#### <a id="k27">K-27</a>
+<h4 id="k27">K-27</h4>
 
 The K-27 was sent off on a five-day trip to conduct checkups for a 70-day mission, collecting data on two experimental liquid metal-cooled reactors which featured a new design intended for the Soviet army. The goal was to have the first USSR submarine remain submerged for 50 consecutive days. 
 
@@ -75,7 +75,7 @@ The captain did make a crucial decision to ignore orders from the division to cu
 
 .ve-media wc:The_dead_sailors_of_the_submarine_%22K-27%22.jpg caption = "The deceased sailors of the submarine K-27"
 
-#### <a id="Texas-radiological-assault">Texas Radiological Assault</a>
+<h4 id="Texas-radiological-assault">Texas Radiological Assault</h4>
 
 A man from ==Harris County, Texas=={flyto:Q26676,7} deliberately exposed his 11-year-old son to radiological material on multiple occasions, resulting in serious consequences. The man had obtained capsules of ==<u>Cesium 137</u>=={description="a radioactive isotope commonly used in medical devices, gauges, and also produced as a byproduct of nuclear weapons and reactors. It is worth noting that approximately 27 kg of Cesium 137 was generated during the Chornobyl disaster."} [^5] and used under 5-7 occasions, placing it inside headphones, pillows and cushions used by his son. In 1973, a plastic surgeon diagnosed the boy's skin lesion as being radiation-induced, confirming the harmful effects of the exposure. 
 
@@ -83,24 +83,24 @@ As a result, the boy underwent 16 operations between 1974 and 1978, including nu
 
 .ve-media wc:Strahler_CS137.jpg caption = "137 Cesium radioactive source/emitter"
 
-#### <a id="Tammiku-Stolen-Source">Tammiku Stolen Source</a>
+<h4 id="Tammiku-Stolen-Source">Tammiku Stolen Source</h4>
 
 Three brothers stole Cesium 137 from a nuclear waste factory in ==Tammiku, Estonia=={flyto:Q1356491,7}. One of the brothers placed the stolen metal block in his jacket pocket. He was hospitalized within 4 days and passed away just two days later, with the cause of death determined to be kidney failure, showing no signs of radiation injury. Unaware of the danger, the victim's stepson placed the metal in a kitchen drawer. After eight days, he too was hospitalized with radiation burns detected on his body. The authorities were promptly notified. 
 
 The man who carried the stolen source home received a dose of ==<u>183,000 rads</u>=={description="rad stands for radiation absorbed dose and measures the amount of energy deposited per unit of weight of human tissue. A rem is the dosage received from the exposure to a rad. It is the number of rads multiplied by the quality factor of the particular source of radiation."} [^29] to his thigh and a whole-body dose of 4,000 rads. Other family members also received whole-body doses ranging from 100 to 400 rads. Tragically, even the family dog, which slept near the metal, succumbed to the radiation exposure and died. [^8] 
 
-#### <a id="Guangzhou-radiological-assault">Guangzhou Radiological Assault</a>
+<h4 id="Guangzhou-radiological-assault">Guangzhou Radiological Assault</h4>
 
 A radiology scientist based in ==Guangzhou, China=={flyto:Q16572,7} used ==<u>Iridium 192</u>=={description="Iridium 192 is a man-made radioactive element commonly utilized in the medical field to combat cancer cells, produced through the irradiation of nonradioactive iridium in a nuclear reactor. "} pellets to target his colleague and former business partner. With forged documents, the scientist obtained an industrial machine containing Iridium 192 and enlisted an accomplice to help. They installed the machine above the ceiling panels in the victim's office and activated it when the victim was present. 
 
 After approximately two months, the victim began to suspect a connection between his deteriorating health and radiation exposure. The primary victim was exposed to a dose ranging from 70 to 150 rads, while an additional 78 hospital staff members were also injured.[^10] 
 
-#### <a id="San-Jose-Radiotherapy-incident">San Jose Radiotherapy Incident</a>
+<h4 id="San-Jose-Radiotherapy-incident">San Jose Radiotherapy Incident</h4>
 
 The ==San Jose=={flyto:Q3070,7} radiotherapy incident in 1996 involved a significant error in a ==<u>Cobalt 60</u>=={description="Cobalt 60 (Co-60) is a radioactive isotope used in medical applications for radiotherapy treatment. It is produced as a byproduct of nuclear reactors when metal structures, such as steel rods, are exposed to neutron radiation."} radiotherapy unit, leading to overdosages of approximately 60%. This incident resulted in the deaths of 7 to 17 individuals, although there were debates regarding whether the deaths were caused by the radiotherapy exposure or the underlying illnesses themselves. Additionally, 81 individuals suffered injuries as a result of the overexposures. [^5] [^11]   
 .ve-media wc:Hospital_San_Juan_de_Dios._San_José._Costa_Rica.jpg caption = "Hospital San Juan de Dios. San José"
 
-#### <a id="Orphaned-source-in-Goiania-Brazil">Orphaned Source in Goiania Brazil</a>
+<h4 id="Orphaned-source-in-Goiania-Brazil">Orphaned Source in Goiania Brazil</h4>
 
 An abandoned radiotherapy unit in a demolished clinic in ==Goiania Brazil=={flyto:Q83189,7} contained a highly dangerous source of Cesium 137, amounting to 1375 curies. Two individuals dismantled the equipment and sold the source to a local junkyard, unknowingly spreading the radioactive material.
 
@@ -109,14 +109,14 @@ A number of people examined the material closely, took parts of it home, and dis
 Approximately 112,800 people were examined, with 129 individuals sustaining injuries and 20 requiring hospitalization. There were five deaths and numerous injuries, including radiation burns, with some individuals needing amputations of fingers. [^13]   
 .ve-media wc:02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg caption = "the radioactive source involved in the 1987 accident in Goiânia, Brazil."
 
-#### <a id="Castle-Bravo-Nuclear-testing">Castle Bravo Nuclear Testing</a>
+<h4 id="Castle-Bravo-Nuclear-testing">Castle Bravo Nuclear Testing</h4>
 
 During the Castle Bravo nuclear testing in 1954 as part of the United States' Operation Castle at ==Bikini Atoll=={flyto:Q152225,7}, prototypes of the first weaponized thermonuclear weapons were tested. The initial shot, codenamed "Shrimp" TX-21, was expected to have a yield of 6 megatons but in reality yielded 15 megatons. [^15] A Japanese fishing boat just outside the restricted zone unknowingly received the fallout. The 23 crew members were unaware of the hazardous nature of the material and did not take precautions to minimize their contact with it. Some crew members even tasted the substance.  
 
 As a result, all crew members were hospitalized, and aggressive blood transfusions were administered after the captain recognized the sickness. One person died as a result of the exposure. Two hundred and fourty-six islanders residing on islands west of Bikini under US jurisdiction were exposed to the fallout and were evacuated two days later. Some islanders inadvertently ingested the fallout. Later in life, these islanders exhibited a high frequency of thyroid anomalies. Thirty-seven US naval personnel experienced ==<u>beta burns</u>=={description="Beta burns are burns caused by beta particles. They are shallow surface burns, usually of skin and less often of lungs or gastrointestinal tract, often as results of hot particles or dissolved radionuclides that came to direct contact with or close proximity to the body."} from the fallout. [^16] 
 .ve-media wc:Castle_Bravo_005.jpg caption = "Castle Bravo nuclear test taken on March 1st 1954"
 
-#### <a id="SL-1-Reactor-excursion">SL-1 Reactor Excursion</a>
+<h4 id="SL-1-Reactor-excursion">SL-1 Reactor Excursion</h4>
 
 The SL-1 reactor was a prototype reactor designed for easy assembly in remote locations at the ==National Reactor Testing Station in Idaho, USA.=={flyto:Q1221,7} The reactor was water moderated and controlled by five aluminum-clad cadmium control rods. While three workers were reassembling the control rod drives on January 3 1961, one worker manually removed the center control rod rapidly over a 0.5-second period, causing the reactor to become supercritical. This resulted in a steam explosion with a total energy release of 1.3 x 108 joules, comparable to 30 kg of TNT. The worker who withdrew the rod was killed instantly by a control rod. The other two workers were burned and thrown by the explosion, with one dying instantly from impact and the other succumbing to head injuries and dying a few hours later. The release of radioactive material was largely contained within the building.
 High radiation levels delayed emergency responders’ entry into the reactor building. The bodies of the deceased workers were recovered on January 4 and January 9. In total, 22 personnel and responders received radiation doses ranging from 3-27 rads. [^17]
@@ -124,7 +124,7 @@ High radiation levels delayed emergency responders’ entry into the reactor bui
 
 ## Powerplant Failures: Consequences and Responses 
 
-#### <a id="Three-mile-island">Three Mile Island</a>
+<h4 id="Three-mile-island">Three Mile Island</h4>
 
 ##### Overview 
 
@@ -170,7 +170,7 @@ The NRC was strengthened and the industry established the Institute of Nuclear P
 Training reforms are among the most significant outcomes of the TMI-2 accident. Training became centred on protecting a plant's cooling capacity, whatever the triggering problem might be. Events of TMI led to the establishment of the Atlanta-based Institute of Nuclear Power Operations (INPO) and its National Academy for Nuclear Training. Close to half of the operators' training was in a full-scale electronic simulator of the TMI control room. The $18 million simulator permitted operators to learn and be tested on all kinds of accident scenarios. [^22]
 .ve-media wc:Presentation_at_Three_Mile_Island_Nuclear_Plant_Simulator_%2828751374767%29.jpg caption = "NRC Resident Inspector Zach Hollcraft (center) gives fellows from the White House Leadership Development Program a presentation from the Three Mile Island nuclear plant simulator"
 
-#### <a id="Fukushima-Daiichi">Fukushima Daiichi</a>
+<h4 id="Fukushima-Daiichi">Fukushima Daiichi</h4>
 ##### Overview
 
 On March 11, 2011, Great East Japan Earthquake and tsunami induced a disaster in northeastern Japan and initiated a severe nuclear accident at the ==Fukushima=={flyto:Q161176} Daiichi nuclear plant. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed. The tsunami inundated about 560 km2 and resulted in a human death toll of about 19,500 and much damage to coastal ports and towns, with over a million buildings destroyed or partly collapsed.
