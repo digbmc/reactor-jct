@@ -1,6 +1,6 @@
 .ve-style ./assets/custom.css
 
-.ve-header "The Basics of Nuclear Energy" wc:Nuclear_Power_Plant_Cattenom.jpg "By the 2023 Digital Scholarship Summer Fellows at Bryn Mawr College"
+.ve-header "The Basics of Nuclear Energy" wc:Nuclear_Power_Plant_Cattenom.jpg logo=https://digbmc.github.io/reactor-jct/favicon.ico url=# "By the 2023 Digital Scholarship Summer Fellows at Bryn Mawr College"
     - [Home](/)
     - [History](nuclear-history/)
     - [Science](science/)
@@ -10,7 +10,7 @@
 
 # Nuclear Power 
 
-Welcome to the digital exhibition on nuclear power and technology. This exhibition explores the history, science, and future of nuclear power. Nuclear power is a controversial topic, but it is an important one to understand. The goal of this exhibition is to provide one with the information one needs to draw informed, unbiased conclusions on nuclear power, in order to enhance your experience of the overall Chornobyl reactor room project. We hope you enjoy the exhibition.
+Welcome to the digital exhibition on nuclear power and technology. This exhibition explores the history, science, and future of nuclear power. Nuclear power is a controversial topic, but it is an important one to understand. The goal of this exhibition is to provide you with the information you need to draw informed, unbiased conclusions on nuclear power, in order to enhance your experience of the overall Chornobyl reactor room project. 
 
 
 ## Explore {.cards}
@@ -36,5 +36,5 @@ A representative survey of nuclear incidents.
 
 The present state and predicted future of nuclear energy.
 
-## [Back to Main Site](https://digitalscholarship.brynmawr.edu/reactor-room/)
+## [Back to the Reactor Room Site](https://digitalscholarship.brynmawr.edu/reactor-room/)
 
