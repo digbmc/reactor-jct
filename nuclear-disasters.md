@@ -16,10 +16,10 @@ Nuclear incidents occur under various circumstances and affect its victims in mo
 
 The graphs of [radiological disasters from 1896-2020](https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link) present the collection of all radiological disaster by countries, causes and deaths as documented by Johnston's Archive. 
 
-The following table records nuclear and radiological incidents selected from the aforementioned collection. They serve as representative examples, highlighting some of the most frequent causes for nuclear and radiological incidents in addition to nuclear power plant failures. Those cases include malfunctioning reactors on a smaller, portable scale, criminal acts with radiological materials, orphaned and stolen sources, and nuclear testing for military use. Some of the lesser-known cases discuss the danger of nuclear and radiological materials at a more personal level, suggesting that while such incidents may occur more frequently, their potential harm can still be managed and mitigated. As for the more noted incidents, we emphasize factors contributing to its transpiration that may not be unique to “nuclear” accidents and therefore consider human operation rather than nuclear energy as the primary point of caution. 
-
 <iframe src="https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true"
  width="750" height="750"></iframe>
+ 
+The following table records nuclear and radiological incidents selected from the aforementioned collection. They serve as representative examples, highlighting some of the most frequent causes for nuclear and radiological incidents in addition to nuclear power plant failures. Those cases include malfunctioning reactors on a smaller, portable scale, criminal acts with radiological materials, orphaned and stolen sources, and nuclear testing for military use. Some of the lesser-known cases discuss the danger of nuclear and radiological materials at a more personal level, suggesting that while such incidents may occur more frequently, their potential harm can still be managed and mitigated. As for the more noted incidents, we emphasize factors contributing to its transpiration that may not be unique to “nuclear” accidents and therefore consider human operation rather than nuclear energy as the primary point of caution. 
 
 | Event | Type of Accident | Date | Deaths | 
 | ------------ |:-------------:| -----:|-----:|
@@ -60,7 +60,7 @@ With no coolant system in place, the crew had to fix the leak using raincoats an
 
 The person in charge of the test failed to report the damage to superiors and did not perform necessary repairs. Additionally, the captain did not respond immediately after the leak occurred. The crew members were sworn to secrecy, routinely lying to doctors during checkups for decades following the accident.
 
-.ve-media wc:K-19.jpg caption = "Problem-plagued K-19, disabled in the North Atlantic on 29 February 1972. Picture taken on board of the US Navy plane."
+.ve-media wc:K-19.jpg static caption = "Problem-plagued K-19, disabled in the North Atlantic on 29 February 1972. Picture taken on board of the US Navy plane."
 
 <h4 id="k27">K-27</h4>
 
