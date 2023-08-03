@@ -19,7 +19,7 @@ The graphs of [radiological disasters from 1896-2020](https://public.tableau.com
 The following table records nuclear and radiological incidents selected from the aforementioned collection. They serve as representative examples, highlighting some of the most frequent causes for nuclear and radiological incidents in addition to nuclear power plant failures. Those cases include malfunctioning reactors on a smaller, portable scale, criminal acts with radiological materials, orphaned and stolen sources, and nuclear testing for military use. Some of the lesser-known cases discuss the danger of nuclear and radiological materials at a more personal level, suggesting that while such incidents may occur more frequently, their potential harm can still be managed and mitigated. As for the more noted incidents, we emphasize factors contributing to its transpiration that may not be unique to “nuclear” accidents and therefore consider human operation rather than nuclear energy as the primary point of caution. 
 
 <iframe src="https://public.tableau.com/views/radiationnew/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true"
- width="645" height="955"></iframe>
+ width="750" height="750"></iframe>
 
 | Event | Type of Accident | Date | Deaths | 
 | ------------ |:-------------:| -----:|-----:|
