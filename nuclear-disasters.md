@@ -47,7 +47,7 @@ The following table records nuclear and radiological incidents selected from the
     - Q488690 8 marker "Dauphin County, PA"
     - Q161176 8 marker "Fukushima"
     
-#### <a id="k19">K-19</a>
+<h4 id="k19">K-19</h4>
 
 The K-19 submarine was the first ballistic-missile equipped nuclear submarine, carrying three ballistic missiles with a range of 650km. During its first mission as a US attacker on June 18, 1961, the submarine experienced testing pressure that exceeded its designed pressure at ==Abrosimov Bay=={flyto:Q39265625,7}, resulting in damaged piping in the primary cooling unit. This led to a drop in pressure, causing the reactor water to boil and the reactor room temperature to reach 140°C, resulting in a fire. 
 
