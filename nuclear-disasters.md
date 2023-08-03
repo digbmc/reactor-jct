@@ -37,7 +37,7 @@ The following table records nuclear and radiological incidents selected from the
 
 ## {.show-active}
 
-.ve-map basemaps=OpenStreetMap,Esri_WorldPhysical,Stamen_Watercolor right
+.ve-map basemaps=OpenStreetMap,Esri_WorldPhysical,Stamen_Watercolor sticky right
     - Q39265625 8 marker "Abrosimov Bay"
     - Q80413 8 marker "Novaya Zemlya"
     - Q26676 8 marker "Texas"
