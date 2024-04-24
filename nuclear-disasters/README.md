@@ -109,7 +109,8 @@ An abandoned radiotherapy unit in a demolished clinic in ==Goiania Brazil=={flyt
 
 A number of people examined the material closely, took parts of it home, and distributed it among their families. Some even applied it directly to their skin. Certain components were sold to a second junkyard. Initially, doctors misdiagnosed the resulting illnesses as tropical diseases, but later suspected radiation as the cause. Fortunately, a medical physicist intervened and prevented firefighters from disposing of the substance in a nearby river. Authorities were alerted, and areas of contamination were identified. Treatment centers were established in the Olympic stadium to care for the injured. 
 
-Approximately 112,800 people were examined, with 129 individuals sustaining injuries and 20 requiring hospitalization. There were five deaths and numerous injuries, including radiation burns, with some individuals needing amputations of fingers. [^13]   
+Approximately 112,800 people were examined, with 129 individuals sustaining injuries and 20 requiring hospitalization. There were five deaths and numerous injuries, including radiation burns, with some individuals needing amputations of fingers. [^13]
+
 .ve-media wc:02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg static caption = "the radioactive source involved in the 1987 accident in Goiânia, Brazil."
 
 <h4 id="Castle-Bravo-Nuclear-testing">Castle Bravo Nuclear Testing</h4>
